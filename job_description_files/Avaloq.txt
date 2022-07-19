@@ -1,0 +1,43 @@
+Company Description
+
+Writing the future. Together.
+Avaloq is a value driven, fast-paced financial technology and services company and we are committed to developing the banking solutions of tomorrow.
+
+By joining Avaloq, you’ll become a key part of our effort to power the digital transformation of the financial services industry. Our ambition is big and bold – to provide full end-to-end digital solutions by combining our leading efficiency with a flexible, responsible digital user experience. Headquartered in Zurich, Avaloq has over 2,000 employees globally. More information is available at www.avaloq.com
+
+Job Description
+
+Your team
+With the Avaloq Data Synthesizer we deliver customer like data for development and testing purposes. Synthesizer is used by internal projects, SaaS Centres and our licensed customers. Synthesizer is a unique tool that provides robust data which is modeled on but not derived from Productive data.
+Your mission:
+Work as an integral part of the Global Agile Synthesizer Development Team
+Design, develop and maintain thought-out solutions within the team’s responsibility
+Improve and optimize existing functionalities
+Design and build new capabilities
+Support existing and potential new customers on all aspects of Synthesizer
+
+Qualifications
+
+What you need
+Bachelor's Degree in Computer Science or equivalent
+Sound understanding of database technologies
+Strong skills in PL/SQL
+Being eager to learn and understand the business needs aiming to provide clean designs and high-quality code
+Strong conceptual and analytical mind with a structured and autonomous approach to work on complex technical and business problems
+Able to relate to relevant internal and external stakeholders
+Fluent in spoken and written German
+Knowledge of the German Banking and Finance domain
+You will get extra points for the following
+Experience & Knowledge with Avaloq Banking Suite , specifically Avaloq Core Platform (ACP)
+Any experience with Data Anonymisation tools and concepts
+Awareness of regulations such as GDPR
+
+Additional Information
+
+Now let's talk about perks and compensation
+We offer high flexibility in regards to working models (e.g. part time and home office models are possible depending on business requirements). Our base salaries are competitive and if you prove to be a superstar, you might even be entitled to an extraordinary achievement reward. Avaloq aims to share its success with all its employees by paying out “Success Share Units” depending on its performance in a given year.
+At Avaloq we embrace diversity, we embrace difference. We are whole-heartedly committed to equal employment opportunities and we foster an inclusive culture where everyone’s' contributions are valued and their voices are listened to. We hire, compensate and promote regardless of origin, age, sexual orientation, gender identity or any other fascinating characteristics that make us different. Please note that our job descriptions are intended to be written in an inclusive and gender neutral language.
+Don’t be shy – apply!
+
+Please only apply online, preferably with pdf documents.
+Note to Agencies: All unsolicited résumés will be considered direct applicants and no referral fee will be acknowledged.

@@ -1,0 +1,30 @@
+These challenges are waiting for you:
+You build and maintain the tooling and infrastructure to automate the development, deployment, and upgrade processes
+You analyse current technologies used within the company and develop steps and processes to improve and expand upon them
+You identify and communicate technical improvements to increase the engineering productivity and quality of the product
+You develop software to integrate with internal backend systems to optimize internal processes
+You are working on a SaaS product in the interface of mobility and prop tech
+You develop automated pipelines for our cloud environments
+Who we are looking for:
+You have minimum 2+ years of experience as a DevOps Engineer or similar Software Engineering role and have already deployed infrastructure as code
+You have experience with public cloud infrastructure, preferable AWS
+You have a profound knowledge of Python
+You have a deep knowledge of SQL, preferable PostgreSQL
+You take ownership for the code you write
+You bring strong skills in English (C1) written and spoken
+Our Tech Stack:
+Frontend written in Vue.js
+Backend in Python using the Flask Web Framework following a microservice architecture
+PostgresSQL and AWS S3 for data persistence
+Containerized microservices using Kubernetes for orchestration
+Complete infrastructure is hosted on AWS
+Our Perks & Benefits:
+Flexible working hours and flat hierarchies.
+Possibility to work remotely.
+A company with traction in one of the last not-digitalized markets in Germany.
+A creative work environment and development opportunities.
+Full responsibility for your work area.
+Regular team events.
+Sports: With the Urban Sports Club Membership, you have flexible access to a big variety of sports everywhere in Munich and Europe.
+Our job offer DevOps Engineer for System Integration & Improvement (m/f/d) Remote sounds interesting? Then we are looking forward to receiving your application via Workwise.
+With our partner Workwise, you can apply for this job in just a few minutes without a cover letter and track the status of your application live.

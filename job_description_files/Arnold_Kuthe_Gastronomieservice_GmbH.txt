@@ -1,0 +1,31 @@
+Odysseus Data Services - is a fast-growing American company closely working together with the Observational Health Data Sciences and Informatics (or OHDSI, pronounced "Odyssey", https://www.ohdsi.org/) consortium, whose main mission is to improve health care systems around the world by collecting and organizing data on the treatment of various diseases and then combining this data into a single, standardized, universally-accessible knowledge base to bring out the value of health data through large-scale analytics. Due to our rapid growth, we now have a vacancy for a Big Data Engineer in the city of Berlin.
+Responsibilities
+Data Management and Big Data Engineering e.g. complex ETL, data analysis, data mappings, advanced transformations
+Architect and utilize Big Data Platforms for Big Data projects
+Develop solutions in Agile fashion following Scrum process and Test-Driven approach enabled with Atlassian tools (JIRA, Confluence)
+Develop solutions by applying industry best practices and coding standards
+Document architecture design by creating necessary architecture artifacts, including UML domain models, component and deployment diagrams. Document business requirements as user stories
+Create prototypes and POCs, as needed
+Design secure and compliant solutions by implementing necessary application security and following various regulatory laws (HIPAA, GDPR)
+And: Be a part of the dynamic open-source observational research OHDSI community, participate in workshops, hackathons and collaborate to implement observational research solutions e.g. have a fun time developing cutting-edge solutions
+Required Skills
+B.S. or M.S. degree in Information Technology or Computer Science — or equivalent experience in information technology and software development
+Complex SQL, including Spark SQL, Hive QL
+Practical experience with ETL and big data processing
+Practical experience with RDBMS (any of the following - Oracle, PostgreSQL, SQL Server)
+Practical experience with MPP databases (any of the following - AWS RedShift, BigQuery, Synapse)
+Practical experience with Hadoop e.g. Spark, Hive, Impala
+Practical experience with one of the following platforms: AWS, GCP and Cloudera
+Experience designing and developing solutions using Agile software development approach
+Desired skills
+Experience in administering the Big Data platform infrastructure
+Knowledge of Java and Python
+Experience in solving DevOps-related tasks
+Experience with OMOP CDM, OHDSI ATLAS and other tools, methods and standards developed by OHDSI community
+What we offer
+An attractive work/life balance (40-hours per week)
+Comfortable office with all amenities
+Official employment in accordance with the local legislation
+Competitive salary
+Paid vacation and sick leave
+Free language courses

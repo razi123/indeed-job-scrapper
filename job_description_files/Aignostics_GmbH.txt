@@ -1,0 +1,37 @@
+Why us?
+Aignostics is a MedTech spin-off founded out of Europe's largest university hospital (Charité) and Berlin's Technical University. Our vision is simple: We want to beat cancer by revolutionizing the analysis of tissue samples with machine learning.
+
+As a Senior Software Engineer at Aignostics, you work hand in hand with our collaborators in academia and industry to push the state of the art of machine learning for digital pathology. You will architect and develop machine learning software for medical devices that will help to improve cancer research and diagnostics. Together with your colleagues you will take care of the machine learning software stack and its roadmap and thereby enable our teams to build medical grade quality and scalable machine learning models.
+
+This is a unique opportunity to join a diverse team of 50+ data scientists, software developers and biologists to work on problems that really matter, while being embedded in an exciting mix of scientific research and medical device development.
+Where your expertise is needed
+Plan and execute software projects connecting machine learning, software engineering and biomedical domain knowledge
+Plan and execute the development of software as a medical device
+Architect, maintain and supervise machine learning software roadmaps and stacks
+Transform proof-of-concept machine learning algorithms into automated, tested and production-ready systems
+Support and mentor junior colleagues
+What we are looking for
+Ph.D or MSc. in a relevant field, e.g. Computer Science, Machine Learning or Bioinformatics
+5+ years of work experience in agile software development (at a leading machine learning company)
+Advanced skills in Python, Linux, distributed computing, cloud computing and machine learning software stacks
+Passion for clean code and high standards for quality assurance
+Experience with distributed data processing (Hadoop, Spark, Ray), databases, and cloud infrastructure (GCloud, AWS)
+Ability to independently define, organize and complete software development projects
+Excellent communication
+Eagerness to lead initiatives, learn new technologies and excel in a complex space
+Driven self-starter, well-organized, and a strong team player
+Bonus points for
+Good understanding of machine learning and data science
+Good understanding of parallel computing, system efficiency, and scalability
+Exposure to biomedical data
+Leadership experience in a medical device/software development environment
+Experience in considering Information Security criteria under ISO 27001
+Our offer
+Join a purpose-driven start up: We are doing our bit to help beat cancer and improve patient outcomes. Come help us make a difference!
+Fun, cutting-edge AI research and development, with involvement of Charité, TU Berlin and our other partners
+Work with a welcoming, diverse and highly international team of colleagues
+Ability to take responsibility and grow your role within the startup
+Competitive remuneration package in addition to perks and benefits
+Work from our beautiful Berlin with remote flexibility
+Flexible working hours
+www.aignostics.com
