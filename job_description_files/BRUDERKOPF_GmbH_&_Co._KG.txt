@@ -1,0 +1,35 @@
+bruderkopf ist der vertrauensvolle und unabhängige partner der deutschen wirtschaft im personalmarketing und recruiting. unser kundenstamm reicht vom inhabergeführten handwerksbetrieb, über mittelständische dienstleistungs- und handelsunternehmen, bis hin zum global agierenden industrieunternehmen im familienbesitz.
+
+unser mandant ist einer der erfolgreichsten bereiche innerhalb einer weltweit operierenden unternehmensgruppe, die als weltmarktführer in mehr als 80 ländern über 83.000 mitarbeiter beschäftigt. für ihn suchen wir einen senior data engineer (m/w/d).
+
+wahlweise ist die arbeit am standort unseres mandanten oder remote möglich.
+
+aufgaben
+
+du entwickelst datenmodelle und -strukturen
+du erweiterst das data lake um neue datenquellen
+du implementierst daten pipelines zur extraktion und bereitstellung strukturierter und unstrukturierter daten für die unterschiedlichen (internationalen) unternehmensbereiche
+du bist die ansprechperson für sämtliche fragen aus dem bereich data engineering aus dem unternehmen
+du übernimmst das strategische weiterentwickeln der dateninfrastruktur
+qualifikation
+
+abgeschlossenes studium (wirtschafts-) informatik oder vergleichbare studiengänge
+du bringst erfahrung in relevanten programmiersprachen wie z.b. scala, java oder python und in der entwicklung von etl prozessen mit
+du hast kenntnisse in hadoop ecosystem (hdfs, kudu, hive, impala, solr, spark, kafka)
+du bringst erfahrung im aufbau von datenstrukturen (z.b. data lake, data warehouse) mit
+deine deutsch - und englischkenntnisse sind auf einem sehr guten level
+teamfähigkeit, analytische sowie strukturierte arbeitsweise gehören zu deinen stärken
+benefits
+
+besondere unternehmenskultur, in der wertschätzung und teamgeist großgeschrieben werden
+umfassende einarbeitung und die möglichkeit, sich persönlich und fachlich weiterzuentwickeln
+vielfältige benefits wie ein aktiv- & gesundheitsprogramm, vergünstigtes essen in der kantine, firmenevents und sonderzahlungen z.b. bei jubiläum, hochzeit, geburt
+gelebte diversität und vielfalt
+freiraum sich auszuprobieren und neue ideen einzubringen, wird durch positive fehler- und feedbackkultur unterstützt
+arbeitsplatz im firmeneigenen, hochmodernen innovationszentrum
+hast du lust deine kenntnisse bei einem der innovativsten unternehmen deutschlands einzubringen?
+
+wir freuen uns auf deine bewerbung und so geht es danach weiter:
+
+in der regel melden wir uns noch am selben tag zur vereinbarung eines kurzen kennenlerngespräches
+passt alles, kommt es zum persönlichen interview mit unserem mandanten

@@ -1,0 +1,34 @@
+about peregrine
+
+peregrine empowers teams to build a safer and more sustainable mobility ecosystem for all.
+
+bringing connected, perception-technology behind the windshield of any vehicle, peregrine uses ai-powered video analytics to turn miles driven into valuable information. peregrine’s unique visual data intelligence uses insights from the edge to identify road risk in commercial fleet operations, monitor traffic and understand road infrastructure.
+
+our berlin-based diverse and international team brings together academic excellence and industry experience in robotics and autonomous driving from both silicon valley as well as from europe - including leading automotive oems and suppliers such as bosch, volkswagen, here, and tomtom. we’re looking for smart, driven and passionate people motivated to solve hard problems. are you ready to join us on this mission?
+
+tasks
+
+as part of our development team, you will own our infrastructure engineering. this includes the design, development and contribution to the cloud infrastructure, web services and web apps of peregrine, dealing with millions of data points gathered by our intelligent video telematics solution. the backend components are the backbone of peregrine - responsible for collecting, combining and mining all kinds of data in order to generate and provide insights to our customers in an easily accessible way, through diverse api services. the frontends present the data to our customers by showing e.g. statistics, heat maps, etc. in a comprehensible and actionable format.
+
+requirements
+
+proven knowledge in developing, orchestrating and maintaining highly responsive and reliable web services, as well as the underlying related tools needed to maintain these services (e.g. experience on aws, gcp or azure with kubernetes, docker, infrastructure as code, ...)
+expertise with big data, big data analytics databases and scalable data architectures
+experience with design and development of web apis and web apps (e.g. using typescript, react, node.js, go, …)
+knowledge of devops tools: ci/cd, scripting (e.g. shell, python,..), monitoring (e.g. prometheus, ...).
+experience with managing distributed infrastructures and knowledge in networking (routing, sdn)
+you develop with security and data privacy in mind
+you have a strong feeling for clean code and well-tested codebases
+you embody a collaborative, team first mindset
+fluency in git
+we don’t expect anyone to check all these boxes mentioned above! if a few of these points apply to you, we definitely want to talk!
+
+benefits
+
+we are committed to having a diverse and inclusive work environment as well as a flat organizational structure that promotes open communication. we value new opinions and ideas from all members of our team and foster a culture where we all learn from each other. we celebrate people of diverse backgrounds, experiences, abilities and perspectives. we encourage active participation in our design, innovation and development process. and of course we offer free drinks and snacks and flexible working time because we aim to create the working environment that we envision for ourselves, for everyone at peregrine.
+
+\--- notes on working at peregrine in times of covid-19 ---
+
+the health of our team and their families has top priority. that’s why we have been choosing to work from home since mid of march 2020. even more today, we want to enable the entire team to easily collaborate remotely as well as meet up for virtual social events.
+
+do you want to empower teams to build a safer and more sustainable mobility ecosystem for all using video analytics with us?

@@ -1,0 +1,48 @@
+your mission
+
+as a part of our infrastructure team, you will be working at the heart of nyris by maintaining and improving our core infrastructure. you are responsible for a collection of highly-available micro services that power our visual search. our goal is to reach 99.999% service availability, make the system resilient, maintainable, fault tolerant and easy to debug. additionally you keep deployments of the software engineering and data science teams easy and fast at the same time.
+
+\_\_you will: \_\_
+
+research and apply best-in-class infrastructure solutions to reach 99.999% service availability for our customers;
+work on ci/cd pipelines to make deployments easy, automatic and safe, so that our software development and data science teams can perform updates and rollbacks reliably;
+analyse problems and conceive resilient solutions, that prevent similar problems from reoccurring;
+improve and maintain observability tools such as log, tracing and metrics collection and analyse, so we and the software developers can pinpoint problems quickly;
+set up and update alerts based on our metrics, so we are aware of problems, before anyone even notices.
+we move quickly and adjust to changing priorities and conditions, and you'll be able to help us focus on key priorities and pragmatic solutions.
+
+your profile
+
+\_\_you should apply for this role if you: \_\_
+
+are able to manage your time, organize your work and structure your projects;
+you are efficient with digital communication and working with remote team members;
+you are sufficient with at least one programming language and are familiar with higher order functions like map, sort, filter and fold;
+have experience running and building docker images;
+have experience using k8s;
+have initial experience with different cloud providers or solutions (openstack, gcp, aws, etc.);
+have understanding of http protocol concepts like methods, headers and can interpret web server access logs;
+are familiar with the tcp/ip stack and can use tools such as traceroute and wireshark to analyze networking problems;
+are able to interact with the linux command line environment and write scripts;
+additional bonus for experience with functional programming languages such as f#, haskell, scala or nix, service meshes like linkerd or istio, concepts like gitops, site reliability engineering and other technologies like .net, prometheus, elasticsearch, mongodb, opentracing, rabbitmq and postgres.
+why us?
+
+your development is important to us.
+you will learn, grow professionally, contribute to an outstanding team, and play a decisive role in fueling a massive change in the world of visual search.
+
+furthermore we offer you:
+full or part-time permanent employment and a well-equipped workplace in either our office in düsseldorf or berlin - if you live somewhere else and prefer to work from home just talk to us. we also give you the opportunity to adapt your working hours flexibly to suit you;
+the opportunity to work from home and adapt your working hours flexibly to your needs;
+regular team retrospectives as well as individual feedback talks;
+an education budget of 2400 eur per year at your free disposal;
+work in an international environment with passionate, open-minded colleagues;
+tax-exempt benefits such as daily lunch allowances and birthday celebratory bonuses;
+a competitive salary;
+help with visa application and relocation from abroad;
+30 days of vacation and special leave if needed.
+not sure you meet 100% of our qualifications? please apply anyway! we understand that experience isn’t a set of bullet points - and the best stories start with the unexpected.
+
+\_\_when applying please include:
+a cv or résumé, shortly listing your job history and skills. links to your github and linkedin profiles are much appreciated.
+
+our hiring process for this role consists of an assessment measuring your skills, three video interviews and a neuroscientific test that checks your team fit.\_\_

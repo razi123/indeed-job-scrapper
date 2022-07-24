@@ -1,0 +1,60 @@
+data and machine learning (ml) are revolutionizing the way of doing business on a global scale. sennder is a european digital freight forwarder with a data-centric problem-solving approach to building the next generation of supply chain and road logistics services. do you want to help us to shape the future together?
+
+we are looking for a (senior) machine learning engineer (data science) to join our central machine learning engineering team as part of sennder’s data department. the department’s mission is to “relentlessly build exceptional value-adding products that inspire data-centricity in everything sennder does”. we’re a large, diverse team of ml/data engineers, data scientists, analysts and technical product people that are passionate by such mission. we want to attract and train world-class talent to form a incredible group that aim to provide you with the most productive and growth-friendly time of your career.
+
+all data dept. teams are multidisciplinar (e.g.: data engineering, mlops, data science). the teams’ scope ranges from creating a unique technological backbone for our data platform to developing advanced predictive and prescriptive analytical services. our proprietary data platform enables our operation teams to work in a distributed analytics-as-a-service ecosystem where everyone is empowered to be data driven in every decision they make. our predictive and prescriptive analytics services bring us an unprecedented competitive advantage in terms of business automation across the industry. the obtained insights are then translated in a better customer experience, enabling a scalability flywheel data and revenues grow exponentially with each other.
+
+every day, we acquire 3m+ new real-time data points (augmenting by the day!) about the cross-region road logistics industry in europe. this data is used to build the future of logistics marketplaces where pricing optimization, load-to-carrier recommendation, load search and network optimization happen in an automated fashion.
+
+can you even imagine where we can go with your help? let’s #keepontrucking... together!
+
+your mission:
+apply data science concepts to solve problems like pricing optimization, load-to-carrier recommendation, load search and logistics network optimization, among others;
+define the new state-of-the-art for machine learning engineering in the road logistics services;
+develop machine learning expertise beyond basic supervised and unsupervised learning, mentor and be mentored by other team members;
+prototype and subsequently operationalize innovative, data-intensive, end-to-end machine-learning-based decision engines, following the latest best practices on mlops;
+enforce the best principles in ml system design by balancing the feedback loop on data exploitation and data acquisition, follow the 80/20 ruling, focus on the right metric in every design decision and once a shippable amount of value is created, go live, evaluate, learn and iterate;
+demonstrate your leadership skills and manage a machine learning based project or product, which you will define through frequent cross-functional interactions with your peers as well with experienced logistics professionals and technical product owners, among other stakeholders;
+your profile:
+highly motivated with excellent communication and strong interpersonal skills;
+m.sc or phd in a quantitative field and/or working experience as a data scientist or machine learning engineer;
+t-shaped mindset: actual expertise on a single area but the ownership/willingness to contribute to the product end to end in order to ensure a healthy value creation chain;
+teamaholic. we don’t believe in super-heroes but rather in super-teams: teams that own products and are the single unit of work : )
+proficiency in python with ability to translate ideas into prototypes and prototypes into production;
+experience with working on machine learning projects to learn from structured data as well as deep knowledge on statistics;
+fluent written and verbal communication in english;
+bonus:
+deep knowledge of the theory and expertise on the application of machine learning;
+phd in machine learning and/or data mining fundamental topics and/or non-trivial applications of ml/dm foundations;
+top tier academic track on ml related conferences (e.g.: kdd, neurips, icml, aaai, ecml/pkdd);
+solid python and software engineering skills, including best practices like ci/cd and git;
+proven experience in contributing to machine learning engineering teams in industry (2+ yrs.);
+experience on mlops in modern cloud systems (preferrably, aws);
+experience with agile philosophies (e.g.: scrum, scrumban, kanban, xp) and project management tools (e.g.: jira);
+about sennder:
+sennder is moving trucks with the power of data to unlock endless and sustainable capacity at unparalleled quality. through our proprietary transportation operating system, built by our in-house tech teams, we not only connect shippers to our fleet of thousands of trucks, but also improve how they move products in sustainable, cost-efficient, and transparent ways - making the logistics industry fit for the future. in a traditional industry, we’re growing and moving fast to digitally automate all road logistics processes.
+we are building a curious team that is driven by an ambitious desire to solve the toughest logistics puzzles. what others may consider uncertainty, we see as an opportunity to learn and be proactive. we invite you to go on this journey with us and be part of one of europe’s inspiring growth stories as we fast-forward road logistics into digitalization.
+
+get to know us, our culture, green business, funding history, and more on our blog here.
+
+why us?
+at sennder, we want to maximize the individual’s potential for all employees and reinforce an inclusive culture and environment of continuous learning that empowers people to succeed as a team. in addition to humility, we value commitment, team spirit, respect, and kindness to build trusted relationships across teams. learn more on our career site.
+
+a fast-growing scale-up, where your work will make an impact on our growth and lead to several career
+opportunities;
+an international team of 900+ people with 65+ nationalities spread across 11 offices in 7 countries with english as our company language;
+culture of trust, constructive feedback and self-organization with a forever-agile mindset;
+a quarterly feedback and review process for personal development;
+a structured promotion process, providing everyone with fair and transparent career growth;
+learning and development opportunities on the job and through conversations with your manager;
+various opportunities to connect with colleagues, formally and informally, digitally or in person (when
+allowed), through regular team events, company get-togethers, and partnership events with other companies
+and local organizers.;
+when in office: unlimited snacks, drinks, and fruits;
+compliance with covid-19 restrictions when required with remote interviews, onboarding, and working;
+please send your application in english and help us reduce negative unconscious bias by leaving out your picture, age, address, and other unnecessary information in your cv. we only want to know the merits on which you’d be great for this role.
+
+we value humility and we're as interested in your character as we are in your talent. please apply, even if you feel you only meet part of our listed criteria. diversity drives our innovation and we offer a collaborative, dynamic and international work environment. just be yourself. we are excited to meet you and for you to join us in shaping the future of the logistics industry in europe.
+
+if you have any questions or problems please reach out to us at ta@sennder.com. we do not accept applications via email.
+\#li-ms1\_\_

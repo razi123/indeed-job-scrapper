@@ -1,0 +1,40 @@
+scout24 has been revolutionising the real estate market for over 20 years. with successful products on our platform and services such as flowfact, we are creating a digital ecosystem for the property sector in germany and austria. with our know-how and diverse services, we ensure market transparency and make complex decisions easy for our users.
+
+a diverse and inclusive team of proactive people awaits you at scout24. together, we bring innovative ideas forward in a data-driven environment. this is how ideas become reality.
+
+we need your support here.
+
+our philosopy here is simple: not only do your ideas count, but you do too. we want you to grow with us and become a permanent member of our team. because success develops together!
+
+what you can expect from us
+
+your time is precious: we offer flexible working hours, home office and 30 days holiday annually.
+commitment to diversity and an inclusive environment: we value diverse personalities, skills, values and backgrounds.
+being a part of a company that promotes the topic of sustainability and lives by it every day.
+have kids? we'll support you with a professional family service, which helps you to find a childcare centre or offers emergency childcare.
+moving? we offer support with the move and with the application for visas.
+further development: from professional know-how and language courses to workshops on individual growth skills – here you are the center of attention
+treat yourself to free coffee and tea, as well as fresh fruit, to strengthen you each day.
+stay healthy - take part in company sports classes, team runs and cycling events. also book massages or receive discounts for gyms.
+dogs are welcome: bring your dog to work (according to rules, of course!).
+we are a tech company: we work with the latest technical tools and hardware.
+as software engineer in the cloud infrastructure team, you will be part of an agile group enabling developers to easily run their applications in a consistent and reliable way by providing the compute- platform, that meets the networking, persistence and compute needs their applications have. this platform is built on top of aws (amazon web services), as well as popular open-source solutions such as kubernetes and aws cdk (cloud development kit).
+
+we use devops philosophies and practices to increase scout24’s ability to deliver customer value at high velocity.
+
+what we need from you
+
+develop state-of-the art tools and services around cloud infrastructure, e.g. kubernetes, networking and iac
+support the company wide adoption of your team’s products and cloud technologies
+solve challenging problems in a distributed system serving millions of customers
+apply product development thinking when developing the tools and services of your team
+be a mentor and share your knowledge in blog posts and at meetups and conferences
+what you need to bring
+
+in-depth knowledge of at least one leading cloud provider (amazon web services, google cloud platform) and their services and apis
+deep understanding of kubernetes microservices architectures and internal components
+confident presentation and strong influence skills - able to adapt level and style to the audience
+proficiency in modern programming languages - preferably go, kotlin, typescript or python
+values good api design and clean code
+experience with aws cdk ( nice to have)
+experience with designing and operating a network architecture in the cloud including load-balancing (aws albs), cdns (aws cloudfront) and logically isolated virtual networks (aws vpcs) (nice to have)

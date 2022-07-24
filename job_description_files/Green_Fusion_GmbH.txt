@@ -1,0 +1,37 @@
+we are looking for an experienced backend/devops engineer to join our young startup green fusion, where your work will directly enable the green revolution, reduce energy costs for renters and reduce co2 emissions from heating buildings (which is responsible for 17.5% of global ghg emissions). we use data driven techniques such as machine learning to optimise heating systems for buildings, as well as providing a frontend for remote monitoring and control of these heating systems.
+
+as one of the people leading the backend development, you will be a key part of architecting the transfer of data across the different services on the backend and transfer data between important clients, for example the web client, the industrial computers onsite and the machine learning optimization services. aswell as this you can be a key decision maker in the building of the backend team, and the direction of the software. this role has the ability to grow as the company does, and the outcomes could range from individual contributor to engineering manager to c-level, dependent on what you are interested in. this is a role where you should feel able to be creative.
+
+tasks
+
+strong linux administration/bash scripting experience \[2+ years of experience]
+backend experience, (ideally in nodejs, but similar language and willingness to learn is fine) \[2+ yoe]
+cloud/devops experience \[2+ yoe]
+relational database experience (postgres)
+javascript experience
+git experience
+requirements
+
+role will most likely include, but can be learnt on the job:
+opcua
+openvpn server administration
+keycloak and openidc administration
+nginx (reverse proxy) administration
+deployment
+domain/subdomain admin
+aws
+docker
+nice to have:
+react experience
+management experience
+startup experience
+software architecting experience
+benefits
+
+a vibrant office in the newly built ai campus
+a flat hierarchy with a culture of open and honest feedback
+a friendly working environment with collaboration and teamwork given the highest priority
+flexible working (partial home office, 4-days a week possible, good holiday allowance)
+employee stock option plan
+the ability to work on innovative technology that helps reduce carbon dioxide emissions
+possibility to work on open-source software

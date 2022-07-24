@@ -1,0 +1,43 @@
+klima.metrix is a young start-up in kreuzberg which wants to turn the vision of an emission-free economy into reality through technology. we want to bring complete co2 transparency into the economy and help companies to transition to climate neutrality. to achieve this, we are building a digital infrastructure consisting of an automated co2 footprint calculation based on existing data sources as well as a register for co2 ratings of companies and their products, and many more services based on this. all of this brings companies into action.
+
+to expand our small, young team, we are looking for nice and open-minded team members who are willing to take responsibility and want to make their contribution to this exciting growth phase. if you are eager to learn and tackle new problems and like to think outside the box, we believe you would be the perfect fit for our growing team.
+
+tasks
+
+responsibilities
+
+develop apis for our web app and our clients
+collaborate with the data and product team to calculate co2 emissions based on their requirements
+connect external services (apis) to our backend
+define the database schema based on our requirements
+work hand in hand with our frontend developers to provide the best fitting api for their requirements
+current tech stack
+
+node.js, typescript, react, mongodb, postgresql, aws cdk, github, docker, aws (lambda, ecs, dynamodb, api gateway)
+
+requirements
+
+at least 2 years of experience in backend development
+proven experience with node.js, at least one typed language and writing well tested software
+you are familar defining and modelling consumable apis
+ability to work collaboratively with other engineers and the product team
+ability to learn new strategies, patterns and skills
+nice to have:
+devops experience within aws(preffered) / gcp / azure, special in managing databases, api gateways, containers, ci/cd pipelines,...
+postgresql and mongodb experience
+typescript experience
+benefits
+
+the freedom to improve the architecture and use tools without being restricted to the status quo
+an open team culture, communication at eye level, responsibility and freedom for the individual are very important to us
+largely free time schedule: whether you want to start in the morning at 8:00 or at 11:00, or sometimes need a long lunch break, you can decide in consultation with the team itself
+an education budget which you can freely dispose of
+freedom to work from home most of the time. we help with the great equipped home office
+an office in the middle of kreuzberg with a huge roof terrace, a great view over berlin and a large barbecue for team events
+friday's feierabend drinks in the office (hopefully soon again after the pandamic)
+sadly, we are not able to provide any assistance concerning work visa or relocation.
+you must therefore hold a valid working visa and have your location in berlin or somewhere easy to reach berlin and be able to join regular team meetings in berlin.
+
+interested? please email us your cv, possible start date and salary expectations.
+
+we look forward to meeting you!

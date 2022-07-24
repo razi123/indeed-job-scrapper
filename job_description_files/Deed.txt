@@ -1,0 +1,41 @@
+we are a purpose-driven team making it easier for people to help one another. we measure success in terms of volunteer hours and donation dollars contributed by our customers - and by the tangible outcome of those efforts. if this intersection of technology and impact interests you, please reach out - we’d love to chat about working together!
+
+deed is a place where you can maximize your social impact while simultaneously growing as a software engineer, product designer, data analyst, customer success advocate, and valuable startup team member. we work with exciting and innovative companies like airbnb, adidas, and discord, and we are backed by visionary partners including y-combinator, earlybird ventures (uipath, n26), and dara khosrowshahi.
+
+making social impact accessible to both people and companies is an urgent challenge with many ways to contribute, and we’re excited to help folks get started, regardless of whether they choose deed. our team is a mix of impact experts and newcomers, so feel free to reach out with any questions and we’ll try to help.
+
+tasks
+
+what you'll do
+
+provide technical guidance and mentorship to peers
+implement the features and user interfaces of deed's products
+architect efficient and reusable front-end systems that drive complex web applications
+collaborate with product designers, product managers, and software engineers to deliver compelling user-facing products
+identify and resolve performance and scalability issues
+requirements
+
+what you'll bring
+
+3+ years of javascript experience, including concepts like asynchronous programming
+3+ years of html/css experience, including concepts like layout, specificity, cross-browser compatibility, and accessibility
+3+ years experience with browser apis and optimizing frontend performance
+demonstrated experience driving change within an organization and leading complex technical projects
+strong development and design experience using reactjs + react native
+benefits
+
+why deed?
+
+make a positive impact in the world! we do well when others do good.
+competitive salary and meaningful equity
+robust benefits including top-notch health-care, 401k matching, donation matching, volunteer time off
+friendly, inclusive, and collaborative culture focused on succeeding as a team
+hybrid work environment with wfh setup stipends
+complimentary lunch at the office
+great opportunities for travel between our awesome offices (nyc, san francisco, berlin)make a positive impact in the world! we do well when others do good.
+competitive salary and meaningful equity
+robust benefits including top-notch health-care, 401k matching, donation matching, volunteer time off
+friendly, inclusive, and collaborative culture focused on succeeding as a team
+hybrid work environment with wfh setup stipends
+complimentary lunch at the office
+great opportunities for travel between our awesome offices (nyc, san francisco, berlin)

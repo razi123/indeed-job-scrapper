@@ -1,0 +1,28 @@
+we are looking for:
+a new member for one of our portfolio companies.
+
+what will keep you challenged?
+
+designing, building/customising, and maintaining the infrastructure required for data collection and storage of our portfolio company
+defining data collection strategies and processes for the customers of our portfolio company and their suppliers and help them upload and validate the correct raw data
+identifying and integrating different data sources (via apis from external data providers, webscraping, etc.) into one central database
+once the product is built, creating prediction models to estimate scores for the product of our portfolio company
+which traits contribute to your success?
+
+work experience in data-intensive applications that consume data from a wide variety of sources
+experience in designing and building robust and flexible data pipelines and schemas
+knowledge of data warehouse spaces and etl/elt design
+background in the climate space environment (preferred)
+ideally, knowledge in lca/emission factor databases and libraries and being able to assess their scope, allocation and data reliability
+please note that we are looking for support in the berlin office of our portfolio company, with the possibility of working remotely. however, eligibility to work within the eu is required as well.
+
+what to expect working with our portfolio company:
+be part of a professional network within the project a family, with access to regular events, knowledge sharing and meetups
+attractive compensation package, including stock options
+financial and administrative support with your move to berlin
+minimum of 25 vacation days per year
+a mobility subscription that reduces or offsets your emissions from commuting
+a spotify subscription so you can do your most productive work
+a fitness subscription so you can clear your head in your time out of the office
+1000€ (flexible) learning budget to get 3x the horsepower
+apply below and become a part of our success story!
