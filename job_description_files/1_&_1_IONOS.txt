@@ -1,0 +1,36 @@
+ionos se
+network engineer (w/m/d) - data center
+bei ionos arbeiten sie bei dem führenden europäischen anbieter von cloud-infrastruktur, cloud-services und hosting-dienstleistungen partnerschaftlich mit unterschiedlichen teams zusammen. wir bieten ihnen eine perspektive in einer der zukunftssichersten branchen. uns zeichnen offene arbeitsstrukturen, duz-kultur und flache hierarchien mit unvergleichlichem team-spirit aus. wir sind fest davon überzeugt, dass job und spaß vereinbar sind und bieten ihnen hierfür das entsprechende umfeld. bei ständigem wachstum sind wir stets auf der suche nach neuen kolleg*innen. werden sie teil von ionos und lassen sie uns gemeinsam wachsen.
+
+das sind ihre aufgaben:
+für ein hochmotiviertes team von netzwerk-expert*innen suchen wir nach weiterer unterstützung. als network engineer (w/m/d) sind sie zuständig für planung, betrieb und weiterentwicklung von unseren globalen data center netzwerken.
+es erwarten sie moderne, weltweit verteilte und massiv skalierende infrastrukturen. in einer kultur, die großen wert legt auf kreative ideen, agile arbeitsmethoden, eigeninitiative und mitbestimmung, stehen sie vor folgenden spannenden aufgaben:
+administration und entstörung hochverfügbarer, komplexer und anspruchsvoller netzwerk landschaften inklusive der teilnahme an einer rufbereitschaft.
+erstellung und implementierung von modernen netzwerk designs und evaluierung und bewertung neuer technologien und produkte.
+testen und implementieren von neuen features sowie planung und durchführung internationaler rollouts.
+unterstützung der gesetzten ziele durch eine effiziente betriebsarchitektur, aktives lifecycle-management und schlanke prozesse in einem agilen netops umfeld.
+konzeption, aufbau und weiterentwicklung von lösungen zur netzwerk automatisierung.
+
+das wünschen wir uns:
+sie haben informatik studiert oder eine vergleichbare berufsausbildung abgeschlossen und berufserfahrung im netzwerkbereich. sie kennen sich aus mit den gängigen routing protokollen wie bgp, ospf, is-is und overlay-technologien wie vxlan. außerdem bringen sie folgendes mit:
+mehrjährige erfahrung mit traditionellen netzwerk herstellern wie cisco und juniper. sie können netzwerk-funktionen aber auch auf linux-systemen implementieren.
+leidenschaft und begeisterung für neue technologien wie netzwerk disaggregierung mit whitebox switchen, sonic und cumulus.
+spaß an der automatisierung mit ansible, puppet und python anstatt das gleiche immer wieder manuell zu machen.
+sie sind - wie wir auch - ein fan von open-source, insbesondere von linux.
+sie können sich mit ihrem über mehrere deutsche und internationale standorte verteilten team fließend in deutsch und englisch verständigen.
+job-info
+standort: karlsruhe oder berlin
+typ: vollzeit
+kategorie: it-qualitätssicherung / -management | it-schnittstellenfunktionen | it-systemadministration
+berufserfahrung: berufseinsteiger*innen | professionals
+kennziffer: 2601
+über ionos
+ionos ist europas führende plattform für cloud services und hosting-dienstleistungen. wir begleiten erfolgreich unsere kund*innen bei ihrer unternehmensentwicklung.
+für unseren unternehmenserfolg sind über 4000 mitarbeitende in mehreren ländern weltweit tätig, um die anforderungen und wünsche unserer 8,5 millionen kund*innen zu erfüllen.
+wir fördern die entwicklung unserer mitarbeitenden und deren unterschiedliche talente, interessen und sprachen.
+wir wertschätzen vielfalt und begrüßen alle bewerbungen – unabhängig von z. b. geschlecht, nationalität, ethnischer und sozialer herkunft, religion, behinderung, alter sowie sexueller orientierung und identität, körperlichen merkmalen, familienstand oder einem anderen sachfremden kriterium nach geltendem recht.
+ionos se
+recruiting team ionos
+hinterm hauptbahnhof 3-5
+d-76137 karlsruhe
+jobs_ionos@united-internet.de

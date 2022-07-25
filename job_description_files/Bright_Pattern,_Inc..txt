@@ -1,0 +1,52 @@
+bright pattern is a global provider of cloud-based contact center software that helps businesses to organize work, automate frequent responses, and stay in context of the customer inquiries from contact to contact, irrespective of the contact channel. our software is handling millions of our customers' conversations every month, so the individual impact of each of our employees’ contributions is huge.
+*
+we are looking for a candidate that can be a core contributing member of our operation team as we move towards a more agile and platform agnostic architecture that is based on public and private cloud technologies, automation frameworks, and data-driven configuration management where we treat infrastructure as code.
+this is a key position within supporting the growth of our company and will report directly to the director of operations. the job can be performed remotely in any european country.
+core responsibilities:
+research and develop designs and strategies to help meet our technology and automation goals, including global corporate network, cloud and sdn architectures
+design, scale, and maintain the bright pattern saas infrastructure
+use modern development languages such as python, javascript, perl, and c++ to develop tools, scripts, and frameworks that drive efficiency in automation, monitoring, and management of our large-scale environments
+utilize instrumentation & metrics, and applications to automate and improve operational processes and availability, scaling, and security of the production and development environments
+build, enhance, and maintain development, management and monitoring systems
+collaborate with engineering and product teams to design and implement solutions to support operations vision and strategy
+deploy and maintain product releases and customer configurations
+engage with industry and vendor partners to drive our requirements and product needs
+participate in on-call rotation
+*
+*
+key qualifications:
+successful candidates will have a broad technical background, ability to develop scripts and tools, excellent problem solving and troubleshooting skills, and a strong commitment to delivering quality solutions.
+bachelor’s degree in computer science or similar major or equivalent experience.
+3+ years of hands on experience with network layer devices and functionality (e.g. switching, routing, load balancing, proxying, nat)
+3+ years customer facing environment experience
+3+ years operational experience managing critical tools and infrastructure with a strong focus on providing cloud-based services and technology.
+expert level linux system administration skills.
+proficiency in bash and python
+3+ years of experience with cloud technologies and architecture (aws, openstack, open vswitch, etc.), cloud orchestration/automation tools (terraform, ansible, etc.)
+experience with tools for system, process, and environment monitoring (e.g. nagios/icinga, grafana (tig), tsdb), logging analysis (elk/efk stack), and configuration management (e.g. salt, ansible)
+solid understanding of source code control systems; experience with subversion (svn) and git
+proficient in mysql and mongodb support (replication, grants, operational procedures)
+familiarity with java/jvm performance tuning
+knowledgeable in security fundamentals, including encryption, openssl, ssl certificates, selinux, system hardening, etc.
+excellence at triage and troubleshooting skills
+strong interpersonal and communication skills; ability to collaborate across teams and skill levels
+experience developing, tracking and leveraging performance metrics for continual improvement
+strong attention to detail and excellent documentation skills
+*
+*
+why it is fun working for us:
+innovative product with tons of ongoing and upcoming exciting projects.
+strong professional team dedicated to developing the best solution on the market.
+great opportunity for personal development
+make an impact on our customers and their clients. we are still growing so your work will be visible and it will count.
+interested? apply now!
+*
+job type: full-time
+application question(s):
+are you authorized to work in germany/eu? (deal breaker)
+education:
+bachelor's (preferred)
+experience:
+profession: 3 years (preferred)
+language:
+english (required)

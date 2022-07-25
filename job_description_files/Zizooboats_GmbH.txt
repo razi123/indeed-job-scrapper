@@ -1,0 +1,39 @@
+we’re recruiting devops engineers at any level to add to our growing development team.
+
+zizoo is the leading boat holiday platform, offering over 30,000 boats across 500 destinations worldwide. we cater both to licensed sailors looking to book a boat only, and to those with no sailing experience, interested in hiring a boat together with a captain and optional crew. zizoo makes it easy for travellers to find the right boat by simplifying the selection and booking process.
+
+named after one of jacques cousteau's nicknames, zizoo’s mission is to make boat holidays accessible and easy to book for everyone. we’re a team of passionate sailors with strong industry ties, which allows us to give our customers expert advice, and a price-match guarantee on verified and insured boats.
+
+named as one of forbes’ top “travel tech startups taking europe by storm”, and backed by europe's leading tech investors, our zizoo team is growing fast as we continue to transform the travel industry.
+
+we are looking for a devops engineer to support us building and maintaining zizoo’s system infrastructure.
+
+tasks
+
+responsible for keeping zizoo‘s systems available and performant
+work in a cross-functional agile team with high independence and autonomy
+suggest, conceptualise and implement new standards to optimise our engineering processes as part of the zizoo devops centre of excellence
+propose, design, and implement new improvements, platform upgrades or architecture changes, as you see fit
+continuously improve monitoring and alerting systems, aws and other saas infrastructure, and automation and ci/cd
+requirements
+
+proactive mindset with the ability to work autonomously and problem solve effectively
+strong initiative, and proven ability to independently learn, design and implement new technologies
+excellent english written and verbal communication skills
+skilled at automation of complex tasks and handling potential failures
+passion for learning and harnessing new technologies
+experience with production systems including monitoring, ci/cd, git, and maintenance
+knowledge and experience working with aws and container technologies
+experience in production engineering for web services and distributed systems
+benefits
+
+a transparent data-driven environment where good ideas flourish. got a good idea? we’ll test it!
+an excellent encouraging learning environment for devops engineers to skill up
+the possibility to experiment with new technology
+cross-company personal development and training budget
+an opportunity to work in one of europe's trending startups
+a fun and outgoing company with a strong social calendar and great colleagues
+team building events and a sailing holidays for the whole team
+flexible remote-work/on-site position
+and, of course, boat holiday discounts
+we look forward to if you believe yourself to be the right person for this role, and want to make a positive impact in a growing company, apply here!receiving your application!

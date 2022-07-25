@@ -1,0 +1,19 @@
+.net software engineer - global phenomenon - berlin, germany
+(tech stack: .net software engineer, .net 6, c#, azure, angular 13, multithreading, restful, web api 2, javascript, programmer, full stack developer, architect, softwareentwickler, entwickler, .net software engineer)
+our client has created a global phenomenon, connecting people online to unique travel experiences, in more than 60.000 cities and 180 countries. as they approach their 10th anniversary they are looking to produce a revolutionary set of products and services that will transform the travel industry beyond recognition.
+for our client, engineering isn't just a job but a practice that they want to perfect. they aim to keep their systems modular, their code clean, and their documentation clear, and they follow the idea of leaving things better than how you found it. it's not just about the code - putting the right processes and tools in place to make developers happy and efficient is important to our client because it gives their .net software engineer the time to focus on polishing the product.
+working on a new payment solution, you will be given the opportunity to operate at all levels of the stack: the uis that allow people all over the world to pay and get paid in their locally preferred methods, the apis and processor integrations to send payment instructions to their wide network of partners, the offline reporting and reconciliation pipelines that ensure financial data integrity and allow the business to operate, and more.
+we are seeking .net software engineer with a strong grasp of object orientated development principles and sound knowledge of: .net, .net core / asp.net mvc, c# and sql server. you will receive industry recognized training in all aspects of: .net 6, azure, angular 13, solid, dry, linq, multithreading, microservices, restful, web api 2, javascript, html5, agile and sql server 2019.
+our client offers a structured career progression programme. it's common place for developers within their firm to receive their first promotion (and pay rise!) within 6 months of joining.
+all positions come with the following benefits:
+company shares
+bonus (typically 20%)
+quarterly employee travel coupon
+community involvement (4 hours per month to give back to the community)
+much more...
+no global movement springs from individuals. it takes an entire team united behind something big. together, they work hard, they laugh a lot, they brainstorm nonstop, they use hundreds of post-its a week, and they give the best high-fives in town. if you are interested in being a part of this movement please apply today!
+location: berlin, germany / remote working
+salary: €70.000 - €110.000 + bonus + benefits
+noir continues to be the leading microsoft recruitment agency; we can help you make the right career decisions!
+noirgermanyrec
+noireuroperec

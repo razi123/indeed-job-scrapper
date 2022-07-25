@@ -1,0 +1,23 @@
+global automotive group|modern way of working
+firmenprofil
+my client is part of a leading global automotive group. for an independent business unit wich develops and implements digital transformation projects i am looking for a senior data engineer (m/f/d).
+aufgabengebiet
+construction and development of data pipelines
+strategic structuring of relevant data
+technical support for internal and external customers in data related fields
+development of innovative data related solutions
+support for stakeholder in technical areas
+working in an agile and cross functional environment
+anforderungsprofil
+relevant working experience in a similar area
++3 years of experience in cloud based technologies (aws/azure)
+safe handling of python, spark and etl- & elt-processes
+experience in an agile environment
+fluent in english (german is a plus)
+vergütungspaket
+attractive salary package (+ 29 holidays)
+completely flexible working time
+fulltime remote-option
+individual mobility solution (bike, train, car)
+individual career- and development-paths
+integrated healthcare and retirement provision

@@ -1,0 +1,35 @@
+at ionos, the leading european provider of cloud infrastructure, cloud services and hosting services, you will work together with a wide range of teams. we are characterized by open structures, a friendly working culture and flat hierarchies with a strong team spirit. we firmly believe that work and fun are compatible, and offer you the right environment for this. our constant growth means that we are always looking for new colleagues. become part of ionos and grow with us.
+
+your tasks:
+the ionos database as a service team is seeking a highly motivated and experienced software engineer.
+
+the dbaas team focuses on developing and maintaining database services for customers, whether it’s relational databases like postgres, document-based, key-value stores, time series databases or other nosql offerings. for our customers, the database is often the reliable center of their architecture, providing data persistence, consistency and structure - the solid rock on which to build their applications.
+
+our teams are responsible for the entire lifecycle of the service: we build it, we ship it, we run it. we are looking for someone to join our team and work with us on providing the best product possible.
+
+programming in go and other languages.
+collaborating with an agile and self-motivated team of peers.
+solving interesting problems in a dynamic cloud environment.
+supporting the operations and management of distributed systems.
+continuously improving our build, test and deployment automation.
+continuously improving the quality and resilience of our services.
+we appreciate:
+experience developing, testing and deploying well-engineered code, preferably in go.
+constructive contributions to design and architecture discussions.
+experience in working with cloud environments.
+experience with kubernetes container orchestration and helm charts.
+experience building kubernetes operators, controllers and crds.
+experience operating and troubleshooting production environments.
+experience with at least two database types such as relational, timeseries, key-value, full-text search, persistent message queues or document-based databases.
+familiarity with the concepts and use-cases of the remaining types of databases.
+experience with the linux operating system.
+experience with network fundamentals.
+about ionos
+
+1&1 ionos is europe's leading platform for cloud services and hosting services. we successfully support our customers in their business development.
+
+more than 4000 employees in several countries around the world are working to meet the requirements and wishes of our 8.5 million customers.
+
+we promote the development of our employees and their different talents, interests and languages.
+
+we value diversity and welcome all applications - regardless of, for example, gender, nationality, ethnic or social origin, religion, disability, age as well as sexual orientation and identity, physical characteristics, marital status or any other irrelevant factor subject to applicable law.

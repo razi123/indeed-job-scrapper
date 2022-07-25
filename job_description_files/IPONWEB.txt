@@ -1,0 +1,32 @@
+key responsibilities:
+adopt industry best practices and worldwide best practices in data science to the iow problems;
+test, modify and apply data science and especially machine learning ideas on huge (internet-scale) datasets;
+apply iow tools (u-predict, u-cs etc) in day-to-day work on expert level;
+build, test and document prototypes to prove ways of utilizing (to solve industry and iow business problems) obtained insights;
+research limitations of these ideas/mvps/etc.
+role requirements:
+education in computer science, applied mathematics, physics or similar;
+experience with ml tools: sklearn or similar;
+experience with neural networks tools: tensorflow, pytorch or similar is a plus;
+experience in distributed big data processing: hadoop, spark etc is a plus;
+decent sql knowledge, is a plus;
+knowledge of mathematics, probability theory;
+experience with a scripting language (preferably python), experienced *nix system user;
+analytical, logical, and good problem solver (experience with math/programming contests is a plus);
+knowledge and experience with online advertising (rtb ecosystem) as a plus;
+good written english.
+we offer:
+career opportunities within a genuinely high tech international company - one of the leaders in the programmatic marketing industry;
+open and approachable management team with strong engineering dna (80% of the office engineers, managers, and executives have a technical background);
+internal pathways for career development and professional growth, supported by a performance management system;
+learning courses for the development of both professional and soft skills;
+foreign languages corporate program;
+hybrid work;
+corporate health insurance program or voluntary insurance program (vmi);
+voluntary health insurance for close relatives (in a co-financing scheme);
+accident insurance (dangerous sport covering) and cancer insurance;
+mental health support program;
+referral bonus program;
+recognition of employee milestones;
+help with relocation.
+iponweb provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to sex, race, religion, national origin, age, sexual orientation, disability, or genetics. iponweb complies with local laws governing nondiscrimination in employment in every location in which the company has facilities.

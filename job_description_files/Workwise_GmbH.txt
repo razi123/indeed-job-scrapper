@@ -1,0 +1,26 @@
+was erwartet dich?
+du befasst dich mit dem sammeln, aufbereiten und übertragen von großen datenmengen aus externen datenquellen in unser data warehouse und transformierst sie über sql
+du entwickelst mit unseren business intelligence developern unsere etl-prozesse (airflow) weiter und programmierst in python
+du unterstützt du bei der modellierung von datenmodellen in looker, welche die user als grundlage für ihre entscheidungen im bi team anfragen
+du bringst neue ideen ein, die unsere prozesse im bereich etl/elt & data warehousing stetig verbessern
+du führst analysen basierend auf den daten im data warehouse durch
+was solltest du mitbringen?
+du hast ein abgeschlossenes studium, bestenfalls im bereich (wirtschafts-)informatik, mathematik, physik, ingenieurwissenschaften oder einer vergleichbaren fachrichtung
+du hast mehrjährige praktische programmiererfahrungen als data engineer und in der arbeit mit python & sql
+du kennst dich mit data warehousing, etl/elt, und modellierung in bi tools (looker, powerbi or tableau) aus
+du hast lust auf neues, liebst persönliches wachstum und teamwork für dich gelebte realität
+du begeisterst mit deiner hohen auffassungsgabe und deinem analytischen denken
+du besitzt deutschkenntnisse mindestens auf b1-niveau sowie sehr gute englischkenntnisse
+was bieten wir dir?
+schlankes, agiles und hochdynamisches arbeitsumfeld mit abwechslungsreichen tätigkeiten und viel raum für kreativität
+flexible arbeitszeitmodelle, vertrauensarbeitszeit, mobile arbeitsformen sowie die möglichkeit von sabbaticals
+sei du selbst und bring dich ein in unsere unternehmenskultur mit flachen hierarchien, offenheit und viel herzlichkeit
+wir unterstützen dich mit einem persönlichen entwicklungsplan, workshops, trainings und viel regelmäßigem feedback
+arbeite in modernen, verspielten und gut vernetzten büros, ergonomisch ausgestattet und mit täglich frischem obst, gemüse & joghurt sowie einer tee- und kaffee-flatrate
+feiere mit uns legendäre teamevents und partys, wie z.b. unser jährliches sommerfest oder unser weihnachtsevent
+bring dein kind und hund mit ins büro, wir unterstützen dich mit einem kinderbetreuungszuschuss
+wir sind klimaneutral und engagieren uns dafür, dass unser unternehmen noch nachhaltiger wird
+modernste technische ausstattung - auch für dein homeoffice
+exklusive rabatte bei verschiedenen anbietern
+unser jobangebot senior data engineer für die datenaufbereitung remote (m/w/d) klingt vielversprechend? dann freuen wir uns auf eine bewerbung über workwise.
+bei unserem partner workwise kann man sich in nur wenigen minuten ohne anschreiben für diesen job bewerben und den status der bewerbung live verfolgen.

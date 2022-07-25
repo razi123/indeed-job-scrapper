@@ -1,0 +1,42 @@
+concular is a circular economy start-up. we digitize materials in buildings to calculate the embodied carbon footprint and help to reduce it by recirculating materials to other buildings, manufacturers or industry partners. by that we are tackling a lot of problems in the construction sector such as emissions, waste, resource exploitation and more. we're working with most of the largest building owners, manufacturers and construction companies in germany and will expand to other countries mid of next year.
+
+tasks
+
+role: invent, design, analyze, build and test complex test suite and data structures to fulfill our quality assurance objectives and requirements while considering the limitations imposed by practicality and safety.
+
+responsibilities:
+develop and executing quality assurance process
+executing manual tests on demand and with the aim to break the system
+developing, executing and maintaining automated tests
+designing and documenting the test code
+writing, executing and monitoring automated test suite
+analysing and documenting test requirements
+reporting defects
+reproduce bug reports by written tests
+requirements
+
+3+ years of hands-on experience with quality assurance and test automation
+have strong understanding of web and mobile applications.
+should have knowledge of restassured and postman.
+3+ yrs of experience using selenium with java or python.
+understanding of web service concepts including http, soap/rest and related technologies like json and xml.
+proven ability to work in an agile way and break down work into pieces, plan iterations and deliver simple solutions to complex problems
+good knowledge or experience with product development tools and processes (scrum, kanban, confluence, jira etc.)
+passion for building innovative products in the circular economy
+high standards and strive for excellence across the board - from own contributions to the collaborations with the engineering team - balanced by a practical understanding of the trade-offs between “done” and “perfect”
+fluent written and verbal communication skills in english
+benefits
+
+we
+
+are an open minded and multinational team
+are passionated about circular economy
+work in a great office in the impact-hub berlin neukölln
+are remote-friendly
+offer a seat in our team which has high growth and collaboration opportunity
+provide you with a brand new hardware of your choice
+offer a competitive salary
+offer flexible working hours
+concular is committed to creating a diverse environment and is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, or all the other fascinating characteristics that make us different.
+
+we are looking forward to your application!

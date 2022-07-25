@@ -1,0 +1,23 @@
+die mytoys group gehört mit über 2.000 mitarbeitern und 7 millionen kunden zu den erfolgreichsten e-commerce-unternehmen in deutschland und ist teil der otto group.
+senior data engineer (m/w/d)
+deine aufgaben:
+erstellung von datenmodellen zur weiterentwicklung unserer modernen data warehouse infrastruktur
+als teil eines devops-teams, bist du zuständig für die optimierung und sicherstellung des laufenden betriebs
+umsetzung von konzepten in performanten und qualitativ hochwertigen code
+implementierung und leistungsoptimierung von etl-prozessen
+qualitätssicherung der daten sowie die dokumentation der entwickelten lösungen
+unsere anforderungen:
+mehrere jahre einschlägige berufserfahrung in relevanten themenfeldern, idealerweise im oracle umfeld
+sehr gute kenntnisse in sql und pl/sql
+sehr gute kenntnisse von gängigen data warehouse-prinzipien wie z.b. delta load, historisierung, datenschutz
+sehr gute kenntnisse im bereich datenmodellierung, idealerweise mit data vault
+idealerweise erfahrung mit streaming architekturen (z.b. apache kafka) und/oder cloud-infrastrukturen (z.b. aws)
+wir bieten:
+einen attraktiven, modern ausgestatteten arbeitsplatz mitten im herzen der metropole berlin
+ein motiviertes team, das innovationen begrüßt
+spannende aufgaben mit viel eigenverantwortung
+täglich die möglichkeit, die eigenen stärken auszuspielen und zu entwickeln
+individuelle entfaltungsmöglichkeiten, raum für neue ideen und flache hierarchien
+flexible arbeitszeiten für eigenverantwortliches arbeiten und eine optimale vereinbarkeit von familie und beruf
+neugierig geworden? dann lerne uns kennen. besuche dafür unsere karriereseite und bewirb dich direkt online. wir freuen uns auf dich!
+dein kontakt: denise obersteiner

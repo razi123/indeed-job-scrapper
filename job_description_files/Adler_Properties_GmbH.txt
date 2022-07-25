@@ -1,0 +1,57 @@
+wir sind mehr als nur ein arbeitgeber. wir sind zukunftsgestalter: innen!
+mehr zukunft pro m²!
+wohnungsmangel, klimawandel, digitalisierung... deutschland steht vor vielen
+herausforderungen. dafür bedarf es talentierter kolleg: innen, die mit uns gesellschaftliche verantwortung übernehmen und leben, was uns wichtig ist: gemeinsam zukunft bauen!
+für sie. für uns. für alle.
+wir freuen uns, sie für unser team als data engineer gewinnen zu können!
+ihre aufgaben
+aufbau und pflege von on-prem- und cloud-datenbanken sowie datenmodellen
+integration, transformation und konsolidierung von daten aus systemen für die weitergenden daten-analysen
+aufbau, implementierung, wartung und troubleshooting von datenpipelines / etl-strecken sowie monitoring & performanceverbesserung dieser
+daten-sicherheitsprotokolle erarbeiten und implementieren
+entwicklung von dwh/bi cloud architekturen
+konzeptionierung der datenbankberechtigungen
+ihr profil
+erfolgreich absolviertes studium der (wirtschafts-) informatik oder eine vergleichbare ausbildung
+min. 3-4 jährige einschlägige berufserfahrung sowie fundierte kenntnisse in sql, stored procedures, scripts & triggers, python, azure data factory und azure synapse analytics, datenbanken
+solides wissen im umgang mit der microsoft azure cloud plattform und azure diensten
+fundierte kenntnisse in ms power plattform (power query, power bi, power apps, power automate)
+tiefgehendes knowhow in modernen datawarehouse-architekturen und modellierungsansätzen sowie fortgeschrittenes wissen über ci/cd
+erfahrungen in azure data lake, azure data briks, azure functions von vorteil
+microsoft zertifizierung als azure data engineer associate oder vergleichbar von vorteil
+erfahrungen in api programmierung wünschenswert
+solide englisch kenntnisse von vorteil; gerne auch englisch sprachige kandidaten mit oder ohne basiskenntnissen in deutsch
+benefits
+flexible arbeitszeiten
+2 tage die woche mobiles arbeiten mit dazugehöriger ausstattung
+30 tage urlaub
+weiterbildungsmöglichkeiten (interne englischkurse und individuelle schulungsangebote)
+leistungsgerechte vergütung und individuelle zielvereinbarungen
+gestaltungsmöglichkeiten
+moderne büros mit ergonomischem arbeitsplatz
+kostenfreie getränke und mehrmals wöchentlich frisches obst
+mitarbeiter: innen rabatte bei einer vielzahl von anbietern
+vergünstigte sportmitgliedschaft
+coming soon
+öpnv-ticket
+job bike
+sie haben weitere vorschläge? wir sind offen für mehr!
+sie möchten teil unserer spannenden entwicklung werden?
+dann freuen wir uns auf ihre bewerbung mit angabe ihres gehaltswunsches sowie ihres frühestmöglichen
+eintrittsdatums, bitte ausschließlich über unser bewerbungsportal.
+kontaktdaten:
+adler properties gmbh
+ansprechpartnerin: frau jessica gamasin
+art der stelle: vollzeit, festanstellung
+gehalt: 70.000,00€ - 85.000,00€ pro jahr
+arbeitszeiten:
+8-stunden-schicht
+montag bis freitag
+leistungen:
+firmenhandy
+kostenlose getränke
+mentoring-programm für mitarbeiter
+mitarbeiter-rabatt
+sprachkenntnisse werden vermittelt
+sprache:
+deutsch (wünschenswert)

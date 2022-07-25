@@ -1,0 +1,17 @@
+du möchtest daten in wissen verwandeln?
+senacor bietet den passenden einstieg in die professionelle etl-entwicklung. als data warehouse engineer (m/w/d) entwickelst du für unsere kunden maßgeschneiderte lösungen für die datentransformation und -integration und stellst gleichzeitig die qualität und konsistenz der datenbestände sicher. statt in silos zu denken hast du das große ganze im blick und sorgst dafür, dass unsere kunden eine ganzheitliche sicht auf all ihre daten haben.
+deine aufgaben
+du entwickelst softwarelösungen in interdisziplinären teams und in enger zusammenarbeit mit den fachbereichen unserer kunden
+du implementierst lösungen in datenintegrationsprojekten auf basis moderner etl-frameworks (ab initio, sas, informatica, talend, etc.)
+du modellierst datenbanken basierend auf unterschiedlichen paradigmen (3nf, data vault, star, …)
+du gestaltest custom-frameworks innerhalb der eingesetzten etl-tools
+du passt zu uns wenn...
+… du dein studium im bereich (wirtschafts-)informatik oder einem vergleichbaren studiengang erfolgreich abgeschlossen hast
+… du kenntnisse in der datenmodellierung, der entwicklung von datenintegrations- und datenqualitätslösungen mitbringst
+… du es verstehst, große und komplexe datenmengen schnell, verständlich und gut strukturiert zu transformieren und zusammenzuführen
+… du gerne im team arbeitest und herausforderungen mit pragmatismus und gehörigem biss anpackst
+... du sehr gute deutschkenntnisse hast
+deine ansprechperson
+lena rokahr
+tel: +49 911 4244 424
+email: human-resources@senacor.com

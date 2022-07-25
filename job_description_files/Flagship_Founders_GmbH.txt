@@ -1,0 +1,36 @@
+description
+as we start into our first strong growth phase, we are looking for a data engineer to build the zero44 data infrastructure to support business and product growth. you are someone who can see projects through from beginning to end, coach others, and self-manage. we’re looking for an eager individual who can guide our data stack using aws services with technical knowledge, communication skills, and real-world experience.
+your mission
+this is an initial 3-month contract, that could extend into a full-time role, with the following role responsibilities:
+
+iterate, build, and implement our data model, data warehousing, and data integration architecture using aws services
+build solutions that ingest data from source and partner systems into the zero44 data infrastructure, where the data is transformed, intelligently curated and made available for consumption by downstream operational and analytical processes
+you integrate data from source systems using common etl tools or programming languages (e.g. ruby, python, scala, aws data pipeline, etc.)
+you develop tailor-made strategies, concepts and solutions for the efficient handling of our growing amounts of data
+work iteratively with our data scientist to build up fact tables (e.g. container ship movements), dimension tables (e.g. weather data), etl processes, and build the data catalog
+create high quality code that can effectively process large volumes of data at scale.
+your profile
+technical skills & experience
+
+experience designing, building and maintaining data architecture and warehousing using aws services
+experience with data integration, e.g., aws glue
+experience managing aws resources using terraform
+experience in data engineering and infrastructure work for analytical and machine learning processes
+experience with etl tooling, migrating etl code from one technology to another will be a benefit
+experience with data visualisation / dashboarding tools as qa/qc data processes
+experience in analytics programming languages r and python
+nice to have: experience with ruby, as the current data import infra is written in ruby
+personality
+you can handle ambiguity, and can push projects forward even when there is not a clear best path
+you see things through from start to finish
+you can manage yourself, but you also work well with others.
+a good sense of humour and a great team player with strong team ethos.
+fluent english and an excellent communicator, able to communicate with technical and non-technical colleagues alike
+why us?
+our weekly sprint planning call is our only regular meeting
+for complex features, write a design doc before coding
+all code goes through code review, reviews are split out evenly across the team
+we use tuple for pair programming
+zero44 was founded in january 2022. our mission is to provide the maritime industry with digital solutions to reach carbon zero. we are a berlin based software company that combines a unique team of software and company builders with a passion for the maritime industry. we are backed by flagship founders, a company builder dedicated to digitising the maritime industry. we believe that our planet needs action now. the shipping industry has a long way to go to reach its ambitious climate targets. we want to help by providing our brains, hands, and hearts.
+
+we believe that employing a diverse workforce is central to our success. we make hiring decisions based on your experience and skills. therefore, we welcome applications from all members of society, regardless of age, gender, disability, sexual orientation, race, religion or belief.

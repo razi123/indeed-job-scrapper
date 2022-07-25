@@ -1,0 +1,43 @@
+formel skin is building the global dermatology clinic online. we democratize healthcare, by making highly effective dermatological treatments easily accessible and improving our patients’ quality of life. we are backed by europe’s most renowned health and consumer investors and are growing rapidly, expanding our offering to new medical conditions and rolling out in new countries. to this day we have delivered more than 150.000 treatments and have already successfully treated thousands of patients. we have a passionate and ambitious team with experience in successfully building health and consumer tech businesses.
+
+\_\_what's the role?\_\_
+
+be responsible for the design and implement etl-based technology to achieve scale and performance
+help to evolve and scale our data engineering platform, with an eye on future fit and growth
+work at both the strategic and tactical level to champion bold, innovative automation
+build out and maintain monitoring for our data infrastructure to validate that all data is reliable and up to date.
+gather detailed business requirements in collaboration with internal stakeholders (marketing, tech teams, etc.) to understand the data needs of the business and produce processes that enable a better product and support growth decision-making
+develop and execute new ideas (project plans, collaboration with internal and external teams)
+build automated workflows that utilize our data platform to optimize how we spend our time and resources
+leverage automation to improve processes and productivity, and make recommendations to support an organization scaling at a rapid pace
+drive efforts to integrate 3rd party and internal tools with our central marketing automation platform from evaluation to implementation and create reporting
+manage multiple projects and balance contending priorities in a rapidly changing environment
+what do you need to shine?
+
+degree in business, marketing, computer science or a related field
+proficient sql skills
+experience in using python for etl tasks or building pipelines
+experience with data processing tools like airbyte, prefect, airflow, dbt
+deep technical understanding of data architectures, etl pipelines, and data warehousing principles
+relational database knowledge and experience. bigquery experience is a plus
+experience with data visualisation tools (e.g. google data studio, power bi) is a plus
+documentation and ticket system experience with confluence & jira
+affinity for marketing metrics is a plus
+strong communication (both verbal and written) and interpersonal skills, specifically with explaining technical concepts to a non-technical audience
+ability to manage multiple parallel projects and delivering quality releases on schedule
+why work with us?
+
+team - to achieve our ambitious goals we create a team atmosphere based on trust in which everyone of us works with high responsibilities and the chance to generate growth and success. we are a highly professional, creative and motivated team.
+culture - we believe in an entrepreneurial culture and an empowering working atmosphere. to gain this we work with okrs, a clearly defined strategy and provide as well as enable transparent communication
+benefits - as a fast-growing company, we all work hard to achieve our business goals. to help our team find balance alongside work, we offer a free john reed gym membership, flexible working hours & remote work option as well as employee discounts on products and free samples
+office - to offer the best surroundings for our team we work in a highly equipped, modern and dog-friendly office located centrally in berlin.
+about us
+at formel skin it is our vision to democratize and digitalize dermatology, with the goal of improving dermatological treatments & making them easily accessible.
+
+formel skin offers medical and science-based solutions to effectively treat a broad set of dermatological conditions (e.g. acne, slow-aging). the treatment & products are customized according to the medical needs and skin conditions of our patients after continuous online check-ups with our dermatologists.
+
+at formel skin, we believe that diversity builds resilience. therefore, we value all perspectives brought to the table within our team, while we are creating dermatology 2.0.
+
+we seek to build an inclusive workplace that is psychologically and physically safe. therefore we welcome everyone to apply, especially those individuals who are underrepresented in the industry: people of color, lgbtqai+ folks, women, individuals with disabilities (both seen and unseen), people of any age, or family status. we encourage you to apply even if you do not fit 100% of the technical requirements.
+
+apply today and help us become europe's leading tele-dermatology player. we look forward to getting to know you!
