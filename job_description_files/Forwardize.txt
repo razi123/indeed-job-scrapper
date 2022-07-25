@@ -1,0 +1,34 @@
+your mission
+join us and become part of the sustainability revolution for the logistics industry – for a better tomorrow!
+
+we are forwardize, a fast-growing tech startup that transforms the way logistic teams move goods across borders. with our transport planning and procurement software, we consolidate road, rail, and shipping networks in one integrated system to remove planning silos, create end-to-end transparency and unlock economic as well as environmental opportunities.
+
+we are a team of diverse doer’s and go-getter’s that pursue one thing above all: purposeful growth. it is rooted in our products, embedded in our culture, and it empowers us to take a critical view of the status quo. because sustainable transports should be effortless. and growth should be for everyone. we stand for a bold, but fun and rewarding environment that offers endless development opportunities.
+
+software engineer intern (w/m/d)
+this is a unique opportunity to work in a cross-functional team at the intersection between software engineering, product management, and business development. as a software engineer intern you will be automating the process of collecting and processing data coming from various places and make sense of it and thereby help developing the back-bone of our core-product. as a young and driven self-starter, you will be able to take responsibility for the project while being guided by our senior management team.
+
+what you do with us ?
+
+develop python scripts to scrape, clean and process data from various online and offline file formats and extensions (e.g. excel, csv, pdf, etc.)
+work with our senior developers on the database strategy & structures to feed collected and cleaned data into the system
+proactively learning about new technologies
+work in a cross-functional team and tightly liaise with a business intern as well as two senior managers from tech and business development
+your profile
+what we're looking for ?
+
+graduated/about to graduate a bachelor's degree in computer science, software engineering or related area
+programming experience in python or javascript or any compiled programming language.
+familiarity with web development technologies e.g. html, json, xml, css, javascript.
+experience with data analysis projects is a plus
+knowledge in git or other source control tools
+strong problem-solving abilities
+excellent written and verbal communication skills in english
+why us?
+what we offer you in return ?
+amazing growth and learning opportunity! you can realize and take ownership of your own projects while being guided along the way
+grow into a permanent role over time
+international team with many events and a great office culture
+flexible working hours and a hybrid office model
+other perks include: sports club membership; monthly massages; weekly team lunches; breakfast, snacks, drinks, and occasional office parties
+today, sustainable transport solutions are mostly undervalued because the benefits are not transparent, procurement is difficult and the customer experience is terrible. with forwardize, we revolutionise this! forwardize stands for a forward-looking logistics industry that unlocks efficiencies and brings environmentally friendly transport solutions to the forefront. our software brings transparency to the advantages of different transport modalities, including trucks, rail freight, and barge. we thereby enable freight forwarders for the first time to seamlessly link and combine different modes of transport in one transport chain and achieve economic as well as environmental benefits. through forwardize, we help freight forwarders unleash untapped transport efficiencies while at the same time contributing to a sustainable future with 90% lower co2 emissions for overland transports.

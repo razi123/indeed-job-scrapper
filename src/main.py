@@ -1,17 +1,14 @@
 import os
 import re
-import nltk
-import numpy as np
 import pandas as pd
 
 from selenium import webdriver
 from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 
-import pyspark.sql.functions as f
-from pyspark.sql.types import StructType, StructField, DateType, StringType, FloatType
 from pyspark.sql import SparkSession
 import spark_setup
+import pipeline_wrangling
 
 
 class Myjobs:
@@ -46,8 +43,9 @@ class Myjobs:
             except NoSuchElementException:
                 print('not found')
 
-        self.extract_job_description(spark, driver, dict_company, self.raw_folder_path)
-        #self.create_dataframe(spark, self.raw_folder_path)
+        df = self.extract_job_description(spark, driver, dict_company, self.raw_folder_path)
+        df_cleaned = pipeline_wrangling.clean_pipeline(df)
+        print(df_cleaned)
 
 
     @staticmethod
@@ -61,15 +59,14 @@ class Myjobs:
         de_skills["Cloud"] = ["azure", "aws", "google cloud", "gcp", "gcloud"]
         de_skills["Extra"] = ["kanban", "jira", "confluence"]
         de_skills["Tools"] = ["tableau", "power bi", "qlik sense"]
+        de_skills["Sprachen"] = ["Englisch", "English", "Deutsch", "German"]
+
 
         keys = list(de_skills.keys())
         values = list(de_skills.values())
 
         df_empty = pd.DataFrame(columns=["Company", "Programming", "Database", "Frameworks", "Technologies", "Cloud",
                                          "Extra", "Tools", "Sprachen"])
-
-        out_dict = {"Company":[], "Programming": [], "Database": [], "Frameworks": [], "Technologies": [],
-                    "Cloud": [], "Extra": [], "Tools": [], "Sprachen": [], }
 
         for i in range(len(job_dict["link"])):
             load_job_link = job_dict["link"][i]
@@ -79,98 +76,41 @@ class Myjobs:
             job_discription = driver.find_element(By.ID, 'jobDescriptionText').text
             job_discription = job_discription.lower()
             if os.path.exists(os.path.join(file_path, company_name)):
-                os.remove(os.path.join(file_path,company_name))
+                os.remove(os.path.join(file_path, company_name))
 
-
-            file_obj = open(os.path.join(file_path, str(company_name).strip() + '.txt'), 'w')
+            company_name = re.sub(r"[/\s]+", "", company_name)
+            file_obj = open(os.path.join(file_path, str(company_name) + '.txt'), 'w')
             file_obj.write(job_discription)
 
             out_dict = {"Company": [], "Programming": [], "Database": [], "Frameworks": [], "Technologies": [],
                         "Cloud": [], "Extra": [], "Tools": [], "Sprachen": [], }
 
             out_dict["Company"].append(job_dict["company"][i])
-            out_dict["Sprachen"].append("Englisch")
+            #out_dict["Sprachen"].append("Englisch")
 
-
-            # print(f"key = {keys[idx]} and value={element}")
-            # out_dict[keys[idx]].add(element)
             for idx, value in enumerate(de_skills.values()):
                 for element in value:
                     try:
                         m = re.findall(f'(?<=[\s\(]){element}(?=[\s\)\.])', str(job_discription))
                         if m:
                             out_dict[keys[idx]].append(m)
-                        #else:
-                        #    out_dict[keys[idx]].append("--")
+
                     except AttributeError:
                         m = re.search(f'(?<=[\s\(]){element}(?=\s)', str(job_discription))
 
-                #print(out_dict["Programming"])
             df_empty = pd.concat([df_empty, pd.DataFrame.from_records([{'Company': out_dict["Company"], 'Programming': out_dict["Programming"],
                              'Database': out_dict["Database"], 'Frameworks': out_dict["Frameworks"],
                              'Technologies': out_dict["Technologies"], 'Cloud': out_dict["Cloud"],
                              'Extras': out_dict["Extra"], 'Tools': out_dict["Tools"],
-                             'Sprachen': out_dict["Sprachen"],}])]) # , ignore_index=True)
-        #df = pd.DataFrame(out_dict)
-        print(df_empty)
+                             'Sprachen': out_dict["Sprachen"],}])])
 
-
-        #print(out_dict)
-#            for id, value in enumerate(out_dict.values()):
-#                out_dict[keys[id]] = set(value)
-
-
-
-    @staticmethod
-    def create_dataframe(spark: SparkSession, dict_output: dict()):
-        schema = StructType([
-            StructField("Company", StringType(), True),
-            StructField("Programming", StringType(), True),
-            StructField("Database", StringType(), True),
-            StructField("Frameworks", StringType(), True),
-            StructField("Technology", StringType(), True),
-            StructField("Cloud", StringType(), True),
-            StructField("Extra", StringType(), True),
-            StructField("Tools", StringType(), True),
-            StructField("Sprachen", StringType(), True)
-        ])
-
-        df_empty = spark.createDataFrame([], schema)
-        # files = os.listdir(file_path)
-        # for file in files:        #files
-        """ 
-        with open(os.path.join(file_path, files[0]), 'r') as f:
-            lines = f.readlines()
-            lines_low = [line.lower() for line in lines]
-            lines_split = [line.split(' ') for line in lines_low]
-            lines_flat = [item.replace('\n', '') if '\n' in item else item for elem in lines_split for item in elem]
-
-            #keys = list(de_skills.keys())
-            #values = list(de_skills.values())
-            #print(values[0][0])
-
-            #for idx, value in enumerate(de_skills.values()):
-            #    for element in value:
-            #        print(element)
-
-            #m = re.search('(?<=\s)Python(?=\s)', str(lines_flat))
-            #print(m.group(0))
-
-           # if m.group(0):
-           #     #lines_flat.pop(element)
-           #     print(f"key = {keys[idx]} and value={element}")
-           #     #out_dict[keys[idx]].add(element)
-
-            if re.search('at', str(lines_flat)):
-                id = lines_flat.index('at')
-                print(lines_flat[id+1])
-           # else:
-           #     pass
-        """
+        return df_empty
 
 
 def main():
-    raw_file_path = "job_description_files/"
+    os.chdir(os.path.dirname(__file__))
+
+    raw_file_path = "../job_description_files/"
     job_position = "Data Engineer"
     location = "Berlin"
     date_posted = 1
