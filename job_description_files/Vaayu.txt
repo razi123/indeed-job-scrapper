@@ -1,0 +1,34 @@
+about us
+we believe in the power of technology as a force for good, and know we need to bring the best people together to work on such a significant problem. we are looking for game-changers from across europe or equivalent time zones, who share our vision to create a better future for people and the planet.
+if you are an innovator, want to work at a purpose-driven startup, and be part of a team defining state-of-the-art technology that will drive down carbon emissions at scale, we'd love to hear from you.
+our values
+environmental. the earth is our protagonist. protecting it is at the center of everything we do.
+collaborative. climate change affects us all. by working collaboratively we know we can make a difference within retail, and beyond.
+honest. our voice is informative and authentic. we want to share what we are working on, be open about the challenges, and build an ecosystem that creates change.
+tasks:
+to calculate carbon emissions, our platform needs to understand the content of certain websites.
+our homemade service accomplishes this task by using modules, one per website.
+your job will be to write and maintain those modules.
+general programming knowledge, in any language
+bonus: experience in web development (html, css, javascript, json)
+understanding of dom and css selectors
+understanding of web scrapping concepts
+unix/linux command-line interface knowledge
+who we are looking for:
+experience working in an data/tech related environment, managing relationships with staff, contractors, and service providers
+strong social skills and the ability to work in a team
+a very organized person, able to work independently
+ability to work and communicate in english, both written and spoken
+proactive mindset and readiness to take ownership from day one
+
+benefits
+vaayu provides the opportunity to:
+work at a mission-driven start-up with sustainability experts
+receive equity in a fast-growing business with an exciting journey ahead
+full remote work from anywhere in europe
+collaborate with a diverse, open-minded, and international team
+grow and develop within an expanding team of entrepreneurial experts
+join our quarterly offsite where we come together in a european destination
+enjoy 26 days paid leave with an additional day for every year of employment (up to 30 days)
+opt in to pension and health policies available within your region of work
+vaayu is an equal opportunity employer. we do not believe in discrimination of any kind, and are proud to have an international team from over 17 different countries. we nurture an inclusive and collaborative environment for all, and are committed to reflecting a diverse range of backgrounds, experience and thinking.

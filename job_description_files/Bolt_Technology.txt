@@ -1,0 +1,61 @@
+<gh-intro>
+<text>we are building a top european data science team focused on urban mobility and are looking for exceptional people to join as one of the senior members of the team. you will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ml technologies. we partner with people from strong technology companies and computer science institutes.
+
+<br>
+<h5>what this role is about:</h3>
+<ul ><li>we verify users for two main reasons:
+identity, we have to verify a customer to unlock a service. think of bolt drive where we allow people to rent cars. we need to know who is behind the wheel!
+safety, we verify because we choose to, in order to make our platform safer. is that ride suspicious? shall we block that driver from taking it?
+verifications come with a natural trade-off between customer experience and upholding safety standards across our platform. the safety system needs to be targeted such that we are able to stop potentially harmful users and provide a seamless experience to regular users. this means building a reliable and scalable process to figure out who to verify, when to verify and how to verify. </li></ul>
+<br>
+please note that berlin is a tech-hub where we are hiring locally only, and bolt will not support your relocation to berlin. however, relocation to tallinn (our hq) will be supported. see the relocation support we are providing here. if this role is interesting to you, and you're currently located outside of berlin, please consider this role in tallinn, estonia instead.
+</text>
+</gh-intro>
+
+your daily adventures will include:
+<gh-responsibilities>
+<bulletpoints>
+
+<point>build a safety targeting system incorporating both business rules and machine learning models to optimally target riders in order to protect drivers, with the goal of minimizing safety incidents while preserving revenues</point>
+<point>build a system to target fraudulent drivers, couriers, riders</point>
+<point>help with coming up with metrics to define what is the optimal level of verification and how to measure the business impact of it</point>
+<point>help build ground truth datasets and accuracy measurement so we can model and understand the impact and trade-offs behind our safety and fraud detection measures</point>
+<point>build expertise in identity fraud - provide evidence based feedback to product and engineering to better prevent it</point>
+<point>working with a technical stack consisting of python, docker, sagemaker, airflow, spark, redshift</point>
+<point>handling the entire lifecycle from exploratory queries and notebook prototypes to a working machine learning model or other automation that might be serving thousands of calls per second in production</point>
+<point>working in product feature teams together with data scientists, data analysts, product managers and software engineers</point>
+<point>discussing the problems and technical innovations within the broader data science team that provides a pool of peers and mentors</point>
+<point>deploy, monitor and validate solutions for millions of users, enabling fast feedback and measurable added value to customers</point>
+
+</bulletpoints>
+</gh-responsibilities>
+we are looking for:
+<gh-requirements>
+<bulletpoints>
+<point>be self-directed — have the ability to propose and execute on a roadmap to build the identity fraud system from scratch with little supervision</point>
+<point>be scrappy and ready to get one's hands dirty — the data is not sitting there ready to be used, there will be a significant amount of effort to research the data there is, find data missing, and work with multiple teams to get new data collected and in a usable state</point>
+<point>ability to choose the right tool from simple business rules to machine learning heavy solutions</point>
+<point>be comfortable with uncertainty and changing priorities</point>
+<point>industry experience in data science and machine learning (3+ years recommended). we don't have a preference for any algorithm. just the one which gets the job done</point>
+<point>experience in python programming, including libraries like pandas/numpy/sklearn/or-tools/lightgbm </point>
+<point>experience writing complex sql queries</point>
+<point>understanding and practical experience with statistical hypothesis testing</point>
+<point>strong verbal and written communication skills in english</point>
+<point>track record of deploying models to production and measuring the impact</point>
+
+</bulletpoints>
+</gh-requirements>
+you will get extra credits for:
+<gh-extra-credits>
+<bulletpoints>
+
+<point>product development experience in a technology company</point>
+<point>experience with experimentation</point>
+<point>experience with causal inference from observational data</point>
+<point>familiarity with any cloud systems (aws, azure, google app engine)</point>
+<point>previous identity fraud domain expertise</point>
+
+</bulletpoints>
+</gh-extra-credits>
+
+#li-hybrid

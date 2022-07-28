@@ -1,0 +1,30 @@
+company description
+
+we are flink - your online supermarket revolutionising the way you do your grocery shopping. with a wide selection of over 2,400 high-quality products, we aim to deliver to your door in minutes. we put our customers first and ensure all products delivered are fresh and nutritious. additionally, we can customise our national assortment to be able to offer you unique local products in every city. our delivery hubs are located in densely populated inner-city locations and we strive to be sustainable by delivering on electric bikes and using packaging that can be recycled.
+founded by experienced e-commerce professionals and seasoned entrepreneurs with exceptional track records, backed by some of the most renowned global investors, we are growing rapidly and have a great hunger to continuously challenge ourselves. we pride ourselves in being an inclusive and equal opportunities employer with a diverse and multicultural team.
+if you want to be part of this exciting journey… read on!
+in your role as a data analyst (marketing), you will engage with various teams to understand their business needs and help them leverage marketing data for decision-making. you will also act as an analytics engineer and will be heavily involved in handling all data pipeline stages. you will work as part of the data team to build best-in-class analytics.
+
+job description
+work closely with the marketing team and other stakeholders, help them define requirements and logic for metrics to measure the performance of complex operations and events
+develop and build on your existing knowledge, driving projects from start to end with full ownership
+develop and maintain data pipelines
+collaborate with the data science team on marketing-related projects and support our data engineers in developing our data warehouse infrastructure
+
+qualifications
+1+ years experience working in an analytical role
+sql skills (preferably on google bigquery), hands-on experience with looker (or a similar tool for data visualization)
+nice to have: knowledge of dbt - ideally in a professional environment
+nice to have: experience working in marketing tech and knowledge of marketing tools: braze or a similar crm tool, adjust or a similar tool, segment, facebook ads, google ads, etc.
+analytical mindset, ability to interpret and translate data into actionable insights
+great communication skills
+
+additional information
+a cool discount off your personal flink orders, be the first to test out new products!
+unlimited access to an e-learning and development platform, myacademy, including online german courses
+attractive company pension options
+online discounts with corporate benefits and future bens
+a unique opportunity to be an early bird and have an impact on our strategy & growth
+a steep learning curve, the possibility to work in an energised and dynamic team within a fast-paced environment
+for berlin: a newly renovated and spacious, dog-friendly hq in the heart of mitte - lots of delicious lunch spots available within short walking distance
+it is our commitment that every applicant will be evaluated according to their skills regardless of age, gender identity, ethnicity, sexual orientation, disability status, or religion.

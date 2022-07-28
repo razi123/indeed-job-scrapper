@@ -1,0 +1,28 @@
+company description
+
+evolution is a world-leading, b2b developer and provider of games and services for the online casino industry, employing more than 11,000 people across 20+ locations. we offer a turn-key solution for operators which allows their players to move flawlessly between mobile, tablet and desktop to play slots or live casino, which feature real tables with real dealers in real time. our innovative and high-quality product portfolio includes multiple award-winning player favourites from our brands evolution, red tiger, netent, ezugi and big time gaming. evolution ab is listed on nasdaq nordic with market capitalisation of €25b+.
+we thrive on pushing limits and doing what hasn’t been done to deliver on our engineering mission: a flawless player experience.
+in evolution engineering, we take the quality of our products and uptime of our services very seriously. we believe that building solid in-house competence with limited external dependencies is critical to our success. our code runs 24/7/365 to serve users around the world and we use a modern software stack to support our frequent and fully automated releases, which exceeds 270 releases per month to our main live environment.
+
+job description
+
+you will need to:
+work on our data services platform, using scala, flink, clickhouse, cassandra, spark, hadoop to process, aggregate and analyse gaming events and implementing realtime/near-realtime data services;
+work on data solutions that support and enable product and business teams at evolution gaming to make data driven decisions;
+develop and maintain etl flows;
+ensure high performance, scalability, availability, accuracy and monitoring of data processing solutions
+to succeed in this role you should have:
+at least 1year hands-on experience with scala
+at least 3 years experience of any jvm based programming language
+at least 1year experience with flink or spark
+experience with k8s
+experience with hadoop ecosystem
+experience with relational and nosql databases
+experience with kafka
+passion for functional scala - tagless final, cats, zio
+excellent interpersonal skills, verbal and written communication skills when working with both business and technical team
+we offer:
+challenging work on award-winning products;
+entrepreneur culture of the company, which allows you to try new approaches and technologies all the time;
+unbeatable recognition from the business management which translates to very competitive salaries and overall attitude;
+bright and supportive colleagues, professionalism and opportunity for personal development.

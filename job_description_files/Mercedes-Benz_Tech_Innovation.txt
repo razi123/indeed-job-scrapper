@@ -1,0 +1,34 @@
+sap bw data engineer (m/w/d)
+mercedes-benz tech innovations - wir bauen keine autos, sondern gestalten die digitale zukunft der mobilität.
+
+daimler tss wurde umfirmiert und heißt seit dem 01.04.2022 mercedes-benz tech innovation. als hundertprozentige tochtergesellschaft arbeiten wir exklusiv für mercedes-benz und sind dabei nicht nur leidenschaftliche software engineers, sondern auch produktorientierte it-berater und geschäftspartner auf augenhöhe. neben unseren eigenen strategischen initiativen realisieren wir gezielt digitale lösungen für den konzern und sichern dadurch dessen wettbewerbsfähigkeit im rennen um die zukunft der mobilität.
+welche aufgaben erwarten dich?
+du analysierst die anforderungen unserer kunden und entwickelst effiziente lösungen für it gestützte projekte in komplexen systemlandschaften.
+dazu übernimmst du eigenständig das design und die implementierung von anwendungen und treibst innovation und standardisierung.
+hierzu nutzt du sap bw/4hana, abap (oo), hana native, sap bo und sap analytics cloud
+du förderst den architektonisch-technischen wissensaustausch innerhalb der communities, deines teams und deines projekts
+du betreibst eine aktive kundenbetreuung zu fachlichen themen inkl. aufnahme von übergreifenden und interdisziplinären kundenanforderungen im bi kontext
+du arbeitest in übergreifenden teams mit heterogenen beteiligten und präsentierst deine arbeitsergebnisse intern und extern
+wie passt du in unser team?
+du bringst ein abgeschlossenes studium in einem technischen/naturwissenschaftlichen bereich oder eine vergleichbare qualifikation aus dem it-projektumfeld mit.
+du hast mehrjährige praktische erfahrungen in der entwicklung von architekturen (mindestens datenarchitekturen, systemarchitekturen sind ein plus).
+idealerweise bringst du kenntnisse im datenschutz personenbezogener daten mit.
+deine sehr guten kenntnisse in sap technologien (abap-oo, native hana, cloud, systemintegration, sap basis) und der sap roadmap werden durch ein breites wissen an nicht-sap technologien ergänzt.
+durch dein wissen und deine kommunikationsstärke überzeugst du unsere kunden von deinen ideen und schaffst es neue technologien zielgruppenspezifisch zu vermitteln.
+du zeichnest dich gleichermaßen durch eigenständiges arbeiten wie auch teamfähigkeit aus: du unterstützt bei bedarf deine kollegen im team und gibst dein wissen und deine erfahrung gerne aktiv an deine kollegen weiter
+in einer sich schnell verändernden welt nutzt du natürlich agile methoden um den wandel mitzugestalten
+sehr gute deutsch- und englischkenntnisse runden dein profil ab
+was darfst du von mercedes-benz tech innovations erwarten?
+deine freizeit ist uns wichtig:
+30 urlaubstage, flexible arbeitszeiten, möglichkeit mobil zu arbeiten, möglichkeit der teilzeitarbeit, einfache wiedereingliederung nach der elternzeit, freizeitausgleich für überstunden, sonderurlaub für besondere ereignisse sowie sabbatical.
+damit du auf dem neuesten stand bleibst:
+modern ausgestatte arbeitsplätze, nutzung neuester technologien, umfassendes angebot an internen und externen weiterbildungsmaßnahmen sowie knowledge upgrade lectures und kostenfreie ebooks.
+für deine verpflegung ist gesorgt:
+wasserspender, kostenloser kaffee & tee, kostenlose obstkörbe und subventionierte essensangebote.
+wir sichern dich ab:
+betriebliche altersvorsorge, betriebskrankenkasse der mercedes-benz group ag und abschluss einer privaten unfallversicherung.
+mit uns bleibst du mobil:
+firmenangehörigengeschäft der mercedes-benz group ag und bezuschussung des job tickets in der region stuttgart und ulm.
+auszeichnungen sagen mehr als benefits:
+2020 wurde uns die auszeichnung „great place to work – beste arbeitgeber 2020“ verliehen.
+also warum sollten wir nicht auch dein great place to work sein?

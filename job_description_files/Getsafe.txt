@@ -1,0 +1,29 @@
+your role and the impact you’ll have:
+maintain and improve our modern data stack, and ensure that the technologies used are always up to date.
+design, develop and maintain data products in collaboration with data analysts and data scientists
+integrate new data sources and establish data exchange pipelines using modern technologies
+ensure the reliability of the data platform and quality of the data
+support younger colleagues with your expertise and enable them to grow in their career.
+technologies you’ll work with:
+databricks
+python
+dbt
+postgresql, snowflake, redshift
+kafka
+heroku and aws
+about you:
+you have 4+ years of experience in data engineering / software engineering
+you have hands-on experience with components of the modern data stack, namely cloud data warehousing, cloud computing platforms and orchestration tools.
+you have experience in python, bash, structured and semi-structured data on a large scale. experience with streaming solutions is a plus, but not required.
+you are passionate about agile processes, reliability and bringing value to the business in the most efficient way.
+you know that the fun part starts out of the comfort zone.
+you are fluent in english.
+perk & benefits:
+environment based on trust – flex working hours and location (home office option)
+modern centric offices in berlin, heidelberg and london
+employee participation program in the form of vsops
+individual development budget
+getsafe insurance voucher for the policy of your choice
+german and english language courses
+your choice of hardware
+regular team events

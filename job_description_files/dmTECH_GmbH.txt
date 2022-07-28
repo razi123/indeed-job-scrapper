@@ -1,0 +1,29 @@
+im dm-konzern sind wir die technologie-experten für business intelligence. tausende anwender aus unseren filialen, der zentrale und unseren industriepartnern führen täglich bis zu 60.000 analysen auf unserem enterprise data warehouse aus. die befüllung des data warehouse mit mehr als 500 schnittstellen aus den quellsystemen gehört zu unseren aufgaben. die geschwindigkeit sowie die menge, komplexität und vielfalt der daten begleiten uns tagtäglich und machen unsere aufgaben spannend.
+du wohnst nicht in der region karlsruhe? kein problem! bei interesse ist es möglich, fast vollständig remote zu arbeiten.
+
+für dmtech, die it-tochter von dm-drogerie markt, suchen wir bundesweit einen:
+bi data engineer (w/m/d)
+deine aufgaben
+beratung interner kunden bei der integration von daten in unser data warehouse
+datenmodellierung (3nf, data vault)
+design, implementierung und betrieb von etl / elt-prozessen (informatica, wherescape, snowflake)
+mitarbeit bei der weiterentwicklung und modernisierung unserer bi-landschaft in der cloud (data lakehouse)
+betrieb und monitoring der bestehenden etl / elt-prozesse
+unterstützung und gestaltung von innovativen it-projekten im business intelligence-umfeld
+du bringst mit
+ein erfolgreich abgeschlossenes studium mit informatikbezug oder erste berufserfahrung im it-umfeld
+gute sql-kenntnisse und idealerweise programmierkenntnisse mit python oder java
+erfahrung im data warehousing, insbesondere in der datenmodellierung, z. b. mit star schema oder data vault
+kenntnisse eines etl / elt-tools, insbesondere informatica und wherescape sind von vorteil
+idealerweise erfahrung im umgang mit cloud-technologien wie snowflake oder azure
+interesse und begeisterung für neue technologien
+das erwartet dich
+attraktive arbeitsbedingungen: mit flexiblen arbeitszeiten und überwiegend mobilem arbeiten, einer 37,5 std.-woche sowie 30 urlaubstagen, ermöglichen wir eine ausgewogene work-life-balance.
+moderne unternehmenszentrale: helle büroflächen, höhenverstellbare tische, neueste technik und ein mitarbeiterrestaurant - unser dialogicum bietet ideale bedingungen für deinen arbeitstag dank innovativer ausstattung und intelligenter konzepte.
+optimale verkehrsanbindung: in direkter nähe zur autobahn, einer s-bahn-haltestelle und dem db-bahnhof durlach gelegen, sind wir mit pkw und bahn sehr gut erreichbar. zudem gibt es ein kostenloses parkhaus und eine fahrradgarage, jeweils mit elektro-ladestationen.
+dialogische unternehmenskultur: unsere arbeitsgemeinschaft ist geprägt durch den gegenseitigen austausch auf augenhöhe, dynamik und flache hierarchien. ein zentraler baustein unserer zusammenarbeitskultur ist die eigenverantwortung.
+mitgestaltung und entwicklung: bei uns kann sich jeder einbringen und dazu beitragen, themen voranzutreiben. für deine persönliche und fachliche entwicklung bieten wir vielfältige weiterbildungsangebote an.
+weitere vorteile und zusatzleistungen: profitiere von weiteren leistungen wie z. b. mitarbeiterrabatt, fahrrad-leasing (jobrad), urlaubs- und weihnachtsgeld sowie betrieblicher altersvorsorge.
+vertragsart
+
+vollzeit, unbefristet, ab sofort

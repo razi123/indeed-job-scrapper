@@ -1,0 +1,42 @@
+company description
+
+we pledge "to prove it can make a real difference to our customer's businesses". we work hard to ensure we understand what our customers need from their technology solutions and then we deliver.
+
+we are an award-winning company who provide world class customer service; we think big and we hire great people. version 1 are more than just another it services company - we are leaders in implementing and supporting oracle, microsoft and aws technologies.
+
+invest in us and we’ll invest in you; if you are driven, committed and up for a challenge, we want to meet you.
+
+job description
+
+this is an exciting opportunity for an experienced developer of large-scale data solutions. you will join a team delivering a transformative cloud hosted data platform for a key version 1 customer.
+the ideal candidate will have a proven track record as a senior/self-starting data engineer in implementing data ingestion and transformation pipelines for large scale organisations. we are seeking someone with deep technical skills in a variety of technologies, specifically spark performance\tuning\optimisation and databricks, to play an important role in developing and delivering early proofs of concept and production implementation.
+you will ideally have experience in building solutions using a variety of open source tools & microsoft azure services, and a proven track record in delivering high quality work to tight deadlines.
+your main responsibilities will be:
+designing and implementing highly performant data ingestion & transformation pipelines from multiple sources using databricks and spark/scala
+streaming and batch processes in databricks
+providing technical guidance for complex geospatial problems and spark dataframes
+developing scalable and re-usable frameworks for ingestion and transformation of large data sets
+data quality system and process design and implementation.
+integrating the end to end data pipeline to take data from source systems to target data repositories ensuring the quality and consistency of data is maintained at all times
+working with other members of the project team to support delivery of additional project components (reporting tools, api interfaces, search)
+evaluating the performance and applicability of multiple tools against customer requirements
+working within an agile delivery / devops methodology to deliver proof of concept and production implementation in iterative sprints.
+spark performance\tuning\optimisation
+
+qualifications
+direct experience of building data piplines using azure data factory and databricks spark using scala
+fluent in scala, python, java
+experience working with structured and unstructured data including imaging & geospatial data.
+experience of working with relational databases: (sql server, postgresql)
+hands on experience designing and delivering solutions using the azure data analytics platform including azure storage, azure sql database, azure sql data warehouse, azure data lake, azure cosmos db, azure stream analytics
+experience building data warehouse solutions using etl / elt tools such as sql server integration services (ssis), oracle data integrator (odi), talend.
+experience with azure event hub, iot hub, apache kafka, nifi for use with streaming data / event-based data
+experience with open source non-relational / nosql data repositories (incl. mongodb, cassandra, neo4j)
+comprehensive understanding of data management best practices including demonstrated experience with data profiling, sourcing, and cleansing routines utilizing typical data quality functions involving standardization, transformation, rationalization, linking and matching.
+databrick certification
+microsoft azure big data architecture certification.
+
+additional information
+
+before you apply, here are some of our benefits. we offer profit share, pension, private medical, flexible working policy and more. we offer incentives for accreditations and educational assistance for courses relevant to your role.
+we offer employee recognition in the form of excellence awards and v1ps which is awarded by your peers. engagement is incredibly important with local engagement teams driving our engagement events!

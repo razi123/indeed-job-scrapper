@@ -1,0 +1,39 @@
+this is us
+tier mobility is europe's leading shared micro-mobility provider, with a mission to change mobility for good. by providing people with a range of shared, light electric vehicles, from e-scooters to e-bikes and e-mopeds, powered by a proprietary energy network, tier helps cities reduce their dependence on cars. founded in 2018 by lawrence leuschner, matthias laug and julian blessin.
+tier is headquartered in berlin and currently operates in 190+ cities across 20 countries in europe and the middle east. with a focus on providing the safest, most equitable and most sustainable mobility solution, tier has been climate neutral since 2020.
+
+permanent employee, full-time - remote*
+we offer remote work from germany, spain, netherlands, uk, poland, hungary, greece and austria
+the role and your impact at tier
+work on apis powering our consumer-facing applications.
+build services that facilitate a safe riding experience.
+help us enter new markets and make sure that we comply with all regional regulations.
+be part of a fully cross-functional team and work closely together with backend/frontend engineers, product designers, and product managers.
+you’ll fit great with these skills and qualifications
+you have 5+ years of experience as a technical contributor on software projects.
+you have experience shaping product requirements into technical specifications. you understand the difference between outcomes versus output.
+you are practical. you can assess and make trade-offs.
+you are confident with automated testing and high release frequency.
+you take a personal stake in the success of the product and the team.
+you are motivated to find new ways and drive to improve our best practices.
+you are deeply familiar with type/javascript, its language features, and the ecosystem around it.
+(bonus) you worked on public apis before.
+(bonus) you have experience with event-driven applications.
+get an impression of the team
+our mission is to prove that we understand the city's needs and win their trust to lead them into the future. we design and build products to provide essential data insights to our partners. we also work on our mobile apps to ship sophisticated safety features and enable customers to educate themselves on safety and good rider behavior.
+this may inspire you
+join us at the forefront of one of the most exciting and rapidly moving industries
+we’re agile, we’re growing and so will you! at tier, there’s space for exponential professional development and room to make a huge impact on the business going forward
+being part of the team means you’re part of its success. our esop program gives you an opportunity to have a share in the company – nothing like invested interest!
+for head office roles - we support your growth with an annual development budget
+surf your city with free rides on our e-scooters and e-mopeds
+diversity and inclusivity is super important to us, so enjoy initiatives & programs such as #womenoftier
+expect company onboarding and team events with international colleagues from all over the world
+benefit from flexible hours and our remote work options
+profit from competitive compensation combined with perks like memberships with urban sports club, blinklist and headspace
+be part of one of the fastest growing and most funded startups in europe with a world-class team of serial entrepreneurs (co-founder of rebuy, takeaway, and coup) and high-performers (ex bcg, uber, jpmorgan, delivery hero, and more)
+depending on the role and location your benefits may differ.
+we actively encourage a diverse and inclusive environment that fosters each employee’s individuality at tier. we take affirmative action to ensure equal opportunity for your application, regardless to your nationality, ethnic or national origin, skin colour, religion, disability, sex, sexual orientation or gender identity. come as you are and join our ride!
+in case you are living with disabilities, chronic illness or neurodiversity please inform us, to provide you with the proper assistance in the application process.
+if we could spark your interest and you want to change mobility for good with us, apply now and let us know why you’re the one for the job! we encourage everyone to apply and grow with us. even if you may not tick all the boxes of the requirements, we are happy to hear about the value you can add to the team. we are all learners!
+we are looking forward to your application!

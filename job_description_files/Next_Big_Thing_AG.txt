@@ -1,0 +1,31 @@
+job description
+
+concr is an innovative company working on digitalising the construction industry and paving the road to construction 4.0. with our iot solution, we provide our customers with sensors and cloud-based monitoring and management tools to improve project management during construction work, increase efficiency and help them reduce waste (time, resources).
+
+requirements
+
+tasks:
+working with the development team to meet internal and customer requirements.
+developing and managing the microservices and storage systems for concr's real-time iot data
+developing and managing the front- & back-end web application
+documentation and release management of the codebase
+management of the customer database (including migrations and upgrades)
+prototyping of user-interfaces
+requirements:
+bachelor or higher degree in computer science, software engineering, electrical engineering, it, ict or similar fields
+hands-on-experience with web and database programming
+hands-on-experience with development of microservices and deployment of cloud-based services aws
+strong experience with front-end stack, especially reactjs and nodejs
+strong experience with back-end stack such as django and flask
+good experience with sql, especially postgresql
+living in berlin or ready to move
+offer:
+opportunity to work directly with the founder and the experienced team of next big thing
+flexible working hours
+free drinks (coffee, tee, softdrinks) & fruits
+new and well-equipped office directly at s-bahn tiergarten in berlin
+freedom and full responsibility for your projects. no micromanagement
+a chance to join a fast-growing start-up early and grow with it
+we value diversity and therefore expressly welcome all applications - regardless of gender, nationality, ethnic and social origin, religion/belief, physical abilities, age, sexual orientation and identity.
+
+we are looking forward for receiving your application!

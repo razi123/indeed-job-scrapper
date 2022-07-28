@@ -1,26 +1,27 @@
-deutschland braucht eine starke schiene und die deutsche bahn braucht eine starke beschaffung. genau dafür suchen wir dich! werde teil eines erfolgreichen teams und trage dazu bei, die mobilitätswende in deutschland maßgeblich mitzugestalten. uns verbinden die begeisterung und der tatendrang, in einer modernen und flexiblen arbeitswelt mitzuwirken und diese nachhaltig zu prägen. komm an bord unserer modernen beschaffungsorganisation auf dem weg zum world-class procurement.
-wir suchen dich als verstärkung für unser team in dem kollegen unseres kunden cargo mit uns zusammenarbeiten. wir übernehmen aufgaben von beratung, business engineering, architektur, implementierung bis hin zur unterstützung der fachlichen betriebsführung. darüber hinaus erarbeiten wir gemeinsam mit unserem kunden im rahmen einer servitization konzepte, um die bestehenden lösungen fachlich neu zu überdenken und fördern regelmäßigen know-how-transfer und weiterentwicklungen. um den wachsenden kundenanforderungen gerecht zu werden, möchten wir unsere expertise zu dem thema rund um datenmanagement ausbauen.
+bei uns gestaltest du aktiv die digitalisierung im db-konzern und formst entscheidend die digitale zukunft der bahn mit. du arbeitest in agilen teams, selbstorganisierten netzwerkstrukturen und mit entsprechendem gestaltungsspielraum. wir setzen auf eigenverantwortliche, motivierte menschen, die persönlich und gemeinsam wachsen wollen.
+künstliche intelligenz (ki) ist bei der deutschen bahn keine ferne zukunftsvision mehr. in verschiedenen konzernweiten projekten entfalten verfahren rund um daten und ki ihre wirkung. damit machen sie nicht nur digitalisierung spürbar, sondern sind ein starkes werkzeug, um die schiene noch attraktiver zu machen. der einsatz von ki beginnt bereits bei der planung von materialien, geht über die intelligente steuerung des s-bahn verkehrs und reicht bis zur digitalisierung der instandhaltung. in der einheit data intelligence innerhalb der db systel entwickeln wir innovative ki-anwendungen. dabei wollen wir alle services aus einer hand anbieten: von data engineering, entwicklung und betrieb im devops modus, datenvisualisierung bis hin zur beratung. zum nächstmöglichen zeitpunkt suchen wir dich als machine learning engineer für die db systel gmbh. du kannst dir aussuchen, ob du größtenteils remote oder von einem unserer standorte berlin, erfurt oder frankfurt am main arbeiten möchtest.
 
-zum nächstmöglichen zeitpunkt suchen wir dich als senior data engineer im team db smartlogistic für die db systel. du kannst dir aussuchen, ob du von unserem standort berlin, erfurt, frankfurt am main oder größtenteils remote arbeiten möchtest. sobald es wieder möglich ist, kommt das team nach absprache ca. 4x/monat vor ort zusammen, bei entsprechenden projekterfordernissen des kunden auch öfter
+dies ist ein "wo du willst-job": in abstimmung mit deiner führungskraft kannst du deinen arbeitsort innerhalb deutschlands selbst disponieren und zwischen mobilem arbeiten und arbeiten im büro wählen.
 
 deine aufgaben:
 
-als senior data engineer erarbeitest du komplexe konzepte zur datenintegration aus verschiedenen fachbereichen und datenquellen auf basis von neuesten technologien
-in enger zusammenarbeit und mit unseren konzernpartnern konzipierst du komplexe etl-prozesse zur optimalen handhabung großer datenmengen
-du berätst die projekte technisch und methodisch bei der konzeption von vorgehensweisen und prozessen zur datenbeladung und datenintegration aus verschiedenen quellsystemen unter verwendung von etl-werkzeugen
-du arbeitest dich gerne in neue technologien ein und unterstützt die weiterentwicklung der lösungen zu den bestehenden datenplattformen in abstimmung mit relevanten stakeholdern
-du integrierst daten aus unterschiedlichen quellsystemen in einen data lake unter verwendung von gängigen werkzeugen
-eigenverantwortlich entwickelst du architektonische und technologische lösungen im bereich sammeln, organisieren und speichern von daten
-außerdem bringst du deine erfahrungen bei der standardisierung der entwicklungsprozesse ein und wirkst du bei der automatisierung der testfalldurchführung mit (u.a. im sinne eines devops-ansatzes)
+als machine-learning-engineer arbeitest du in projekten zur implementierung von data science- und ki-anwendungen für die deutschen bahn
+die konzeption und den betrieb von machine-learning-anwendungen verantwortest du ebenso wie entwicklung, automatisierung und deployment produktionsreifer machine-learning-modelle
+dabei koordinierst du die überführung der produktionsreifen systeme in den betrieb und begleitest die einführung
+du berätst interne kunden bzgl. data science- und ki-anforderungen zu lösungsmöglichkeiten
+du führst und verantwortest die dokumentation der entwicklungen und entscheidungen mit bezug zum eigenen verantwortungsbereich
+die aufbereitung und präsentation der ergebnisse vor den entsprechenden stakeholdergruppen gehören ebenso zu deinen aufgaben
+in summe tragt ihr gemeinsam im team die fachliche verantwortung für ki- und data science- lösungen von der ersten idee über die entwicklung bis zur produktion
 dein profil:
 
-du überzeugst uns mit mehrjähriger berufserfahrung als data engineer
-du bist experte in scala oder alternativ in apache spark
-du bist experte in sql und java ist dir ebenfalls vertraut
-du begeisterst dich für die entwicklung und einführung von datengetriebenen digitalen produkten im bahn-umfeld
-idealerweise hast du kenntnisse in java, mit ci/cd oder kennst den umgang mit apache airflow – fehlende kenntnisse bauen wir gemeinsam auf
-dein verantwortungsbewusstsein und kommunikationsfähigkeiten zeichnen dich aus, du lebst agilität und treibst themen auch mal proaktiv voran
-sehr gute deutschkenntnisse runden dein profil ab
+dein (fach-)hochschulstudium der mathematik, (wirtschafts-)informatik, einer naturwissenschaft oder einer vergleichbaren fachrichtung hast du erfolgreich abgeschlossen oder verfügst über eine ausbildung im it-bereich mit entsprechender berufserfahrung
+du bringst mehrjährige erfahrungen in programmierung und in der software-entwicklung (präferiert python) mit und hast fundierte kenntnisse im umgang mit cloud-lösungen (aws, insb. s3, rds, aws batch, step functions)
+du hast theoretische kenntnisse und einschlägige, praktische erfahrungen in den bereichen machine learning (ml), statistik, ki und datenvisualisierung
+du bringst erfahrungen im aufbau und im umgang mit umgebungen für den gesamten ml-lifecycle (train/eval/inference/monitoring, bspw. mlflow, sagemaker, seldon) mit
+deine arbeitsweise ist strukturiert und du entwickelst gerne lösungskonzepte zu den unterschiedlichsten fragestellungen
+du hast spaß am arbeiten in teams und übernimmst gemeinsam mit deinen teamkollegen die fachliche verantwortung für ki-anwendungen in der produktion
+wir bieten dir mehr als einen tapetenwechsel und suchen professionelle anpacker
+fließende deutschkenntnisse runden dein profil ab
 
 benefits:
 wir unterstützen dich bei der suche nach kitaplätzen oder ferienbetreuung für deine kinder. außerdem kannst du auszeiten für die pflege von angehörigen oder sabbaticals nehmen. je nach job ist eine flexible gestaltung von arbeitszeit/-ort möglich.

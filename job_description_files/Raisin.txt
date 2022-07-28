@@ -1,0 +1,39 @@
+your responsibilities
+
+being one of the most critical functions in the company, the data engineering team is a part of the data organization at raisin and is primarily responsible for architecture, design, development and management of the data warehouse, data structures and processes required for reporting and analytics. working with the analytics team, the data engineering team is combinedly responsible for building and managing the bi semantic layer and driving governance and standardization in reporting across the company.
+
+as a data engineer at raisin, you will:
+deliver and manage the data warehousing aspects of business intelligence and analytics. this includes the capability to architect, design, develop and support data extraction, transformation and orchestration processes in addition to data modelling and performance optimization on the data warehouse.
+create and optimize data pipelines using airflow, snowflake and aws.
+work with the analytics team to design and develop the bi tool semantic layer from an engineering perspective (modelling, performance optimization etc...).
+mentor junior individuals and help them develop their skills as required. plan, delegate and regulate work load within the team.
+work with other teams in the organization (upstream application tech teams and stakeholders) to plan the roadmap for the data organization and execute accordingly.
+execute proofs of concept to test and evaluate new tools and technologies relevant to business intelligence and analytics and propose adoption wherever necessary.
+your profile
+
+solid experience in airflow, python programming and sql.
+knowledge of aws services and kubernetes.
+bachelors in mathematics, computer science or other relevant quantitative fields.
+strong analytical and quantitative approach to problems.
+experience in leading teams.
+knowledge of data engineering best practices in data quality, observability, etc.
+comfortable in dynamic and changing environment - strong inclination to take responsibility for your work.
+eagerness and hunger to learn - on the job learning.
+join our mission, join our team - and grow with us!
+
+at raisin, we care about each other and it is one of our top priorities to foster an open and caring environment in which everyone feels welcome and comfortable. our culture is strongly driven by our ambitious team, which, connects more than 40 different nationalities.
+
+you'll find us in our modern and open office in the trendy kreuzberg district with a view of the spree river, ideally connected to public transportation and surrounded by a variety of restaurants and shopping opportunities.
+
+as part of our team in berlin, you will benefit from
+
+relocation and visa support as well as a relocation reimbursement
+personal training budget of 1,700 € and four full training days per year
+free choice of hardware
+virtual german language classes
+hungry all the time? snacks, daily fresh fruit as well as drinks provided at the office
+flexible working hours, home office and 28 vacation days
+enjoy more than 50+ different sports with urban sports club: we subsidize your membership with more than 20 € per month
+a company pension scheme (betriebliche altersvorsorge), which we support with 20 %
+enjoy yearly company retreats to exciting european cities and other (virtual) team events, such as lunch & learn, tech lunch, female empowerment forum, ceo talks as well as our yearly summer- and christmas party
+do you miss being in the office? the corporate ticket gets you there, which we subsidize with 25 € per month (bvg firmenticket for berlin and hvv profiticket for hh)

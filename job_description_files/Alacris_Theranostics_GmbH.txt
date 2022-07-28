@@ -1,0 +1,25 @@
+alacris theranostics gmbh develops new approaches in personalized medicine in the field of oncology, employing next generation sequencing, cutting edge bioinformatics, and systems biology. our main focus is on innovative cancer diagnostics and prediction of individualized tumor treatment. we work together with hospitals, clinics, and the pharmaceutical industry.
+
+tasks
+
+we are looking for an experienced bioinformatician or computational biologist
+with a strong track record in ngs analysis and integration of high dimensional omics
+data. the successful candidate will be responsible for the processing and
+interpretation of ngs data (e.g. rna-seq, wes and wgs) from tumor samples to
+identify disease-relevant alterations such as mutations, copy-number changes or
+gene fusions.
+
+requirements
+
+statistical and programming skills (python or r) and a sound understanding of molecular biology is essential. expertise with high dimensional data analysis, machine learning, and cancer genomics is a plus. the work on data analysis of clinical samples will be performed within the framework of iso15189 accreditation regulations. comprehensive documentation and a high level of attention to detail are essential. the candidate will be highly motivated, team-oriented and have excellent communication skills.
+
+benefits
+
+you will join a dedicated team of bioinformaticians, biologists and software engineers who develop alacris' unique comprehensive molecular tumor analysis (cmta) and modcelltm pipeline, aimed at personalising treatment options for cancer patients.
+
+we offer a rewarding and challenging position as part of an innovative company located within the vibrant city of berlin. the successful candidate can expect a competitive salary and a stimulating working environment. starting immediately, the appointment will be made initially for two years, with the possibility of extension.
+
+interested candidates should provide a cv, publication list, and details of previous
+research experience and contact details of three referees (who are directly
+acquainted with your research and work experience), as a single
+pdf file, citing reference ala-ngsa-05022.

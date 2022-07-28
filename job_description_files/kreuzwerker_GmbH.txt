@@ -1,0 +1,28 @@
+wir suchen data engineers und consultants zur verstärkung unseres data engineering teams. du wirst für eine vielzahl von geschäftsanwendungen projekte entwerfen, entwickeln und warten. ob dies mediengiganten oder start-ups sind, du an firmen-intranets oder an live-websites mit stündlich tausenden von usern arbeitest, innerhalb eines autonomen teams oder als integrierte expert: in – in jedem fall wirst du entwicklungsprozesse aktiv vorantreiben.
+
+kreuzwerker-projekte bieten dir vielfältige entwicklungsmöglichkeiten – in wechselnden umgebungen wirst du stetig dazulernen und dich immer neuen herausforderungen stellen. insbesondere kannst du bei uns in die welt von aws und devops eintauchen.
+
+aufgaben
+
+du arbeitest an einer vielzahl von projekten für verschiedene kunden unter verwendung diverser programmiersprachen, tools und technologien. ein kleiner einblick in unseren tech stack: aws, python, scala, spark, airflow, bigquery, snowflake, elasticsearch.
+du bleibst auf dem neuesten stand, erforschst best practices und relevante technologien und teilst dein wissen mit anderen.
+du gestaltest und implementierst moderne entwicklungsprozesse.
+du unterstützt und berätst unsere kunden, um lösungen für ihre individuellen herausforderungen zu finden.
+du trägst zu unserer gesamtstrategie bei und bringst dich in data engineering themen bei kreuzwerker ein.
+qualifikation
+
+sehr gute kommunikationsfähigkeiten
+neugier und lust darauf, neue technologien und pattern kennenzulernen und anzuwenden
+mehrjährige erfahrung als data engineer mit (teilen von) unserem tech stack
+fähigkeit, architektonische lösungen im team zu entwerfen und zu vertreten
+erfahrungen in der teamarbei und spaß an coaching, mentoring und daran, dein wissen zu teilen
+benefits
+
+neben frischem obst, schönen ausflügen, einer angemessenen vergütung und dem üblichen klimbim ist das entscheidende:
+
+vielfältige aufgaben, technologien und umgebungen zum lernen und wachsen
+sehr viel gestaltungsfreiraum und mitspracherecht
+spannende, hochtalentierte menschen aus aller welt
+work-life quality („balance“ ist uns zu wenig)
+persönliches weiterbildungsbudget von 2.500 euro und fünf bezahlte weiterbildungstage pro jahr
+wir verstehen, dass du vielleicht nicht alle anforderungen erfüllst. wir möchten dich ermutigen, dich dennoch bei uns zu bewerben.

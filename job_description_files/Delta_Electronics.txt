@@ -1,0 +1,27 @@
+company description
+
+smarter.greener.together.
+together with our 80.000 colleagues worldwide, we believe in technology and collaboration and are dedicated to providing innovative and energy-efficient solutions.
+
+job description
+
+we are looking for a service engineer for our service operations for mission critical infrastructure and data center group in emea region. the service engineer’s main objective is to provide technical support and service to our customers via phone and service request system. the service engineer will attempt to diagnose and solve cases remotely. onsite service or engagement of a service partner may be required to rectify the issue. the support engineer will timely coordinate and follow up each service request until resolved, whilst carefully ensuring sla (service level agreements) are met to ensure solution uptime and customer satisfaction are kept high.
+key responsibilities:
+handling of service requests directly addressed to service engineer (based on customer or sla)
+resolving of technical problems forwarded from level 1 support
+some outside normal business hours will be required (24/7/365) to handle escalations
+initiation of on-site interventions (to be done by service partner (asp)) and creation of adequate repair instructions and determination of required spare parts, on-site job sla monitoring
+support and participation in creating and updating the technical documentation/operating instructions (knowledge base) for remote and on-site service activities.
+on-site service for local key customers
+conducting of trainings for asps
+remote diagnostics and service
+communication of identified product issues to quality and master service engineer
+
+qualifications
+electrical engineering background and experience in ups & data center are required
+excellent communication skills
+systematic and organized work methods
+excellent technical problem solving skills
+understanding of end-to-end service processes
+fluent in english and german are required
+good ms office knowledge

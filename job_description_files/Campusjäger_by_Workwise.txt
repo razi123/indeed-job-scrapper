@@ -1,0 +1,27 @@
+your responsibilities
+you will maintain, manage, log, provision, scale clusters
+you will collect and analyse system metrics
+you willdesign and implement ci/cd pipelines
+you will design, debug and optimize micro-service data flow
+you will plan and setup databases
+you will plan and implement testing pipeline and utilities
+your profile
+you have 3+ years of professional experience in tech
+you strongly interested in building and maintaining infrastructure
+you are capable of identifying repeatable processes and automate them quickly
+you are passionate about ci/cd
+your tech stack: either python/golang, git, linux/unix, networking tools, docker container and kubernetes
+you ideally also have experience with a few of the following technologies: istio, helm, argo, terraform, ansible, prometheus and grafana
+you are in love with the cloud while knowing its limitations (experience with cloud computing preferred)
+you have fun writing new/introducing existing tools that help software engineering teams function better
+you are a good problerm solver with attention to detail
+what we offer
+guided learning to boost your career
+be part of product definition and rollout
+working on a new product with an experienced team
+the coolest and constantly growing team
+work with top notch technologies
+possibility to work remotely
+an attractive remuneration package (incl. notebook, smartphone, expenses), as well as an additional monthly gym fee, daily lunch, childcare and private pension insurance
+our job offer devops cloud engineer for data flow management (m/f/d) sounds interesting? then we are looking forward to receiving your application via campusjäger by workwise.
+with our partner campusjäger, you can apply for this job in just a few minutes without a cover letter and track the status of your application live.

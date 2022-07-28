@@ -1,44 +1,48 @@
 wefox is the world's leading insurtech that is reinventing insurance at scale, with a record-breaking series c funding in 2021 and our series d funding in 2022 wefox has raised over $1 billion us dollar. wefox is on track to revolutionise the insurance industry by empowering the customer and delivering personalised experiences driven by data.
 our vision is to make insurance simple and 10x better. we provide our customers with 360-degree advice through our network of advisors and optimise each individual's risk coverage through innovative prevention, assistance and insurance products.
-we are currently looking for a senior machine learning engineer to join our team in paris. the team is the wefox's advanced innovation team and our focus, as a cross-functional team, is to leverage machine learning to improve the customer experience, and to deliver innovative products like risk detection and risk prevention. as a senior machine learning engineer you will be involved throughout the lifecycle of the development with the responsibility of machine learning models development: data exploration, state of the art and model architecture, implementation, training, inference/serving, optimization, monitoring and maintenance.
+we are currently looking for a lead machine learning engineer to join our team in paris. the team is the wefox's advanced innovation team and our focus, as a cross-functional team, is to leverage machine learning to improve the customer experience, and to deliver innovative products like risk detection and risk prevention. as a lead machine learning engineer, you will be involved throughout the lifecycle of the development with the responsibility of machine learning model development: state-of-the-art and model architecture, data exploration and model explorations, implementation, training, inference/serving, optimization, monitoring, and maintenance.
+
 in this role you will :
-design, implement, deploy, with your agile team, distributed, high-volume, high-performance, low-latency machine learning models.
-lead and contribute in all phases of the development life cycle, and take ownership of your models: from first data exploration and state of the art to the maintenance and monitoring of models in production.
+lead by example, you will be a hands-on leader.
+design, implement, and deploy, with your agile team, distributed, high-volume, high-performance, low-latency machine learning models.
+lead and contribute in all phases of the development life cycle, and take ownership of models: from first data exploration and state of the art to the maintenance and monitoring of models in production.
 participate in data exploration and data cleaning to build reproducible, versioned datasets.
-train high performance models in a reproducible environment.
+train high-performance models in a reproducible environment.
 optimize models for low latency and performance.
 participate in the deployment of models in production.
-monitor, maintain and improve model performances in production.
-write good designed, testable and efficient code for pre and post processing.
+monitor, maintain, and improve model performances in production.
+write good-designed, testable, and efficient code for pre and post-processing.
 integrate your models and code in ci/cd environments.
 work closely with product owners, devops, and quality assurance in an agile cross-functional team.
-develop relationships with internal and external stakeholders.
-work on a variety of different projects with a typical duration of 3 to 8 months .
 bring your own ideas through our ideation process.
 have a strategic and continuous improvement mentality.
 love for new technologies and continuous learning.
+
 what you bring :
-minimum of 4 years of experience as a machine learning engineer. phd in ml/cv/nlp or related topic is a plus.
-strong knowledge of machine learning and of deep learning architectures (fully connected, cnn, lstm, transformers…) with some experience training and customizing machine learning models.
+
+minimum of 6 years of experience (including ph.d. if applicable) as a machine learning engineer. ph.d. in ml/cv/nlp or related topic is clearly a plus.
+strong knowledge of machine learning and deep learning architectures (fully connected, cnn, lstm, transformers…) with some experience training and customizing machine learning models.
 experience in one (or more) of the following fields: computer vision, natural language processing, audio processing, time series, anomaly detection...
 good development skills in python. c/c++ and/or rust would be a plus.
 strong interest in software development.
-proven ability to involve machine learning models in production
+experience with machine learning models in production
 experience with docker, aws, kubernetes, build and ci/cd tools would be a plus.
-with data pipelines, relational and non-relational db.
-capacity to implement code optimization is a plus.
+experience with data pipelines, relational and non-relational db.
+experience in code optimization is a plus.
 experience in understanding product requirements.
-embrace ownership, autonomy and agile methodology.
+embrace ownership, autonomy, and agile methodology.
 good english proficiency (work in an international environment).
+
 what we offer :
-now, we've gotten to the fun part, the part where you get to brag about your company, those perks your friends are so jealous of!
 here are some of them:
 flexible working hours including hybrid working
-free access to a mental health and well-being platform for personalised care, such as 1:1 coaching and therapy sessions for life's ups and downs — whether at work, at home, or in your relationships
+free access to a mental health and well-being platform to access to personalised care, such as 1:1 coaching and therapy sessions for life's ups and downs — whether at work, at home, or in your relationships
 a stack of the latest technologies and working gadgets
 training and coaching opportunities
-free coffee, fruit, and snacks because we need fuel!
+free coffee, fruit and snacks, because we need fuel!
 if you love a less-formal work environment, flexible paid time off, a great compensation package and benefits offering - and most of all, being the authentic you, get in touch, we want to meet you!
+to all the misunderstood geniuses, rebels and mavericks looking to change the world for the better. come work with us!
+additional benefits vary between countries and can be explained in more detail by a ta partner.
 your contact person for this role is tony veloso.
-we are an equal opportunity employer and values diversity. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status or disability status.
-by submitting the application i confirm to have read and accepted the data privacy policy governing the job application process
+we are an equal opportunity employer and value diversity. we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status.
+by submitting the application i confirm to have read and accepted the data privacy policy governing the job application process.

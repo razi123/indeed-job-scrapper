@@ -1,0 +1,56 @@
+introduction
+data engineers / data scientists in ibm client engineering team are part of a cross-functional team delivering a unique client co-creation experience to accelerate client transformation. as part of an entrepreneurial team, you will use contemporary technologies and approaches to design, develop, test, and deliver solutions.
+
+your role and responsibilities
+as a data scientist at ibm, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. work with best in class open source and visual tools, along with the most flexible and scalable deployment options. whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live. you will contribute to co-creation of rapid proofs of concept and minimally viable solutions that demonstrate business value, leading to client investment in strategic solutions.
+
+to be successful in this role you:
+demonstrate strong business acumen and ability to understand business problems, formulate hypotheses and test conclusions to influence solution design
+you will be the subject matter expert on data and ai statistical models and how they apply to business problems
+are familiar with data science practices from working in code notebooks, building, validating models, and deploying models via apis into applications or workflows, and monitoring & retaining models
+you will advise on and help implement models in machine learning, optimization, neural networks, and artificial intelligence such as natural language, and other quantitative approaches
+are familiar with data engineering techniques (gather, prepare, cleanse, and transform client data for analysis and ai automation, including automating data pipelines)
+leverage a variety of structured and unstructured data sources, analytics, ai tools, and programming languages to derive meaningful data insights (e.g., python, r, spark, tensorflow, jupyter, etc.)
+work in an agile fashion, iterating on the solution to react to client feedback and demonstrate rapid progress
+expand partnerships at all levels of the client organization to identify new opportunities for data science applications
+
+required technical and professional expertise
+graduate degree in computer science, statistics, information systems or another quantitative field
+at least 4 years experience in programming skills in python, r, scala or java (preferred python)
+at least 4 years as a data scientist with a deep understanding of statistics and probability
+at least 4 years of experience in the field of machine learning (data ingestion, feature engineering, modelling including ensemble methods, predicting, explaining, deploying and diagnosing over fitting)
+at least 3 years of experience in applying supervised, unsupervised and semi-supervised learning techniques
+at least 2 years of experience in deep learning and neural nets
+at least 2 years in a client facing role (communicating effective with line-of-business end users and being used to lead client discussions)
+experienced with applications to visualize data using open source tools such as shiny
+fluent in german and english language
+
+preferred technical and professional expertise
+academic training in a quantitative discipline and/or a specialized degree in data science or analytics
+understanding of analytics life cycle and / or crisp dm method and practices
+experience with restful apis
+demonstrable experience in private and public cloud
+experience in developing and delivering appropriate analytic and/or machine learning models to achieve busines
+
+about business unit
+ibm has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. the company’s global markets organization is a strategic sales business unit that manages ibm’s global footprint, working closely with dedicated country-based operating units to serve clients locally. these country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. by complementing local expertise with global experience and digital capabilities, ibm builds deep and broad-based client relationships. this local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. additionally, the global markets organization serves clients with expertise in their industry as well as through the products and services that ibm and partners supply. ibm is also expanding its reach to new and existing clients through digital marketplaces.
+
+your life @ ibm
+are you craving to learn more? prepared to solve some of the world's most unique challenges? and ready to shape the future for millions of people? if so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+every ibmer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. together, we have the power to make meaningful change – to alter the fabric of our clients, of society and ibm itself, to create a truly positive impact and make the world work better for everyone.
+
+it's time to define your career.
+
+about ibm
+ibm’s greatest invention is the ibmer. we believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and ai strategy to life for our clients and partners around the world.
+
+restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the fortune 50 companies relying on the ibm cloud to run their business.
+
+at ibm, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+location statement
+ibm wants you to bring your whole self to work and for you this might mean the ability to work flexibly. if you are interested in a flexible working pattern, please talk to our recruitment team to find out if this is possible in the current working environment.
+
+being you @ ibm
+ibm is committed to creating a diverse environment and is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. ibm is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

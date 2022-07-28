@@ -1,0 +1,35 @@
+we are looking for a senior data engineer with a strong understanding of data engineering and data ops topics to work with us and assist our data team.
+in this role, you will:
+build and improve the infrastructure required for high-performance and scalable ingestion, transformation, and retrieval of terabytes of data from a variety of sources
+work with a mix of structured and unstructured data across multi cloud-based batch- and streaming architectures
+create and maintain data tools for business intelligence and data scientist teams which assist them in building and optimizing our product
+identify, design, and implement internal process improvements: optimizing data delivery, automating manual processes, upscaling of the infrastructure, etc.
+work in a multi cloud environment and establish common data practices across the organization regarding access control, security and data documentation
+we're looking for people with:
+3+ years of experience with object-oriented programming languages e.g python, scala, and/or java
+3+ years of experience with creating, deploying, and maintaining apache spark (pyspark and scala) applications with demonstrable deployment experience with aws-based platforms e.g databricks, emr, glue.
+experience with workflow orchestration using airflow
+significant experience with using aws cloud services, including s3, ec2, vpcs, rds, lambda
+experience with databricks platform and delta lakes will be highly regarded
+deployment of infrastructure using terraform
+good to have:
+experience using hive metastore implementations like glue, databricks, hive, metastore, etc
+experience with querying, designing, and tuning relational databases. deep knowledge of sql (mysql/postgresql)
+working experience with massively parallel processing databases such as redshift, or distributed nosql databases such as cassandara, dynamodb
+use of sql querying tools such as aws athena, prestodb
+experience with metadata catalog management and data lineage
+nice to have:
+experience with streaming solutions kafka, kinesis, and equivalent processing frameworks (e.g flink, spark streams)
+gcp knowledge, especially big query
+other data engineering tools/frameworks such as apache beam or dask.
+why should you join perpetua? we offer:
+a talented, growing company and tech/product team
+a very well-located office in the heart of berlin mitte incl. a rooftop terrace with a pool
+competitive compensation package
+high level of responsibility and space to develop
+flexible working hours
+free food and drinks, educational "sellics/perpetua talks," regular team events
+professional coffee machine, and the best coffee beans berlin has to offer ;)
+a friendly, open, multi-cultural work environment with colleagues from over 35 countries
+learn more about us here: life at perpetua
+at perpetua, we are dedicated to pursuing and hiring a diverse workforce with varied experiences, perspectives and opinions. we believe diversity helps our team perform better and enables us to build an outstanding product for our customers. we are an equal opportunity employer and are committed to working with applicants requesting accommodation at any stage of the hiring process.

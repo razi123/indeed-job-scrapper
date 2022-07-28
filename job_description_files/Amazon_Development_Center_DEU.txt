@@ -1,46 +1,15 @@
-bachelors degree in computer science or related technical field
-5+ years combined experience in data warehousing and big data systems
-solid understanding and experience with at least one mpp database (redshift / teradata / netezza / snowflake / etc.)
-experience with big data systems (hadoop / map reduce / hdfs / pig)
-excellent knowledge of sql (ansi / spark / hive / etc.)
-hands on experience with programming languages (java / python / etc.)
-experience with one of the business intelligence reporting tools (obiee / tableau / etc.)
+bs in computer science or related discipline, or equivalent work experience
+software development experience focused on linux.
+knowledge in at least two of c, bash, python or java.
+good understanding of linux fundamentals
+knowledge of linux package management, version control systems, automated build processes and software unit testing
 
-job summary
-the community shopping team shapes products and technology used daily by millions of customers around the world. the team is responsible for many central amazon experiences including customer reviews, ask questions & answers, customer profiles and content moderation. these experiences are world-wide, complex and vital to the on-going success of amazon. come work with us to drive the future of these products for our customers!
-
-we’re seeking a talented sr. data engineer who will be a key member of the community shopping team and will help architect, design, build and enhance our community shopping business intelligence system. this role requires an individual with excellent analytical abilities, deep knowledge of business intelligence solutions, and the ability to partner with technology, product development, marketing, finance, and business teams to identify strategic opportunities where data-backed insights drive value creation. an effective communicator, the candidate crisply translates analysis result into executive-facing business terms. the successful candidate will be a self-starter comfortable with ambiguity, with strong attention to detail, an ability to work in a fast-paced and entrepreneurial environment, and driven by a desire to innovate on behalf of the customer.
-
-specific responsibilities include:
-design, implement, and support a platform providing secured access to large datasets
-interface with product, marketing, science and analytics teams in gathering requirements and delivering complete bi solutions
-work with the software development and machine learning teams to construct complex data sources for training machine learned models and algorithms
-develop a deep understanding of our vast data sources and know exactly how, when, and which data to use to solve particular business problems
-own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. to drive key business decisions
-manage numerous requests concurrently and strategically, prioritizing when necessary
-want to learn more about the community shopping team? visit https://www.amazon.jobs/en/teams/community-shopping
-
-
-
-key job responsibilities
-specific responsibilities include:
-design, implement, and support a platform providing secured access to large datasets
-interface with product, marketing, science and analytics teams in gathering requirements and delivering complete bi solutions
-work with the software development and machine learning teams to construct complex data sources for training machine learned models and algorithms
-develop a deep understanding of our vast data sources and know exactly how, when, and which data to use to solve particular business problems
-own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. to drive key business decisions
-manage numerous requests concurrently and strategically, prioritizing when necessary
-
-about the team
-want to learn more about the community shopping team? visit https://www.amazon.jobs/en/teams/community-shopping
-
-proven success in communicating with users, other technical teams, and senior management to collect requirements, describe data modeling decisions and data engineering strategy
-experience providing technical leadership and mentoring other engineers for best practices on data engineering
-knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations
-masters in computer science, mathematics, statistics, economics, or other quantitative field
-exposure to very large databases, with a mix of software and data engineering.
-understanding of big data technologies and solutions in aws.
-background in financial applications
+job summary are you interested in software development, linux, scalable systems, virtualization and cloud computing? continue reading or reach out to us with your application; we're happy to tell you more about it. at the amazon dev center in bucharest we're looking for passionate builders to join our engineering teams working at the operating system, virtualization, and platform technologies that power aws. you will be part of a solid engineering team that has the feel of a start-up. this is an opportunity to drive innovation, work on complex technical challenges, be in touch with operations, and engineer systems on a massive scale. you will be surrounded by people who are smart and who believe that best service is critical to customer success. your work will focus on new tools, performance and productivity improvements for ec2. key responsibilities include developing end-to-end software solutions for ec2, and supporting and troubleshooting the solutions once deployed to production.
+experience developing in a linux environment
+knowledge of virtualization technologies
+experience in oo design and at least one oo language such as java or c++
+knowledge of distributed systems architecture and related technologies.
+the ability to operate in a fast-paced environment
 
 amazon is an equal opportunities employer. we believe passionately that employing a diverse workforce is central to our success. we make recruiting decisions based on your experience and skills. we value your passion to discover, invent, simplify and build. protecting your privacy and the security of your data is a longstanding top priority for amazon. please consult our privacy notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
 

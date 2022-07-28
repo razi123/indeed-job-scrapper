@@ -1,0 +1,19 @@
+who you'll work with
+at mckinsey digital, you help our clients move beyond “it as cost center” mindsets and use the full potential of technology for customer satisfaction, employee experience, and revenue growth.
+build by mckinsey, part of mckinsey digital, is our tech delivery people unit—a global team of software, data and cloud engineers, passionate designers, technology architects, product owners, and leading technologists. our multidisciplinary squads work side-by-side with business strategists and experts from cloud by mckinsey and quantumblack, ai by mckinsey.
+your colleagues are hands-on-keys entrepreneurs who have previously led multiple organizations, built and scaled new businesses, and run startups around the world. our culture is collegial and fun, and we have the freedom to try new ideas, experiment, and challenge traditional approaches. in joining us, you will become part of a team that supports and mentors each other, always curious to learn something new.
+your challenge
+you will be part of a global leadership team that can flip from discussing technology with senior executives to pair programming with entry-level developers. your colleagues are hands-on-keys entrepreneurs who previously led multiple organizations, built and scaled new businesses, and ran startups around the world.
+what you'll do
+you will…
+you will lead people and design systems as well as make “hands-on-keys” code contributions. you will build client architecture while building clients’ digital talent.
+as a trusted advisor you will help assess the current state of our clients’ architecture and recommend future state systems and capabilities, helping non-technical stakeholders understand technology in strategy discussions
+you will collaborate with product owners, designers and marketers to define requirements and refine them with the software engineering team, also building a reusable components
+you will lead joint mckinsey-client teams to build experiences and platforms as the day-to-day technical delivery lead, engaging in and guiding agile ceremonies
+you’ll recruit and develop your world-class digital team that can embed with clients to help deliver experiences.
+qualifications
+an experienced solution architect capable of working with full-stack javascript development utilizing such frameworks as react, angular, nextjs and node.js
+you enjoy working with cross-functional teams of developers, designers, marketers and product/business profiles
+comfortable with presenting to senior executives from technical and non-technical backgrounds in english
+able to articulate and document the mapping future states of systems and building roadmaps to achieving desired outcomes
+experienced in making trade-offs in software and able to identify best fit for business needs

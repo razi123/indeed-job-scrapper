@@ -1,0 +1,50 @@
+about the team
+we are a cross-functional team of machine learning engineers and data scientists, passionately solving the problem of predicting customer demand and available or required vehicle supply for our moia services. we aim to combine internal and external data with state-of-the-art prediction models to run a reliable production service which is the single source of truth for future demand with the moia system.
+we build features based on data and leverage various data sources within moia to train machine learning models and derive insights for our business and future product development.
+what you will do
+maintain and improve our business reporting in tableau
+work together with the team and with our stakeholders in operations, controlling, marketing, and the business leadership
+explain changes in our team and company kpis to our stakeholders
+answer business questions related to past or future demand and supply in ad hoc investigations using our datasets and machine learning tools
+analyse data like customer requests, driver shifts, and vehicle states to generate new insights
+proactively make suggestions to improve our service, for example regarding matching our supply with our customer's demands
+what will help you to fulfill your role
+passion for analysing different datasets and answering complex questions
+business sense and interest in business-related topics
+communicating appropriately with different target groups and stakeholders
+(basic) knowledge in statistics
+experience with data visualisation in tableau, power bi or a similar tool
+experience in at least one of the following languages
+python
+r
+sql
+git experience is a plus
+we don't expect you to be proficient in all these technologies. tell us which of them you already used and why you think you can learn those you didn't use yet.
+
+your background
+work experience as a data analyst or similar quantitative role in industry or academia.
+ability to understand and express complex problems in english
+experience working in a self-organized agile environment is a plus
+our benefits in a nutshell
+competitive salary (including bonus)
+flexible working hours and work arrangements
+budget and monthly expense allowance for your home office setup
+public transport ticket (fully covered) and discount on moia rides
+subsidization of a fitness club membership or bike leasing
+continuous learning days, job rotation, trainings and workshops, conferences, and language classes
+mental health trainings, consultation, and company doctor
+30 days of vacation
+relocation support
+dog-friendly offices (in our hamburg location)
+be who you are!
+we are a member of charta der vielfalt and are actively working on creating a workplace that promotes and values diversity in age, gender identity, race, sexual orientation, physical or cognitive ability, and ethnicity. at moia we embrace a culture, where people feel accepted, respected, valued, appreciated, and included.
+we offer unconscious bias training regularly for all our employees. also, we are working on making our hiring process as inclusive as possible, such as ensuring a diverse hiring panel. to reinforce an unbiased screening process, we kindly ask you not to include any photograph in your application.
+our future work model
+since we love to collaborate, it is clear to us that we don't want to become a fully remote company, but we also don't need to spend every day of the week in the office to do a great job.
+our current hybrid work approach focuses on adapting to different needs, including increased flexibility that works best for the teams and the individuals with as much self-determination as possible.
+get more insights on how we work on our blog or follow us on twitter to find out more about our hiring process.
+who we are
+at moia gmbh, our team of more than 250 employees develops the technical products for our on-demand ridepooling service in the form of an end-to-end integrated product, from hub, fleet, and driver management to passenger and b2b solutions. at the same time, we want to make the vision of an autonomously driving mobility service a reality and plan to bring the first autonomous moia vehicle to the streets by 2025.
+at our offices in berlin and hamburg, international teams of developers, engineers, designers, and strategists work on a shared mission. as a tech company, more than half of our employees are developers. we pursue value-driven development based on our product values of comfort, reliability, safety, and privacy.
+we aspire to be a leading company in the fields of rethinking mobility and improving urban transportation by making it more relaxed, more affordable and an entirely positive experience for everyone.
+moia gets things moving. on a shared journey – towards an easier, smarter, and more meaningful future.

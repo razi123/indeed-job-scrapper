@@ -7,6 +7,7 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 
 from pyspark.sql import SparkSession
+from pyspark.sql.types import StringType, StructType, StructField
 import spark_setup
 import pipeline_wrangling
 
@@ -43,9 +44,22 @@ class Myjobs:
             except NoSuchElementException:
                 print('not found')
 
+        df_schema = StructType([
+            StructField("Company", StringType(), nullable=True),
+            StructField("Programming", StringType(), nullable=True),
+            StructField("Database", StringType(), nullable=True),
+            StructField("Frameworks", StringType(), nullable=True),
+            StructField("Technologies", StringType(), nullable=True),
+            StructField("Cloud", StringType(), nullable=True),
+            StructField("Extras", StringType(), nullable=True),
+            StructField("Tools", StringType(), nullable=True),
+            StructField("Sprachen", StringType(), nullable=True),
+        ])
+
         df = self.extract_job_description(spark, driver, dict_company, self.raw_folder_path)
+        #df2 = df.iloc[:, :-1]  # check why extra named column is added at hte end of column
+        #df = spark.createDataFrame(df2, schema=df_schema)
         df_cleaned = pipeline_wrangling.clean_pipeline(df)
-        print(df_cleaned)
 
 
     @staticmethod
@@ -57,7 +71,7 @@ class Myjobs:
         de_skills["Frameworks"] = ["django", "kubernetes", "django", "airflow"]
         de_skills["Technologies"] = ["ci/ci", "github", "github actions", "gitlab", "docker"]
         de_skills["Cloud"] = ["azure", "aws", "google cloud", "gcp", "gcloud"]
-        de_skills["Extra"] = ["kanban", "jira", "confluence"]
+        de_skills["Extras"] = ["kanban", "jira", "confluence"]
         de_skills["Tools"] = ["tableau", "power bi", "qlik sense"]
         de_skills["Sprachen"] = ["Englisch", "English", "Deutsch", "German"]
 
@@ -66,7 +80,7 @@ class Myjobs:
         values = list(de_skills.values())
 
         df_empty = pd.DataFrame(columns=["Company", "Programming", "Database", "Frameworks", "Technologies", "Cloud",
-                                         "Extra", "Tools", "Sprachen"])
+                                         "Extras", "Tools", "Sprachen"])
 
         for i in range(len(job_dict["link"])):
             load_job_link = job_dict["link"][i]
@@ -83,10 +97,8 @@ class Myjobs:
             file_obj.write(job_discription)
 
             out_dict = {"Company": [], "Programming": [], "Database": [], "Frameworks": [], "Technologies": [],
-                        "Cloud": [], "Extra": [], "Tools": [], "Sprachen": [], }
-
+                        "Cloud": [], "Extras": [], "Tools": [], "Sprachen": [], }
             out_dict["Company"].append(job_dict["company"][i])
-            #out_dict["Sprachen"].append("Englisch")
 
             for idx, value in enumerate(de_skills.values()):
                 for element in value:
@@ -101,7 +113,7 @@ class Myjobs:
             df_empty = pd.concat([df_empty, pd.DataFrame.from_records([{'Company': out_dict["Company"], 'Programming': out_dict["Programming"],
                              'Database': out_dict["Database"], 'Frameworks': out_dict["Frameworks"],
                              'Technologies': out_dict["Technologies"], 'Cloud': out_dict["Cloud"],
-                             'Extras': out_dict["Extra"], 'Tools': out_dict["Tools"],
+                             'Extras': out_dict["Extras"], 'Tools': out_dict["Tools"],
                              'Sprachen': out_dict["Sprachen"],}])])
 
         return df_empty

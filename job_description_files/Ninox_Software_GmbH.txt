@@ -1,0 +1,24 @@
+wir suchen
+we look for a quality assurance engineer with experience in test automation for single-page web applications.
+your mission
+quality - we serve tens of thousands of small and medium businesses which heavily rely on ninox to drive their business and processes: bring our automated testing strategy, monitoring, and alerting solutions to the next level to detect defects early and ship fixes fast.
+test automation - apply your profound knowledge of test automation tools to ensure the quality of our react/typescript frontend which powers our cross-platform app (web, ios, ipados, macos, android).
+impact - take end-to-end responsibility for how ninox users experience the product. shape the future of no-code/low-code technology and help us shape new experiences for our users.
+lead by example - as a member of a fast-growing startup, you will be defining the way we work within the engineering team but also how we collaborate with ux designers, content writers, product managers, and all the stakeholders.
+lean & agile - bring your knowledge and expertise and help us deliver faster and better. contribute to improving clarity and visibility in our processes, with a big focus on planning and execution.
+what you need to succeed
+you have a degree in computer science or a comparable professional qualification.
+you have 2+ years of experience as a test and quality assurance engineer.
+you have experience in designing test cases for dynamic, data-heavy single page web applications.
+once you spot a problem, you love to dig deeper, make it reproducible and work closely with the engineering team to find the solution.
+html, css, javascript, react look familiar to you and you like to deepen your skills in this area.
+you are an analytical person, document your findings in a structured way and always strive to improve the overall process.
+you are a team player, eager to mentor your junior colleagues and grow as a group.
+you are a good communicator and have very good written and spoken english.
+why ninox
+ninox is a leading low-code platform for business applications. we empower business teams to take back ownership of their processes and work more efficiently. with ninox, anyone can create database applications for internal processes like crm, erp and multi project management – without writing a line of code.
+join us and bring low-code to the next level! you will work together with inspiring team mates on a sophisticated product in a fast growing company. and you will have the opportunity to shape the future of business software. your work will have a direct impact on the day-to-day operations of thousands of ninox customers.
+a diverse, multicultural, and highly motivated team. we believe that great teams are the key for success.
+excellent working conditions with remote work options. we are result-driven and we want to enable you to excel!
+an awesome dog-friendly office at the heart of berlin-mitte.
+30 days of vacation.
