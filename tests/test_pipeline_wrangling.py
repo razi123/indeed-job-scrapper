@@ -2,8 +2,6 @@ import os
 import sys
 from importlib import import_module
 
-import pandas as pd
-
 import utils.utils_integrationtests as tu
 
 os.chdir(os.path.dirname(__file__))

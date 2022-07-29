@@ -1,0 +1,30 @@
+be our next hero! - join the world’s leading local delivery platform.
+we are looking for a staff software engineer (golang) (all genders) to join the vendor management squad on our journey to always deliver amazing experiences.
+the team is responsible for owning the data of the vendors and being the single source of truth by the vendors` information as well as reflect their business needs through efficient and scalable solutions. as a staff engineer, you will own the applications running by the vendor management squad, help us to move towards our short and long term goals, and help neighbouring teams to maintain and achieve their goals.
+if you're a creative problem solver who is hungry for a new adventure, an international workplace is waiting for you in the heart of berlin!
+
+your mission:
+guide teams and build a culture to create an architecture that scales.
+foster collaboration and knowledge sharing between teams.
+promote and guide cross-team initiatives to improve the system.
+value quality by using design patterns and best practices in relevant technologies like cloud environments and ci/cd and testing.
+strive for simplification of systems and processes to ensure fast and reliable delivery of our products.
+your heroic skills:
+deep understanding of system design and distributed systems architecture.
+hands-on experience with go-lang.
+believe in continuous integration and continuous delivery principles.
+ability to write, understand, and maintain complex technical documentation and instructions.
+knowledge of data streaming architecture.
+great understanding of cloud-based architecture and service providers, especially aws.
+deep understanding of service-oriented and microservices architectural patterns, troubleshooting methods, and best practices.
+excellent written and verbal communication skills in english.
+nice to have:
+hands-on experience with frontend technologies such as reactjs and micro-frontend.
+experience working with dora metrics.
+
+about us:
+
+as the world’s leading local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. from prepared meals to groceries, flowers, coffee, medicine… we deliver whatever you need. we operate in over 50 countries across asia, europe, latin america, the middle east and north africa and are also pioneering quick commerce, the next generation of e-commerce. as one of europe’s largest tech platforms, we work with a global ecosystem of employees, riders, and partners, and are at the forefront of innovation.
+as one of our heroes, you’ll work in an international and dynamic environment, with other heroes from every corner of the globe where you can grow and develop your career with the right support, every step of the way. we are building a company that future generations can be proud of and are committed to welcoming everyone to our table. delivery hero has a lot to offer when it comes to benefits: we want to empower our heroes and that means caring about all aspects of their wellbeing, such as: career, community, social, physical and financial. learn more about our benefits at delivery hero here.
+at delivery hero, we believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you. just be yourself and we can’t wait to see what value you bring to the role. we're as interested in your character as we are in your talent.
+have we sparked your interest? if you are looking for an environment where our company dna is defined by our values and people leader principles, please apply and send us your cv using the online form. please note, we do not accept applications via email.

@@ -1,29 +1,29 @@
-scout24 is a listed tech company that has been revolutionising digital marketplaces for over 20 years. driving various strategic initiatives over the years, today we focus solely on building an ecosystem for the german and austrian real estate market. with immoscout24, we have been successfully bringing together owners, agents and other services with users. our know-how and diverse services ensure market transparency and make hard decisions easy for our users.
-a diverse and inclusive team of proactive people awaits you at scout24. together, we bring innovative ideas forward in a data-driven environment. this is how ideas become reality.
-we need your support here.
-our philosophy here is simple: not only do your ideas count, but you do too. we want you to develop further and become a permanent member of our team. because success develops together!
-what you can expect from us
-your time is precious: we offer flexible working hours, home office and 30 days holiday annually.
-commitment to diversity and an inclusive environment: we value diverse personalities, skills, values and backgrounds.
-being a part of a company that promotes the topic of sustainability and lives by it every day.
-have kids? we'll support you with a professional family service, which helps you to find a childcare centre or offers emergency childcare.
-moving? we offer support with the move and with the application for visas.
-further development: from professional know-how and language courses to workshops on individual growth skills – here you are the center of attention
-stay healthy - take part in company sports classes, team runs and cycling events. also book, massages or receive discounts for gyms.
-dogs are welcome: bring your dog to work (according to rules, of course!).
-we are a tech company: we work with the latest technical tools and hardware.
-what we need from you
-provide best in class service to scout employees within our product and service team framework
-a great “can do” attitude to problem solving and being the employees' allies
-broad technical skill set as well as a driven curiosity and passion to learn
-proactively working towards availability, performance & it security improvements
-partake or coordinate change and incident management as well as constant service improvements
-liaise with vendors, suppliers and other it personnel for problem resolution
+scout24 is a listed tech company that has been revolutionising digital marketplaces for over 20 years. driving various strategic initiatives over the years, today we focus solely on building an ecosystem for the german and austrian real estate market. with immoscout24, we have been successfully bringing together owners, agents and other services with users. our know-how and diverse services ensure market transparency and make hard decisions easy for our users. a diverse and inclusive team of proactive people awaits you at scout24. together, we bring innovative ideas forward in a data-driven environment. this is how ideas become reality.
+our philosopy here is simple: we want to build the best digital real estate platform, and we would like you to help us achieve this!
+if this sounds interesting to you, we‘d love to have you join us!
 
-what you need to bring
-multi os understanding and knowledge. including apple mac and windows client and servers. linux knowledge advantageous.
-good knowledge of mobile devices and management.
-experience in standard office application especially for iam, collaboration and communication systems like o365/azure, auth0, du0 security, slack, zoom etc as well as specialist applications for teams as needed.
-standard basic networking knowledge like ip addressing, dns, dhcp, vlan
-expert technical understanding, with the ability to speak to engineers as well as internal customers.
-eagerness for personal, team and business need continuous improvement (e.g. optimizing processes by automation) and never-ending curiosity for new tools and technologies
+what you can expect from us:
+your time is precious: flexible working hours, home office and 30 days holiday annually
+ultra-modern, sustainable office spaces, perfectly adapted to our working life
+there are subsidies for company pension schemes
+how do we keep ourselves on our toes? with fruit, coffee and a great gym
+you drive to work? no problem! we have parking spaces at the office
+you come to us by public transport or bike: we offer you a subsidy
+what are we doing for lunch? dinner together and we also get a subsidy for that
+we are one team and we celebrate this through joint undertakings and events
+
+what you will focus on:
+you will use your full-stack experience to design innovative and intelligent user focused solutions that include front-end and back-end systems across the scout24 digital real estate ecosystem.
+based on our microservices architecture, you will design, develop, and deploy large scale, performant software solutions on aws in diverse, cross-functional teams across scout24.
+you will use java/kotlin for spring based applications, react for the frontend, and typescript for serverless applications.
+you will commit to the “you build it you run it” approach and take ownership for the entire development cycle.
+you will be a role model for high quality and strong engineering principles, like clean code, pair programming, continuous delivery, and test-driven development.
+you will consistently look at ways to improve our technology and processes by leveraging current trends in software design, architecture, and web services.
+
+we are excited to meet you if:
+you share our passion for technology and you believe in creating top notch products.
+you are excited about delivering end-to-end experiences across the whole software architecture, from backend to frontend and using apis to glue it together.
+you are experienced in designing, building, testing, debugging and optimizing code of large-scale distributed systems.
+you have hands-on experience on the technologies we use.
+you have effective communication skills and love working on a team where you constantly learn, experiment, and iterate quickly.
+curiosity, continuous learning, and knowledge sharing are part of your dna.

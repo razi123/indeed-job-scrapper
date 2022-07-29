@@ -1,0 +1,54 @@
+universal music is the market leader in the music business. the world’s most famous and most successful record labels belong to us. we’ve been writing music history for over 100 years representing legendary musicians across all genres. our accomplishments are driven by our love for music, extraordinary artists and our ambitious team.
+beats & bytes is a network of small, autonomous product teams, who act as microenterprises. to be agile and innovative, we need degrees of freedom and agility! empowerment and community are part of our culture. as the technical backbone we generate added value for universal music by solving our user’s problems. the beats & bytes team forms the digital foundation for our business and actively contributes to the competitive advantage of universal music.
+this role will become a member of the cross-functional ecommerce product team in beats & bytes. in close cooperation with the internal and external stakeholders, we create a virtual music & merch world for our customers. we are responsible for the technical conception and execution of web-products, and the ecommerce space. our tasks lie within the development and maintenance of the web shop and backend systems, the programming of interfaces (apis) as well as the creation of websites, website tracking, seo and data privacy mechanisms.
+here’s your chance to shape our future together with us! effective immediately, we’re looking for a (senior) frontend engineer (all genders) to become part of our beats & bytes team at our headquarters in berlin. it will be a permanent full-time position.
+your gig:
+you will work in the scope of sprints with talented and experienced colleagues as (senior) frontend engineer within an autonomous and agile ecommerce product team
+together with your team you will take charge of the estimation of a request, the development and qa, and the monitoring during operation
+with your product team you will assess business cases, suggest possible technological solutions and contribute towards the definition of the tech strategy of ecommerce engineering
+the continuous advancement of ecommerce products regarding security, reduction of complexity, enhancement of cost efficiency, performance and usability are also part of your tasks
+your tasks will include the further development of our web shop landscape with more than 260 stores as well as the development of new stores
+you will keep track of the results of your developments and you are proud to present them
+you are an active member of the developer’s community of practice and cater for best practice communication between developers
+you analyze market developments and technological trends to assess their potential application for universal
+you share your know-how, e.g., in the form of trainings, presentations or workshops, which you prepare yourself
+
+we are keen to jam with you if you:
+have multi-year experience as a frontend engineer and architect
+you are equipped with profound knowledge in frontend development with html, css, bootstrap and are very familiar with javascript and js frameworks such as react or extjs
+knowledge of go programming language and php are a plus
+you have a solid understanding of shopify and general ecommerce and consumer marketing technologies
+you have knowledge of concepts such as rest, graphql, responsive web design, microservices, git, ci/cd etc.
+you stand out positively if you have experience with template engines such as twig
+you can communicate efficiently in a tech as well as business related context
+you have experience in cooperating with product managers and ui/ux designers
+you feel confident and natural reading, writing, and speaking english; german skills are a plus
+
+your personality matters:
+you have a high digital affinity and are passionate about new technologies as well as digital transformation
+you thrive working in interdisciplinary teams and you’d choose teamwork over heroism anytime; you maintain an open communication with your colleagues and have excellent people skills
+constructive nonconformity is part of your strengths
+you can quickly empathize with other people’s perspectives and know exactly when to stand your ground and how to present it convincingly
+you consider yourself an innovator and initiator who enables its environment to think outside the box; you love contributing creative ideas
+you can present topics in a very comprehensible and goal-oriented manner
+you’ve been described as reliable and well-organized which allows you to stay focused, structured and calm – even in stressful situations
+you’ve been praised for your excellent abilities as change maker, listener and communicator
+it is fun for you to advance products from a technical perspective and to take responsibility
+your thinking is guided by strategy, analysis and innovation which enables you to connect the dots quickly and logically
+
+who we are:
+music embodies emotion, creativity, adventure, tradition and innovation all at the same time – as a team we strive to advance the universal music project
+diversity, respect and tolerance – both human and musical – are essential for us. therefore, diversity and inclusion are consistently supported and championed by the people & culture team as well as our better together initiative
+we live an open communication and thrive as a team – for this purpose we meet at eye level regardless of hierarchy
+in our business it is important to make good decisions quickly: we count on proactive employees who think ahead and find simple solutions
+together we take responsibility, even beyond our daily business, which is why we are actively committed to more sustainability and environmental protection through our sustainability workgroups
+
+our benefits – because you’re important to us:
+thanks to our hybrid work model you benefit from high flexibility and room for collaboration and interactions in our headquarters in berlin
+keep moving sustainably through the capital thanks to special rates for bvg tickets (public transport) and our job bike leasing offer
+we offer professional development through various workshops and courses
+take care of your mental health with our employee assistance program for all challenges in life (professional and private); we offer confidential counseling and coaching through a third-party provider
+stay healthy through various sports activities and healthy food in our subsidized canteen
+
+#joinuniversalmusic
+we look forward to receiving your application via our online application form! please upload your documents (letter of motivation / cover letter, cv, references) as files and state your earliest starting date as well as salary expectations.

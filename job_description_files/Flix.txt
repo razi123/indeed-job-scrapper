@@ -1,0 +1,33 @@
+we're looking for a motivated and driven senior python engineer (m/f/d) who will help us shape our team, drive the company to the next level, and have the most direct influence on our success.
+your tasks – paint the world green
+you'll work on building solutions which automate our outbound communication with customers - freeing up time for our agents to solve problems best suited for humans, lower wait times, and increase customer satisfaction
+you'll help scale our contact center platform, which serves hundreds of thousands of users across 37 countries
+you'll explore and expand new contact surfaces for our users including bots on platforms such as google assistant, amazon alexa, and facebook messenger - working at the forefront of natural language processing technologies and engineering data automation
+you'll identify potential areas of improvement and proactively define architectural and technical solutions
+you'll guide your team in architectural and technical decisions, fostering a culture of technical excellence within the team and customer satisfaction across the organization
+you'll help develop and maintain customer facing as well as internal troubleshooting and monitoring flows
+your profile – ready to hop on board
+you are an experienced backend engineer (+5 years of experience), but experience isn't everything: we deeply care about motivation, pragmatism and a good team fit
+you have expert knowledge in python
+you have experience in designing and developing large scale applications.
+understanding of distributed systems and data streaming, ideally experience with kafka, rabbitmq or similar
+you're interested in understanding the impact of your work and setting up adequate monitoring infrastructure to measure service metrics and enable data-driven development
+you're able to lead your team in technical discussions based on your engineering experience and lateral leadership skills
+you have experience owning the full software delivery lifecycle (incl ci/cd, monitoring/alerting).
+you have experience deploying production-level code with either aws, google cloud, azure cloud or another comparable cloud platform.
+you are an enthusiast when it comes to quality; you have experience in test-driven development and other qa techniques
+you have an agile mindset and solution driven way of thinking
+you enjoy brainstorming and it's easy for you effectively communicate technology ideas and issues
+you're fluent in english
+you bring excellent cross-team multidisciplinary collaboration skills
+our perks – more than just a job
+you have an impact. with innovation and smart technology, we are creating the easiest way to travel. we want your ideas and give you autonomy to make them reality.
+flix is flexible. organize your own schedule, and balance work between the office and home as it's best for you. we give you trust-based hours and a flexible smart working policy.
+travelling is our passion. discover the world with your free flix rides and bring along your friends and family for half price.
+teamwork makes the dream work. our flixteam has people from over 80 different nations. we work in a multicultural environment where we can challenge and support each other.
+we're not only green in color. we're building for the long term, and that means protecting our planet. we constantly test new green technologies and compensate for the co2 after all our business travel since 2018.
+your well-being is important to us. to treat your mind and body we will give you a competitive paid time off package, mental health support including 1:1 consultations with a psychologist, and a neat discount on urbansportsclub memberships.
+want to rewrite the history of mobility with us? then join our ride and apply now. we're excited to hear from you!
+flix – a place to enjoy work and have an impact
+the future of transportation is green. here at flix tech, the r&d group, we develop software with the brightest minds from around the world to engineer new experiences for our millions of customers across our apps and websites. every day we solve challenging problems, like how to scale rapidly around the world and how to make an experience that delights our customers. we have a culture of sharing ideas, contributing to open source projects and being an active member in our technical communities.
+flix is proud to be an equal opportunity employer. we celebrate diversity and do not discriminate on the basis of race, color, religion, gender (including pregnancy and gender identity), national, social or ethnic origin, political affiliation, sexual orientation, marital status, disability, age, veteran status, or other legally protected characteristics. all employment decisions are based on business needs, job requirements, competence and merit.

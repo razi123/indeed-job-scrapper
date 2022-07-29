@@ -1,15 +1,34 @@
-bs in computer science or related discipline, or equivalent work experience
-software development experience focused on linux.
-knowledge in at least two of c, bash, python or java.
-good understanding of linux fundamentals
-knowledge of linux package management, version control systems, automated build processes and software unit testing
+3+ years of software development experience
+programming experience with at least one modern language such as java, c++, or c# including object-oriented design
+1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+bachelor's degree or equivalent experience
+computer science fundamentals in object-oriented design, data structures and algorithms.
 
-job summary are you interested in software development, linux, scalable systems, virtualization and cloud computing? continue reading or reach out to us with your application; we're happy to tell you more about it. at the amazon dev center in bucharest we're looking for passionate builders to join our engineering teams working at the operating system, virtualization, and platform technologies that power aws. you will be part of a solid engineering team that has the feel of a start-up. this is an opportunity to drive innovation, work on complex technical challenges, be in touch with operations, and engineer systems on a massive scale. you will be surrounded by people who are smart and who believe that best service is critical to customer success. your work will focus on new tools, performance and productivity improvements for ec2. key responsibilities include developing end-to-end software solutions for ec2, and supporting and troubleshooting the solutions once deployed to production.
-experience developing in a linux environment
-knowledge of virtualization technologies
-experience in oo design and at least one oo language such as java or c++
-knowledge of distributed systems architecture and related technologies.
-the ability to operate in a fast-paced environment
+job summary
+amazon web services (aws) is growing rapidly–millions of customers from independent developers to large enterprises visit our management console.
+
+the aws user experience products & platform team is responsible for products that enable aws users to manage their applications and infrastructure on aws. our mission is to deliver an effective, and loved user experience that makes it easy for all users to discover, learn, and build on aws. today, we own the aws management console, the aws console mobile app, the aws chatbot, and the user experience platform used by 175+ aws service teams to develop and deliver their user experience across multiple channels (web, mobile, chat).
+
+the aws user experience products & platform team is a multi-disciplinary team comprising members from different areas - ux research, ux design, user insights & analytics, machine learning, natural language processing, secure/available/scalable (at aws scale) services, and web/mobile/conversational user interfaces. our team is a great place for those who are passionate about building great user and developer experiences for millions of users across the globe. our team members love solving challenging problems to innovate on behalf of aws users who come from diverse backgrounds spanning different personas, differing levels of experience, different countries, and different expectations on how they would like to interact with aws.
+
+as a software engineer on the team:
+you will guide our team's technical strategies, vision, and architecture
+you will solve a breadth of technical problems involving back-end software engineering, and user interface development
+you will design and build software that is highly available, performant, scalable, and extensible
+you will work with security, user experience and other teams to design and build tooling supporting new customer experiences
+
+aws has the most services and more features within those services, than any other cloud provider–from infrastructure technologies like compute, storage, and databases–to emerging technologies, such as machine learning and artificial intelligence, data lakes and analytics, and internet of things. whether its identity features such as access management and sign on, cryptography, console, builder & developer tools, and even projects like automating all of our contractual billing systems, aws platform is always innovating with the customer in mind. the aws platform team sustains over 750 million transactions per second.
+we have a formal mentor search application that lets you find a mentor that works best for you based on location, job family, job level etc. your manager can also help you find a mentor or two, because two is better than one. in addition to formal mentors, we work and train together so that we are always learning from one another, and we celebrate and support the career progression of our team members.
+our team also puts a high value on work-life balance. striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
+here at aws, we embrace our differences. we are committed to furthering our culture of inclusion. we have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. we have innovative benefit offerings, and we host annual and ongoing learning experiences, including our conversations on race and ethnicity (core) and amazecon (gender diversity) conferences. amazon’s culture of inclusion is reinforced within our 14 leadership principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+#awsplatform #aws.team-console
+
+master's degree or equivalent experience
+strong and creative problem-solving abilities
+experience with agile and scrum methodologies
+passion for simplicity and building highly leveraged, reusable software platforms, components, and apis
+knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+excellence in technical communication with peers and non-technical cohorts.
 
 amazon is an equal opportunities employer. we believe passionately that employing a diverse workforce is central to our success. we make recruiting decisions based on your experience and skills. we value your passion to discover, invent, simplify and build. protecting your privacy and the security of your data is a longstanding top priority for amazon. please consult our privacy notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
 

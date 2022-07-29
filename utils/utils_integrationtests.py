@@ -1,6 +1,4 @@
 import inspect
-import os
-import sys
 from pyspark.sql.types import *
 from pyspark.sql import DataFrame
 

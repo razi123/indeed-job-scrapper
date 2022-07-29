@@ -1,6 +1,8 @@
-wefox is the world's leading insurtech that is reinventing insurance at scale, with a record-breaking series c funding in 2021 and our series d funding in 2022 wefox has raised over $1 billion us dollar. wefox is on track to revolutionise the insurance industry by empowering the customer and delivering personalised experiences driven by data.
+wefox is the world’s leading insurtech that is reinventing insurance at scale, with a record-breaking series c funding in 2021 and our series d funding in 2022 wefox has raised over $1 billion us dollar. wefox is on track to revolutionise the insurance industry by empowering the customer and delivering personalised experiences driven by data.
+
 our vision is to make insurance simple and 10x better. we provide our customers with 360-degree advice through our network of advisors and optimise each individual's risk coverage through innovative prevention, assistance and insurance products.
-we are currently looking for a lead machine learning engineer to join our team in paris. the team is the wefox's advanced innovation team and our focus, as a cross-functional team, is to leverage machine learning to improve the customer experience, and to deliver innovative products like risk detection and risk prevention. as a lead machine learning engineer, you will be involved throughout the lifecycle of the development with the responsibility of machine learning model development: state-of-the-art and model architecture, data exploration and model explorations, implementation, training, inference/serving, optimization, monitoring, and maintenance.
+
+we are currently looking for a lead machine learning engineer to join our team in paris. the team is the wefox’s advanced innovation team and our focus, as a cross-functional team, is to leverage machine learning to improve the customer experience, and to deliver innovative products like risk detection and risk prevention. as a lead machine learning engineer, you will be involved throughout the lifecycle of the development with the responsibility of machine learning model development: state-of-the-art and model architecture, data exploration and model explorations, implementation, training, inference/serving, optimization, monitoring, and maintenance.
 
 in this role you will :
 lead by example, you will be a hands-on leader.
@@ -17,9 +19,7 @@ work closely with product owners, devops, and quality assurance in an agile cros
 bring your own ideas through our ideation process.
 have a strategic and continuous improvement mentality.
 love for new technologies and continuous learning.
-
 what you bring :
-
 minimum of 6 years of experience (including ph.d. if applicable) as a machine learning engineer. ph.d. in ml/cv/nlp or related topic is clearly a plus.
 strong knowledge of machine learning and deep learning architectures (fully connected, cnn, lstm, transformers…) with some experience training and customizing machine learning models.
 experience in one (or more) of the following fields: computer vision, natural language processing, audio processing, time series, anomaly detection...
@@ -32,17 +32,21 @@ experience in code optimization is a plus.
 experience in understanding product requirements.
 embrace ownership, autonomy, and agile methodology.
 good english proficiency (work in an international environment).
-
 what we offer :
 here are some of them:
 flexible working hours including hybrid working
-free access to a mental health and well-being platform to access to personalised care, such as 1:1 coaching and therapy sessions for life's ups and downs — whether at work, at home, or in your relationships
+free access to a mental health and well-being platform to access to personalised care, such as 1:1 coaching and therapy sessions for life’s ups and downs — whether at work, at home, or in your relationships
 a stack of the latest technologies and working gadgets
 training and coaching opportunities
 free coffee, fruit and snacks, because we need fuel!
 if you love a less-formal work environment, flexible paid time off, a great compensation package and benefits offering - and most of all, being the authentic you, get in touch, we want to meet you!
+
 to all the misunderstood geniuses, rebels and mavericks looking to change the world for the better. come work with us!
-additional benefits vary between countries and can be explained in more detail by a ta partner.
+
+\* additional benefits vary between countries and can be explained in more detail by a ta partner.
+
 your contact person for this role is tony veloso.
+
 we are an equal opportunity employer and value diversity. we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status.
+
 by submitting the application i confirm to have read and accepted the data privacy policy governing the job application process.

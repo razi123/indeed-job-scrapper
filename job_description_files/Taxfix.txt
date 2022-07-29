@@ -1,0 +1,50 @@
+our story:
+every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. we're working on fixing that. our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound confidence.
+
+spread across berlin and madrid, team taxfix is a compassionate group of solution-finders. we speak our minds openly, and with 500+ professionals from 45+ different nationalities, we're rich in ideas and voices. in four years, we've raised over 300 million euros in funding and helped people reclaim more than one billion euros.
+
+your challenge:
+as a (senior) data analyst - retention & lifecycle you will collaborate closely with the lifecycle & crm marketing team and act as their embedded data analyst. together with the team you will aim to provide actionable insights and foster a data driven way of working and decision making. you will create better customer understanding by doing deep-dive analysis or creating segmentation. you will also drive our experimentation and a/b testing forward by bringing best practices to the lifecycle & crm marketing team in order to generate learnings.
+
+your team:
+you will be working as part of our marketing data analytics team, which is part of our data organisation.
+
+the data team enables everyone in the organisation to make data-informed decisions and drive business growth. we’re committed to data democratisation, scalability, and actionable insights. with a team of data analysts ranging from growth analytics to operations, finance and product analytics, bi and dwh developers and machine learning engineers, we’re building tools and methodologies for data discoverability, accessibility, and reliability.
+
+by using braze, snowflake, python, airflow, dbt, looker, metabase, notebooks, segment, adjust, funnel, voucherify and many more, we’re able to reach our ambitious goals.
+
+our team members possess a unique combination of technical skills, business understanding, and healthy communication. we can rely on each other to deliver our best and are committed to personal development via knowledge sharing, through mentoring and innovation days.
+
+your responsibilities:
+drive lifecycle & crm marketing optimisation through data-informed insights and recommendations
+building segmentation and providing insights regarding users behavior
+enable your team with access to data by providing dashboards and analysis
+own lifecycle & crm analytics best practices and standards, specifically around a/b testing
+conduct ad-hoc and diagnostic analysis to answer specific business questions
+conduct experiments (mostly a/b tests) and campaign analysis
+educate your stakeholders on the usage of data and help them to become more data fluent
+be a data (sparring) partner for the crm team, also on strategical and tactical topics
+your profile:
+3+ years of analytical experience, ideally around creation of insights
+proficiency in sql including at least a basic understanding of etl and dwh data modeling
+data visualization and reporting expertise (looker, tableau, powerbi, metabase, …)
+basic experience in python (or r) including packages such as pandas, numpy, scikit-learn, statsmodels, etc
+experience around segmentation & clustering
+ability to be a business partner, good communication and storytelling skills, strategic and business thinking and the willingness to integrate yourself into a mission team
+collaborative, open and has a flexible mindset with critical thinking
+proven practice of being able to make impact using data
+optional: experimentation skills with a focus on a/b testing
+optional: crm or product analytical experience
+optional: knowledge of crm and campaign analytics
+why taxfix?
+
+get to make an impact on thousands of people’s lives every day.
+be paid a competitive salary with stock options.
+benefit from home office opportunities and flexible working hours.
+have the option to take german language courses.
+be supported to grow and take leadership from day one.
+work with the best and learn from other competent and brilliant people.
+have the option to bring your best buddy to work. we love dogs!
+excited? so are we. learn more about team taxfix on our blog and get a glimpse of our culture below:
+
+at taxfix, we don't just accept diversity—we celebrate it. we're proudly committed to equal employment opportunities no matter your gender, race, religion, age, sexual orientation, colour, disability, or place of origin. we cherish each person's individual contribution to our overall identity, purpose, and goals. join us!

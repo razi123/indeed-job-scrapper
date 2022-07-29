@@ -1,0 +1,32 @@
+for an international customer we are currently looking for an data platform engineer / senior data engineer (f/m/d).
+
+aufgaben
+
+contribute to building private cloud-based data platform by adopting leading technologies to be running on top of self-managed, running at scale, k8s clusters
+develop your own platform-as-a-service (paas) product
+qualifikation
+
+4+ years of general it experience and 2+ years of experience playing data architect role
+reference big data architecture(s) knowledge
+big data technologies and frameworks usage experience
+data pipelining experience
+hands-on general programming experience
+programming languages skills (one of golang/rust/python/scala/ java)
+container/docker, k8s, k8s operators, helm
+gitlab (scm, ci pipelining, artifacts registries)
+solid knowledge of ci/cd
+devops, gitops / argocd
+cloud data/analytics services knowledge and experience (mainly gcp, azure, aws)
+order type: contract
+
+location: berlin
+
+start: asap
+
+duration: 3 month (extension possible)
+
+if you are interested, please tell us about your hourly rate and your availability.
+
+we are looking forward to your application in an ms-word-readable format quoting the reference-number 3134.
+
+if you have any further questions don’t hesitate to contact rico schnur farias (+49 152 289 826 27).

@@ -1,0 +1,27 @@
+tasks
+
+you will hold responsibility for the projects you work on.
+you will assist and learn hands-on through automation and infrastructure improvements.
+in your first month, you will be familiarized with our team and have already resolved some bugs and small requests. your code has gone live multiple times in the first month.
+in the following months, your knowledge of our codebase has drastically increased and you are able to contribute in more areas.
+at the end of your internship, you have a solid foundation of product and system knowledge. you have learned core communication and project management skills for a career in development.
+requirements
+
+you have a project that can show your interest and/or skills in server admin, operations, data ingestion, monitoring, or any other relevant skill needed for the role.
+you feel comfortable working in a terminal and working with linux.
+you have a natural curiosity about the multifaceted nature of infrastructure systems.
+you are transparent, mindful and empathetic towards your teammates.
+you can easily express your ideas in written and spoken english
+benefits
+
+an opportunity to develop your programming skills by working on impactful projects
+an international team with a wide range of backgrounds
+a salary that matches industry standards
+a respectful atmosphere with a focus on professionalism
+a family-friendly work environment
+state of the art equipment to ensure that you can focus on the right things
+daily paid lunch at our local canteen
+yearly budget for individual professional development
+we’ve found that cover letters are a great way to separate your application from the sea of applicants. we strongly recommend submitting a cover letter together with your cv.
+
+we are only considering applicants with eu work permission.

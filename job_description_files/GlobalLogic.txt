@@ -1,0 +1,46 @@
+job:
+irc117657
+
+location:
+germany - berlin, cologne
+
+designation:
+senior software engineer
+
+experience:
+3-5 years
+
+function:
+engineering
+
+skills:
+architecture, aspice v.3.1, automotive, autosar, ibm rational doors, requirement engineering
+
+description:
+in unseren projekten arbeiten wir für unsere kunden an den fahrzeugen der übernächsten generation im bereich elektromobilität und autonomous driving
+requirements:
+nachgewiesene projekterfahrung im bereich systems engineering
+berufserfahrung als embedded entwickler im bereich automotive
+erfahrung in safety-relevanten projekten (idealerweise bis asil d)
+gutes verständnis für autosar (vector tools)
+vertiefte kenntnisse im einem oder mehreren der themen autonomes fahren, batteriemanagement, adas, light, radar oder kamera
+sicherer umgang mit tools wie doors, rhapsody und ptc
+ausgeprägte konzeptionelle fähigkeiten
+sehr gute kommunikationsfähigkeit, deutsch fließend in wort und schrift, gute englischkenntnisse
+preferences:
+c, embedded
+job responsibilities:
+als system engineer in unseren automotive projekten gehören zu ihren aufgaben:
+analyse der kundenanforderungen
+aufbereitung von system- und softwareanforderungen
+erstellung der system-architektur
+mitwirkung bei strategischen entscheidungen gemeinsam mit der projektleitung
+abschätzung der technischen und kommerziellen umsetzbarkeit und bewertung möglicher entwicklungspartner
+what we offer
+exciting projects: come take your place at the forefront of digital transformation! with clients across all industries and sectors, we offer an opportunity to work on market-defining products using the latest technologies.
+collaborative environment: expand your skills by collaborating with a diverse team of highly talented people in an open, laidback environment — or even abroad in one of our global centers or client facilities!
+work-life balance:globallogic prioritizes work-life balance, which is why we offer flexible work schedules, opportunities to work from home.
+professional development:we provide continuing education classes, professional certification and training (technical, soft skills, language, and communication skills) to help you realize your professinal goals. being part of a global organization, there are additional learning opportunities through international knowledge exchanges.
+excellent benefits:we provide our employees with competitive salaries, accident insurance, sick leave payment and referral bonuses.
+about globallogic
+globallogic is a leader in digital engineering. we help brands across the globe design and build innovative products, platforms, and digital experiences for the modern world. by integrating experience design, complex engineering, and data expertise—we help our clients imagine what’s possible, and accelerate their transition into tomorrow’s digital businesses. headquartered in silicon valley, globallogic operates design studios and engineering centers around the world, extending our deep expertise to customers in the automotive, communications, financial services, healthcare and life sciences, manufacturing, media and entertainment, semiconductor, and technology industries. globallogic is a hitachi group company operating under hitachi, ltd. (tse: 6501) which contributes to a sustainable society with a higher quality of life by driving innovation through data and technology as the social innovation business.

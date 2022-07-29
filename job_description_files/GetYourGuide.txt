@@ -1,0 +1,41 @@
+we are looking for a senior data engineer, business intelligence to help make the vast amount of data we produce organized and valuable so everyone in the company can make great decisions through insights. you will work on analytics tools, data quality, data discoverability, reporting solutions, data pipelines, data storage and more.
+about getyourguide:
+with 800+ employees from 68 nationalities, getyourguide is on a mission to turn trips into amazing experiences, using our product and technology to change the way travelers find and book things to do and explore their destination. we connect these travelers to our vast catalog of amazing experiences through our online marketplace.
+team mission:
+the data platform team plays the central role in our data-driven strategy, designing and developing our data infrastructure, processes and analytics capabilities. we work on problems such as product events tracking, ab experiments framework, marketing attribution, pricing & availability and large-scale applied machine learning. the team is also responsible for making the vast amount of data accessible, reliable and efficient to query, so our teams can make the best data-driven decisions. we work with a wide variety of tools and technologies, from spark to looker, making this team a great place to learn new skills.
+responsibilities:
+design reporting solutions that drives impact and scale efficiently
+develop new data pipelines and work with data analysts, data scientists and product managers to add new data sources or new views in our data
+implement and maintain data models using analytics tools in order to allow our business users to access the data directly and drive decisions
+design and implement metrics, dashboards and reports
+ensure data quality, accuracy and reliability
+serve as a liaison between the business units, product and marketing teams, analytics team and the data engineering team
+drive adoption of data and reporting solutions and implement self-served solutions which empower our business partners to make prompt, efficient data-driven decisions
+work on data discoverability challenges
+mentor other team members and be involved in hiring
+requirements:
+5+ years of relevant experience in a business intelligence role, including data warehousing and analytics tools, techniques and technologies
+expert knowledge with sql & olap
+knowledge and direct experience in data visualization concepts using business intelligence reporting tools (looker, tableau, jupyter notebooks)
+advanced knowledge of data warehousing concepts and schema optimization based on usage patterns
+experience in multiple rdbms (snowflake, postgresql, mysql)
+experience in developing cross platforms etl processes, maintaining systems for tracking data quality and consistency and using databases in a business environment with large-scale, complex data sets
+experience with python or scala
+nice to have:
+experience with big data technologies (e.g. spark, kafka, hive, hadoop)
+experience with data manipulation tools and libraries (e.g. pyspark, pandas, r)
+prior experience in start-up environment
+we offer:
+virtual stock options - be part of our success story
+work on a product that helps create memorable travel experiences
+smart, engaged co-workers
+speak english in the office with people from over 70 nationalities
+monthly hackathons and weekly tech talks
+annual external training budget - be constantly learning
+well stocked kitchen and our famous pizza & beer friday's
+getyourguide vouchers and free german lessons
+relocation assistance
+curious?
+do you have the skills for the job, enthusiasm about our vision and fit our culture? we are looking forward to hearing from you! for any further questions regarding this position contact us via jobs@getyourguide.com. the recruiter for this role is stephen rose.
+in the meantime, you can check our blog to see what happens behind the scenes at getyourguide and check out our tech radar for an insight into the stack we're using to change the way the world travels.
+it is our commitment that every qualified person will be evaluated according to skills regardless of age, gender identity, ethnicity, sexual orientation, disability status, or religion.

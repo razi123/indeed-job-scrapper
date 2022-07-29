@@ -1,0 +1,65 @@
+work location: fully remote within germany
+(with a possibility to use our office in berlin)
+full-time
+
+what you will do
+your main goal as senior software engineer in our product data and catalogue management team will be the development of our systems that are responsible for the creation and distribution of product information & content across all our sales channels (php/symfony) including pricing management (c#) of our product portfolio impacting customers all over europe.
+
+what you can expect:
+development of the systems supporting data product distribution across our technology landscape
+development of our pricing engine in c# on azure
+creating new (micro)services in php (symfony)
+leading the architecture design of the systems
+reviewing and giving constructive feedback on others' code
+learning new technologies, keeping abreast of existing technologies and helping to introduce them where appropriate
+supporting us to be more cloud-centric
+
+what you bring in
+having at least 4 years of experience as c# software engineer and at least 2 years as php software engineer
+expert in at least one of the php frameworks (symfony required)
+having practical knowledge of object-oriented programming and design patterns
+experiences with software architecture definition, rest apis, unit testing and amqp
+hands-on experience in using docker
+working experience with automated integration tests and ci/cd approach
+experience with git (bitbucket, azure devops) & atlassian tools
+knowledge of mysql/mssql and mongodb databases
+ability and willingness to share knowledge across teams
+a business-oriented approach towards software requirements and development
+very good command of english in speaking and writing
+
+
+would be an asset
+good practical knowledge of python
+understanding of domain-driven design
+experience with azure (terraform) and "monitoring first" approach
+
+what we provide
+the development of each expondoer is of the upmost importance to us:
+you will be assigned to a buddy, who will support, advise and simply be there during there for you during the first 4 to 6 weeks of the onboarding.
+your opinion makes a difference, and you will help us to shape with us expondo's future.
+we provide free user accounts for both udemy for business and babbel to promote your constant development.
+we offer all our employees the freedom to work how it is best suited to their needs:
+whether it will be remote, from the office or a hybrid of both, we will support any decision made and provide the needed hardware to work in comfort.
+if you decide to work at one our locations, all the recommended protective measures are in place for a safe working environment.
+we provide flexible working hours, work-free weekends, and there are no nightshifts.
+
+in our culture we respect our employees' needs and care for each other:
+we care about everyone's physical and mental health, and that is why we provide the best possible conditions for a sustainable work-life balance.
+we also grant expondo sponsored psychological support for all our employees around the clock.
+you will be a part of a diverse team in which good humour, mutual support and respect are highly valued.
+
+we offer competitive pay based on your experience and an excellent benefits package. the specific offer depends on a certain location and evaluated skill level.
+
+the ranges are 75-95k eur gross/year.
+
+the expondo group is an international e-commerce company with more than 400 employees. we are a renowned manufacturer and online retailer of niche products created by experts for experts, operating in europe and having locations in germany, poland, hong kong and china. our focus is to provide our customers with an appropriate and scalable service.
+to be a part of the extended expondo family is to be a part of an ambitious and dynamic global company. what lies ahead in terms of future is in the hands of our employees. it is their ideas, vision, skills, and talents which allow for us to succeed in this fast paced, globalizing world. our purpose is to empower doers.
+
+we put five simple values in the center of everything we do.
+lifesaver mentality as in "i would trust any expondoer with my life"
+an amplified focus on data as in "without data, it's just an opinion"
+being passionate can-doers as in "when spacex landed a rocket on mars, expondo was there to repair it"
+fuelling positive energy as in "our positive energy is so contagious the common cold is jealous"
+outlearning ourselves as in "our biggest learning is that we still have a lot more to learn"
+
+it's time to get it done with expondo and the time is now.

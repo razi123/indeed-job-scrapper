@@ -1,26 +1,20 @@
 the role & the team
-as a senior software engineer in zalando marketing services, you will work on building and optimizing systems that deliver relevant content to our consumers. you will solve large scale, high-load, algorithmic real-time auctioning and bidding challenges to create even better customer experience.
-every time a customer searches for products on zalando, a bidding request is sent to our system in real-time. the system aggregates relevant data points, evaluates thousands of candidate ads with our machine learning models, and decides what ads to show where - all within 10-30 ms. every second, we score and serve tens of thousands of ad requests. learn more about our engineering teams here.
+as a senior backend engineer - address validation in our tech logistics department, you will be responsible for defining and delivering a high-performance, stable and scalable system to validate the customers address for safe delivery and also fraud check. you will have a direct impact on our customers' happiness. we aim to delight our customers and make the zalando customer experience as convenient as possible. you will support the teams with experience and best practices to find the best solutions, review and challenge solution proposals, and make sure that our products remain extensible in the future.
 inclusive by design
 at zalando, our vision is to be the starting point for fashion - one that is inclusive by design. we only assess candidates based on qualifications, merit, and business needs. we welcome applications from people of all gender identities, sexual orientations, personal expressions, racial identities, ethnicities, religious beliefs, and disability statuses. we only want to know why you're great for this role, so please avoid including your picture, age, and marital status in your cv as well.
 we want to provide you with a great candidate experience. please feel free to inform us of any accommodations you may need, so we can best support and assist you throughout the hiring process.
 do.better - our diversity & inclusion strategy: https://corporate.zalando.com/en/diversity-inclusion
 our employee resource groups: https://corporate.zalando.com/en/diversity-inclusion/our-employee-resource-groups
-why you should be interested…
-design, develop and deliver real-time optimization systems which interface with ml backbone
-optimize stochastic behaviours of the system based on online experiments
-design, architect and develop end to end engineering solutions with full operational responsibilities
-collaborate with applied science experts, engineers, analysts and product managers across zalando to create positive customer impact together
-
-we'd love to meet you if…
-you have at least 5 years of experience designing and developing highly available low-latency high-load distributed systems in jvm-based language
-you have extensive hand-on experience in developing and maintaining scalable and testable code, have experience in algorithms and data structures and follow best industry practices
-you have experience in operational excellence - including, but not limited to: monitoring, reporting, tracing and alerting in complex distributed components and services
-you have expertise in concurrent programming (multi-threading), network programming, distributed databases, microservice architecture
-systems programming experience will be highly valued (low-level programming skills, hardware awareness, good knowledge of jvm internals, java memory model etc.)
-nice to have
-experience in high-load technologies like dynamodb, cassandra, redis, elasticsearch, kafka, protobuf, grpc is a strong plus
-experience in a/b testing, analysis and understanding the biases
+why you should be interested
+create flexible and scalable solutions to enable new products, drive new projects end-to-end, coordinating with stakeholders, engineering teams, and management
+drive proofs of concept, pilots and technology evaluations to accelerate the onboarding of new technologies and solution designs
+manage your service from the architecture to testing, deployment and operation in an agile environment
+deliver high-performance, resilient and scalable distributed system landscape that handles large amounts of data while continuously enabling a high pace of change and innovation by working with your development and product team
+contributing to our growing tech community and encouraging knowledge sharing
+we'd love to meet you if...
+at least 7 years of professional programming experience with significant expertise in java and related popular frameworks such as spring, sql databases as well as experience in microservice architecture, distributed systems and restful apis using relevant technologies. check our tech radar for more information on the technologies we use at zalando
+skilled in automated testing, high-performance code and complex server environments
+effective communication skills in english and ability to understand business requirements
 zalando benefits
 career development
 we offer peer-to-peer performance reviews twice a year
@@ -34,8 +28,10 @@ online sports courses, wellbeing, and nutrition advice offered by humanoo person
 mental wellbeing support by our employee assistance program and professional consultants to help you find health resources
 flexibility
 flexible working hours
-relocation assistance for internationals
-if you work from an office in your role, a choice of office equipment to be delivered to you, to support you working from home due to covid-19 safety
+relocation assistance available - subject to prior agreement
+home office equipment available for hybrid working, to support you working from home
+hybrid working model with 60% remote per week
+opportunity to work from abroad for 30 (working) days per calendar year
 financial
 access to the employee shares program
 40% shopping discount on products shipped and sold by zalando, and 30% discount on zalando lounge
@@ -47,10 +43,10 @@ supported transition into and out of parental leave, with a buddy and re-onboard
 free counselling, assistance, and referral service for all matters concerning yourself and your family via the fürstenberg institute
 about zalando
 it's the perfect time to join zalando on our journey, from being a pioneer in the world of e-commerce, to the starting point for fashion in europe. we connect customers, brands, and partners across 23 markets.
-help us drive digital and sustainable solutions for fashion, logistics, advertising and research, bringing head-to-toe fashion to more than 46 million active customers through a team of diverse skill-sets, cultural backgrounds, and interests.
-at zalando marketing services we create meaningful connections between brands and consumers through a deep understanding of their personalities. we work with brands, agencies and publishers from fashion and beyond to produce innovative, impactful campaigns that reach the right audience at the right moment. thanks to its holistic mix of cutting-edge and privacy compliant technology, in-depth audience insights, expansive reach and compelling content brands produce successful campaigns across multiple digital marketing channels.
-for more information about zalando marketing services, click here.
+help us drive digital and sustainable solutions for fashion, logistics, advertising and research, bringing head-to-toe fashion to more than 49 million active customers through a team of diverse skill-sets, cultural backgrounds, and interests.
 our values: https://jobs.zalando.com/en/our-founding-mindset
 do.more - our sustainability strategy: https://corporate.zalando.com/en/sustainability
 follow us on instagram: instagram.com/insidezalando
 please note that all applications must be completed using the online form - we do not accept applications via email.
+#customerfulfillment
+#engineering #backend

@@ -1,15 +1,11 @@
 tech stack
-
 java, springboot, microservices, jpa, kafka, mongodb, mysql, aws services, gitlab
-
 your responsibilities
-
 support for a minimum period of 2 months to support us with platform migration.
 providing core services and high quality solutions for a large scale online platform.
 integrating externally developed components into existing application environments.
 together with the rest of the team, setting standards, establishing guidelines and sharing best practices in order to ensure stable solutions for our customers.
 your profile
-
 delivery experience with java, springboot, microservices, jpa (experience with developing restful web-services with golang or other languages is a plus).
 experience with frameworks such as springboot and strong familiarity with microservices architecture and design patterns.
 familiarity with relational databases like mysql and also with nosql mongodb, redis etc.
@@ -23,3 +19,11 @@ develop communication patterns between microservices that are efficient, lightwe
 debugging issues on a live setup.
 create test cases and technical documentation.
 maintain a high level of code quality and consistency by adhering to and enhancing the coding standards, design methodology and programming practices.
+we are raisin, a dynamic and fast-growing fintech company that is a trailblazer for open banking in the savings and investments space.
+as one of the most successful european fintech companies, we built award-winning marketplaces to help customers gain better access to competitive savings, investment, and pension products. combined, our brands raisin, weltsparen, savebetter, savedo, and zinspilot, serve over half a million direct customers from over thirty european markets and the u.s.
+additionally, we partner with more than 400 banks and financial services providers to help them source stable and secure deposit funding and also enable them to offer third-party products to their customers.
+raisin was formed in june 2021 through the merger of leading fintech companies deposit solutions and raisin. we are backed by renowned international investors such as deutsche bank, goldman sachs, greycroft, headline/e.ventures, index ventures, kinnevik, paypal ventures, thrive capital, top tier capital partners, ribbit capital, and vitruvian partners, as well as peter thiel.
+we are headquartered in berlin, and also have offices in frankfurt, hamburg, london, madrid, manchester, milan, new york, paris, and zurich.
+we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.
+location: schlesische str., 10997 berlin-kreuzberg
+job type: full-time
