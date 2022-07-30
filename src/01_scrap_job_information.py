@@ -55,7 +55,7 @@ class Myjobs:
         de_skills = skills_defined_100.define_skills()
         keys = list(de_skills.keys())
         df_empty = pd.DataFrame(columns=["Date", "Company", "Programming", "Database", "Frameworks", "Technologies", "Cloud",
-                                         "Extras", "Tools", "Sprachen"])
+                                         "Extras", "Tools", "Sprachen", "Email"])
 
         for i in range(len(job_dict["link"])):
             load_job_link = job_dict["link"][i]
@@ -72,18 +72,18 @@ class Myjobs:
             file_obj = open(os.path.join(file_path, str(company_name) + '.txt'), 'w')
             file_obj.write(job_discription)
 
-            #n = append_info.contact_email(job_discription)
+            n = append_info.contact_email(job_discription)
 
             out_dict = {"Date": [], "Company": [], "Programming": [], "Database": [], "Frameworks": [], "Technologies": [],
-                        "Cloud": [], "Extras": [], "Tools": [], "Sprachen": [],}
+                        "Cloud": [], "Extras": [], "Tools": [], "Sprachen": [], "Email": []}
             out_dict["Company"].append(job_dict["company"][i])
             out_dict["Date"].append(datetime.datetime.today().date().strftime("%m-%d-%Y"))
-            #out_dict["Email"].append(n)
+            out_dict["Email"].append(n)
 
             for idx, value in enumerate(de_skills.values()):
                 for element in value:
                     try:
-                        m = re.findall(f'(?<=[\s\(]){element}(?=[\s\)\.])', str(job_discription))
+                        m = re.findall(f'(?<=[\s\(\,\;]){element}(?=[\s\)\.\,\;])', str(job_discription))
                         if m:
                             out_dict[keys[idx]].append(m)
 
@@ -102,6 +102,7 @@ class Myjobs:
                     'Extras': out_dict["Extras"],
                     'Tools': out_dict["Tools"],
                     'Sprachen': out_dict["Sprachen"],
+                    'Email': out_dict["Email"],
                 }])])
 
         return df_empty

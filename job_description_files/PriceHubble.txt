@@ -1,0 +1,40 @@
+pricehubble is a proptech company, set to radically improve the understanding and transparency of real estate markets based on data-driven insights. we aggregate and analyse a wide variety of data, run big data analytics and use state-of-the art machine learning to generate stable and reliable valuations and predictive analytics for the real estate market. we are headquartered in zürich, with offices in paris, berlin, hamburg, vienna, prague, amsterdam and tokyo. we work on international markets, are backed by world-class investors and treasure a startup environment with low bureaucracy, high autonomy and focus on getting things done.
+your role
+data engineers are the central productive force of pricehubble. as a senior data engineer, your mission will be to guide the data-engineering work in pricehubble. you will be given the responsibility for substantial parts of our data engineering systems. your daily challenges will be to mine a wide range and variety of new datasets of all sort. doing so will expose you to a wide variety of tasks ranging from building the infrastructure (spark on kubernetes), to building machine-learning models extracting features from raw data, to generating pipeline to process and expose new data sources.
+your mindset
+you are convinced that success in data science is achieved via data-monopolies. you are highly motivated to join an organisation who is committed to building the best in class data-engineering software for acquiring, processing, and enriching real-estate data.
+the following challenges speak to you:
+gather vast amounts of data about real estate
+consolidate, improve, and link this data to generate data sets no one else has on the market
+do that all over the world
+you are keen to join a startup right in its growth phase, and are not afraid to refactor code to get it to the new engineering standards that will support the growth of the organisation.
+at work, your team is your main asset: you are keen to mentor fellow team members. in the startup, you are committed to create the company you want to work in; in terms of competence, standards, and mindset.
+responsibilities
+extract, cleanup, structure and transform complex raw and processed datasets to extract insights from it
+retrieve a wide variety of datasets and integrate them into the data pipeline
+create and maintain an efficient data infrastructure
+build data enrichment pipelines, using machine-learning when appropriate
+continuously provide new ideas to improve our engines and products
+requirements
+msc in computer science or equivalent
+at least 3 years of experience in a similar position
+proficiency in at least one object-oriented programming language and at least one scripting language; python is a strong advantage
+in-depth understanding of basic data structures and algorithms
+familiarity with software engineering best practices (clean code, code review, test-driven development, ...) and version control systems
+experience with the etl and data processing tools we’re using is a strong advantage (pyspark, postgresql, airflow)
+working experience with cloud providers (gcp, aws or azure)
+advanced knowledge of relational databases and sql
+experience with docker and kubernetes orchestration is a strong advantage
+understanding of core machine learning concepts is an advantage
+worked previously in ‘agile’ team(s) and are looking forward to doing it again
+comfortable working in english; you have a great read, good spoken command of it
+
+
+we are interested in every qualified candidate who is eligible to work in the european union but we are not able to sponsor visas.
+benefits
+join an ambitious and hungry team and enjoy the following benefits:
+
+competitive salary because we always want to attract the best talents.
+learning & development program - we want you to feel happy, confident about improving your skills, experience level as well as your personal development success.
+very well-located offices with a great remote work policy and the possibility to work from different places.
+flexible working hours and work life balance.

@@ -1,15 +1,20 @@
+as a team we have three areas of responsibility: platform operations, supporting services for the product teams and telemetry. we are responsible for the continued operation of our platform as a service offerings, including incident handling. we work with the product development teams to establish and maintain our service offerings and provide a tight feedback loop on their services’ performance. accordingly, we provide monitoring, logging, metrics and other cross-product infrastructure on kubernetes, so our product teams don’t have to worry about it.
 your responsibilities
-participate as a team member in the sprint planning, sw design, development and feature validation of our linux stack.
-work with development to optimise and debug the upcoming sw defined network solution.
-automate test cases and work with other teammates to further develop the test environment.
-create and execute test plans, e.g. for performance, load, stress and security relevant tests.
+we gather all required metrics to enable data-driven decision making for our platforms and services. we are a development focussed team. while we absolutely need to work with all available tools to react to incidents, solutions should first and foremost result in code and automation. our weapons of choice are ansible, golang, gitops and ci/cd - not root shells and bash scripts. you will be responsible for the following tasks:
+running our kubernetes and service infrastructure.
+building software and systems to manage platform infrastructure and applications.
+developing monitoring and alerting rules for symptoms and not outages.
+participating in system design consulting, platform management, and capacity planning.
+balance feature development speed and reliability with well-defined service level objectives.
+improving the deployment process to make it as uncomplicated as possible.
+be on an on call rotation to respond to availability incidents and provide support for service engineers with customer incidents.
 your qualification
-operation of linux systems, preferably debian or ubuntu.
-solid experience in the use of scripting languages (such as python, bash) and experienced in cli.
-knowledge in the development and testing of linux kernel modules.
-solid experience in the use of different testing techniques (equivalence classes, negative tests, data-driven coverage tests, ...).
-strong analytical skills, with a high level of detail, in supporting problem solving.
-fluency in english, knowledge of german is desirable.
+agile mindset and experience with modern development practices.
+a proactive approach to spotting problems, areas for improvement, and performance bottlenecks.
+ability to program (structured and oo) with one or more high level languages, such as golang, python, java and javascript.
+profound experience with cloud environments and kubernetes.
+profound experience with the linux operating system.
+experience with network fundamentals.
 our offer
 active corporate culture: our cooperation is characterized by flat hierarchies, transparency, open communication and short decision-making processes
 wide range of continuing education opportunities: we offer a wide range of personal and professional development opportunities - via e-learning and seminars, conferences as well as mentoring. language training for german and english is available to our employees as online or face-to-face courses
@@ -20,5 +25,5 @@ health measures: in addition to internal sports and health courses, we also offe
 each site has a canteen where our employees can enjoy meals at a reduced price. in addition, fresh fruit and a range of hot and cold drinks are offered free of charge
 family service: our family service advises you on questions regarding childcare, home care/elderly care or difficult personal challenges. the family service is free of charge for all employees
 events: we celebrate our success in our teams. there are legendary summer and winter parties. additional workshops and team events provide our unique team spirit
-our job offer linux network - software engineer qa (f/m/d) sounds interesting? then we are looking forward to receiving your application via workwise.
+our job offer site reliability engineer (f/m/d) (sre): paas sounds interesting? then we are looking forward to receiving your application via workwise.
 with our partner workwise, you can apply for this job in just a few minutes without a cover letter and track the status of your application live.

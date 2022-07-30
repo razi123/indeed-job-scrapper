@@ -1,0 +1,35 @@
+you make the difference. whether in business audit & assurance, risk advisory, tax & legal, financial advisory or consulting: at deloitte, we help our global clients continuously evolve. discover a diverse working environment that is constantly in motion and always revolving around one central hub: you and your expertise. what impact will you make?
+campfire is the only customizable enterprise saas marketplace. trading, scaling, and provisioning of software-/data applications beyond corporate and geographical boarders is what we aim for. it is our vision to let engineers focus on one thing: coding something great. campfire takes care of the rest to make it a scale in the cloud
+standorten: berlin, hamburg und münchen.
+your impact:
+as senior backend engineer (m/f/x) for campfire you will be aiming for trading, scaling, and provisioning of software-/data applications beyond corporate and geographical boarders. campfire is the onzly customizable enterprise saas marketplace. our vision is to let engineer focus on one thing: coding something great.
+creat solutions: you will work with design, product, and engineers to create features - from technical design to deployment.
+think end-to-end: it will be core to your job to define, revise, implement and test logic in micro services. you may deploy the respective containers.
+leverage technology: you will utilize python, flask (+ connexion) and test with schemathesis and pytest in an gcp environment.
+be inspirational: we will build on your ability to think creatively and understand quickly. your smart ideas should inspire other domains as well (e.g. infrastructure, frontend, product, design).
+your skillset:
+
+you can show us that will meet our expectations by providing examples.
+you understand what it takes to build and operate scalable software in production.
+you worked with microservice architectures and an api-first approach.
+ideally, you have experimented with frontend frameworks (e.g. django, or js frameworks) to know what end-to-end means.
+you could imagine taking on end-to-end responsibility and own features which require coordination.
+
+your chance:
+best-in-class ongoing education at deloitte university (starting at manager level) and through individual qualification programs and training sessions
+extensive professional development opportunities with structured career planning, inclusive leadership, secondment programs, project-based job rotation, and support for societal engagement and corporate volunteering
+work-family balance with a family advice service, mobile working, part-time hours, sabbaticals, support for family caregivers, counseling for parental leave, and much more
+a focus on health and fitness with regular health-themed days, partnerships with fitness providers, and support for sporting and team events
+attractive employer benefits including bicycle and car leasing, flexible working models (such as trust-based working hours), and a company smartphone for private use
+plenty of scope for creativity and active promotion of an inclusive corporate culture – for instance through our all in global diversity and inclusion initiative as well as local employee networks
+are you ready? make a difference with us!
+our recruiting team looks forward to receiving your application documents (cv as well as general qualification for university entrance, university and work references) via our online form. no cover letter is required.
+
+the inclusion of people with disabilities is our mutual understanding. we very much appreciate your application. due to our german data protection law, please note that we can only accept online applications via our online recruitment system.
+
+our faqs will help you with questions concerning applications at deloitte and will give you specific advice on how to apply successfully via our online portal:
+
+faqs
+
+what impact will you make?
+job-id: 44070

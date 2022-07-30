@@ -11,10 +11,7 @@ def re_clean_syntax(col_value: str):
     :return: return unique column elements in the dataframe, non repetead
     """
 
-    m = re.findall('(?<=\[\')[a-zA-Z0-9\s\.\&\-]+(?=\'\])', str(col_value))
-    #m = re.split("'", str(col_value))
-    #for i in range(len(m)):
-    #    if i%2 != 0:
+    m = re.findall('(?<=\[\')[a-zA-Z0-9\s\.\&\-\@\/]+(?=\'\])', str(col_value))
     new_sting_set = list(set(m))
 
     if len(new_sting_set) == 0:

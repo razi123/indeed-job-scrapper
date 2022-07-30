@@ -1,0 +1,39 @@
+digital communication between companies and customers is outdated and complicated. we at flexperto are working on changing that. everything that your sales employees have done so far offline, is now also available online with flexperto. set up customer appointments, clarify questions in the video chat, edit documents, co-browse websites, sign contracts or say “hi” to customers through whatsapp.
+
+we have gained considerable momentum in the last 3 years. among our customers are international players in the insurance and banking sector. our 30 employees are mainly located in berlin.
+
+we are further developing our instant messaging experience, which aims to centralize whatsapp, telegram & co. in one single, enterprise-grade omnichannel messenger. therefore, we are looking for fullstack engineer (m/f/d) to strengthen our team.
+
+tasks
+
+be an incremental part of a young but experienced and passionate team
+developing new microservices that evolve our platform and enable new use cases
+lead and manage the implementation of architected solutions till production and beyond
+maintain your code in a smart and modern test- and release-environment that automatically ensures test-coverage, code-style, and process integrity
+requirements
+
+3+ years experience in web development
+experience with microservices / service-oriented software architecture
+nodejs/es6
+php7.x
+be self-driven, enthusiastic about learning new cutting-edge technologies, willing to take ownership and be passionate about what you are doing
+eu working-permit
+fluent in english
+skills that are nice to have
+
+experience with the scrum methodology
+experience with real-time data (in the context of messaging and communication) is a plus
+knowledge about moleculer framework, swagger/openapio, rabbitmq. mongodb, ejabberd/xmpp, react, ansible
+benefits
+
+a passionate and dedicated team with people from several countries, always willing to broaden their horizon
+we have a dedicated budget for education programs and conferences you can attend
+an attractive remuneration package
+flexible work hours and a home office policy that focuses on people and not on numbers
+a working environment in which your contribution will make the difference
+a fun place to work with regular team events and activities besides the office
+an amazing office centrally located in berlin, the vibrant tech capital
+heavy discounts on urban sports
+our tech stack
+
+„small teams, exciting projects, and flat hierarchies“ are statements from your future colleagues when asked what makes working at flexperto special. we’re in the process of transforming our monolithic php stack into small, cloud-ready microservices for node.js (with the moleculer framework) and react (with redux-saga) and we have a messaging backend (based on xmpp) for our self-built multi-channel messenger (whatsapp, telegram, facebook, etc.). standards for us are scrum, ci (jenkins), unit tests (partially 100% coverage required), code reviews, qa / ac testing, containerization in docker.

@@ -1,0 +1,52 @@
+assemblyai is an ai company - we build powerful models to transcribe and understand audio data, exposed through simple apis.
+hundreds of companies, and thousands of developers, use our apis to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. our apis power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.
+we've been growing at breakneck speed, and are backed by leading investors including y combinator's ai fund, patrick and john collision (founders of stripe), nat friedman (former ceo of github), and daniel gross (entrepreneur & investor in companies including github, uber, coinbase, spacex, instacart, notion, and cruise automation).
+assemblyai's speech-to-text apis are already trusted by fortune 500s, startups, and thousands of developers around the world, with well-known customers including spotify, algolia, dow jones, the wall street journal, and nbcuniversal. as part of a huge and emerging market, assemblyai is well on its way to becoming the leader in speech recognition and nlp.
+join our world-class, remote team and help us build an iconic deep learning company.
+our team
+we are a fully remote team made up of problem solvers, innovators and top ai researchers with 20+ years of experience in machine learning, speech recognition, and nlp from places like deepmind, google, meta, amazon, apple, and cisco. our culture is super collaborative, low-ego, transparent, and fast-paced. we want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.
+as a remote company, our team members are given a lot of trust and autonomy to work where and how they want. we look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team. we want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.
+the role
+we're looking for a senior backend engineer with strong software and cloud engineering skills. you'll help us build highly scalable developer-centric apis and backend systems powered by state-of-the-art ml models. some of your responsibilities will include:
+build new api features and endpoints
+build automated test suites and ci/cd pipelines
+build highly scalable event-driven and realtime systems
+instrument systems with metrics, tracing, and logging
+refactor applications to eliminate tech debt
+troubleshoot production issues
+you'll love this job if you....
+enjoy solving complex technical problems, even when there is no perfect solution.
+enjoy being in a fast-paced, customer-facing role.
+thrive in small, cross-functional teams. we like to wear many hats here!
+you're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.
+requirements
+2+ years of experience working with python
+2+ years of working with sql and nosql databases
+2+ working with python backend frameworks like django, flask, or tornado
+2+ years developing rest apis
+2+ years working with common aws services
+2+ years of production support experience
+startup or faang-type experience - has worked at a startup or high growth company
+deep aws knowledge - has many years of experience solutioning within aws
+strong python coding abilities - can pass difficult programming challenges in a relatively short period of time. can speak clearly about their thinking throughout these challenges. can speak to o-notation of algorithms. has excellent knowledge of common python idioms and libraries.
+leadership experience - has led large projects and/or teams towards a big goal with success
+high scalability experience - has been a tech leader on scaling systems to hundreds of millions of requests/events per day. has experience with hyper-observability, scaling algorithms, and using production data to drive system changes
+skills
+amazing system design chops - when given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.
+high-octane thinking - engages deeply on subjects of expertise. thinks ahead many steps and can see where decisions are likely to lead. their brains compute at a very high level.
+extremely creative - can find both novel and effective solutions within highly constrained time and resources
+fast learner - has shown they can ramp up on difficult topics very fast
+exceptional gut instincts - can practically feel when something is right or wrong. can use these instincts to quickly point themselves in the right direction.
+opinionated - they have convictions in what they believe and can communicate their position clearly without drama.
+nice to have
+machine learning experience - has worked with machine learning models at scale
+experience integrating and deploying ml models into production
+salary range (germany): €80,000 - €145,000
+benefits
+competitive salary + bonus
+equity
+100% remote team
+unlimited pto
+$1k budget for your home office setup
+new macbook pro (or pc if you prefer)
+3-4x/year company paid team retreat

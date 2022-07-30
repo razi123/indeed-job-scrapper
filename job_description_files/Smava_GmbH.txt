@@ -1,0 +1,54 @@
+we are smava – the online credit comparison platform. we make loans transparent, fair and affordable! being one of the biggest fintech companies in europe, we are proud of being awarded as top employer 2020 and named one of the 50 most promising start-ups in europe . are you up for a successful grown-up company? become part of smava’s vision of becoming the go-to place for consumer loans and let us shape the digital future of the credit market.
+
+we believe in flat hierarchies and self-organized network structures where leadership happens in a lateral manner and teams make their own decisions in areas like tech or people. this empowers everyone to a vast extent - by sharing responsibility and decision-making amongst every member.
+
+who we are
+
+we (core bi team) oversee our data warehouse, striving to enable all teams and departments to make data driven decisions. we do this by providing data infrastructure and services that make it easy for teams to serve and digest data.
+
+what you will be doing
+
+work with different technologies (aurora, redshift, data vault, matillion, java, python, terraform and more) to deliver data infrastructure and services
+contribute to establishing a data-first culture and create a data democracy by providing a decentralized self-service data platform and self-service bi.
+take active part in all the decisions involving the team (goals, timelines, stack, etc.)
+what we're looking for
+
+required
+
+several years of experience in the data domain as a data engineer, data warehouse engineer, bi developer, etc.
+experience with data warehousing
+passion about your work and great communication skills, always keen on sharing knowledge with the team
+experience working in agile environments; ideally within startup-like companies with flat hierarchies
+proactiveness and willingness to take over responsibilities, having ownership while working in a highly collaborative environment
+eagerness to challenge the status quo
+preferred
+
+experience with columnar databases as dwh engine, preferably redshift (or similar)
+experience with data streaming and/or batch-processing
+experience with etl/elt tools preferably matillion (or similar)
+experience/familiarity with bi tools preferably tableau (or similar)
+experience with cloud infrastructure, preferably aws (or similar)
+nice to have
+
+solid knowledge about kimball, inmon principles, dimensional modeling.
+experience with data vault
+experience in a programming language such as python or java
+experience with docker, ecr, ecs, etc.
+what we offer
+
+intensive onboarding, remote work & flexible working hours
+training & conference budget
+30 days of vacation & 10 child-sickness-days per year
+subsidies for lunch (office delivery via smunch.co), public transportation tickets, and gym memberships
+free german and english classes, hackathons and plenty of team events
+open minded culture with colleagues having 40 nationalities
+a modern office in friedrichshain with a rooftop and relax area
+interesting?
+
+then apply online in just a few minutes via the application button as a (senior) data engineer (m/f/d). simply upload your cv and we’ll get back to you as possible.
+
+all applications are accepted exclusively via the application form.
+
+contact: felipe alemany (030 - 617 48 0014)
+
+do you want to learn more about us?

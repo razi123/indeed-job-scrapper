@@ -1,0 +1,47 @@
+full-time employment | permanent | asap | remote (in germany) or in-office (in berlin)
+our mission at architrave is to revolutionise the processes and workflows within the real estate industry, by building and providing a data-driven saas platform. the vision is not only to transfer paper into documents but to really digitalise the industry.
+we strive for constant innovation using state of the art technology, to not only extract data but to analyse and learn from it, using machine learning and other big data technologies in order to create real value and a unique experience for our customers.
+be part of this one-of-a-kind organisation and join us in our journey towards the revolution of data and real estate.
+
+your future responsibilities:
+development and operation of services and tools for our hybrid environment consisting of aws and ionos
+ci/cd implementation and optimization
+increasing the automation of our platform
+infrastructure as code (iac) development and review
+supporting other teams in the development of secure applications and platforms
+improving our monitoring & alerting setup
+incident response handling; being part of our technical support team with on-call responsibility
+being a core member of our scrum chapter
+
+what you should bring with you:
+extensive experience with cloud environments (aws/azure/gcp), and experience with ionos is a plus
+feeling comfortable in working with cloud-based microservice architectures, ci/cd
+experience with ansible, terraform, cdk, kubernetes
+good background in unix linux administration
+experience with serverless technologies like aws lambda is a plus
+deep understanding and experience with lemp stack (linux, and nginx, mysql, php)
+good communication and collaboration skills
+good capabilities to explain complex problems in a simple way to colleagues with other expertise focus
+business-, product - and user-oriented way of working while embracing core values like simplicity, pragmatism and agile software development
+willingness to support your team on other topics, e.g. backend (typescript, python, php)
+you enjoy mentoring more junior teammates in one or more of the competence areas described
+curiosity, as well as innovative outside-the-box problem solving and open mindset on alternate approaches
+
+what we offer:
+a working environment that values individuals and embraces knowledge sharing
+genuine family friendliness through flexible working hours, 28 days holiday and the opportunity to work from abroad for up to 4 weeks each year.
+hybrid working / home office option
+team lunches, company events and lots of good humor
+great benefits for all employees: a monthly budget for the benefits platform heyday, discounts on public transport and over 300 shopping partners, regular paid team lunches, company pension scheme options and much more
+a beautiful and modern office in berlin - near treptower park - where you can go to work, play table-tennis, have meetings and hang out with your colleagues
+become part of our international (17 nations), diverse (49% women) and family-friendly team and experience a great company culture that combines quality, respectful cooperation, fun and personal development
+
+so, what are you waiting for? hit that "apply for this job" button and send us your application!
+know someone else who might also be interested? share this page with them! thanks a bunch!
+being an employer providing equal opportunities, architrave strives for a diverse, inclusive, and healthy working environment. we invite all qualified humans to apply, regardless of ethnicity, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability or gender identity.
+
+workplace:
+we're happy to have our employees working in our office or remotely. currently, remote employees are expected to live in germany in order to be able to join team events and meetings physically from time to time, if meaningful and secure.
+in order to contribute to our society and healthcare system, during the covid-19 pandemic time our offices in berlin & dresden remain open (while allowed) with limited capacity and a proper safety and hygiene plan.
+after the pandemic, we expect our remote employees to be able to join us in our regular company and team events a few times a year.
+find us on glassdoor!

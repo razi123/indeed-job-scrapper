@@ -1,35 +1,32 @@
-3+ years of software development experience
-programming experience with at least one modern language such as java, c++, or c# including object-oriented design
-1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
-bachelor's degree or equivalent experience
-computer science fundamentals in object-oriented design, data structures and algorithms.
-
+bs in mechanical engineering
+3+ years of experience in the design of complex robotic products and equipment
+experience related to systems architecture, design, and system integration of mechatronic devices
+experience building pieces of large scale production software and hardware systems (e.g. service oriented architecture across many teams, continuous deployment, monitoring and alarming)
 job summary
-amazon web services (aws) is growing rapidly–millions of customers from independent developers to large enterprises visit our management console.
+do you want to have a worldwide impact in robotics? the robotics ai team at amazon builds high-performance, real-time robotic systems that can perceive, learn, and act intelligently alongside humans—at amazon scale. we invent and scale ai systems for robotics in fulfillment. our mission is to enable robots to interact safely, efficiently, and fluently with the clutter and uncertainty of real-world fulfillment centers. we hire and develop subject matter experts in robotics with a focus on mechanism design, workcell automation, and iterative prototyping.
 
-the aws user experience products & platform team is responsible for products that enable aws users to manage their applications and infrastructure on aws. our mission is to deliver an effective, and loved user experience that makes it easy for all users to discover, learn, and build on aws. today, we own the aws management console, the aws console mobile app, the aws chatbot, and the user experience platform used by 175+ aws service teams to develop and deliver their user experience across multiple channels (web, mobile, chat).
+the robotics ai team is seeking broad, curious engineers to join our diverse team. in addition to holistically designing, building, and delivering end-to-end robotic systems, our team is responsible for the core infrastructure and tools that serve as the backbone of our robotic applications, enabling roboticists, machine learning scientists, and software engineers to collaborate and deploy systems in the field.
 
-the aws user experience products & platform team is a multi-disciplinary team comprising members from different areas - ux research, ux design, user insights & analytics, machine learning, natural language processing, secure/available/scalable (at aws scale) services, and web/mobile/conversational user interfaces. our team is a great place for those who are passionate about building great user and developer experiences for millions of users across the globe. our team members love solving challenging problems to innovate on behalf of aws users who come from diverse backgrounds spanning different personas, differing levels of experience, different countries, and different expectations on how they would like to interact with aws.
+we are seeking a interdisciplinary systems engineer to help with our robotic prototypes and work cell deployments. you will design, build, and test innovative robotic systems and their components such as the end of arm tools.
 
-as a software engineer on the team:
-you will guide our team's technical strategies, vision, and architecture
-you will solve a breadth of technical problems involving back-end software engineering, and user interface development
-you will design and build software that is highly available, performant, scalable, and extensible
-you will work with security, user experience and other teams to design and build tooling supporting new customer experiences
+this role includes ownership of decision explanation, process management, fault detection, monitoring, a/b testing, simulation, hardware integration, and more. this work spans prototypes in the lab as well as wide-deployment systems. you will have the opportunity to learn and be a part of an interdisciplinary team building all parts of the robot hardware and software stack.
 
-aws has the most services and more features within those services, than any other cloud provider–from infrastructure technologies like compute, storage, and databases–to emerging technologies, such as machine learning and artificial intelligence, data lakes and analytics, and internet of things. whether its identity features such as access management and sign on, cryptography, console, builder & developer tools, and even projects like automating all of our contractual billing systems, aws platform is always innovating with the customer in mind. the aws platform team sustains over 750 million transactions per second.
-we have a formal mentor search application that lets you find a mentor that works best for you based on location, job family, job level etc. your manager can also help you find a mentor or two, because two is better than one. in addition to formal mentors, we work and train together so that we are always learning from one another, and we celebrate and support the career progression of our team members.
-our team also puts a high value on work-life balance. striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
-here at aws, we embrace our differences. we are committed to furthering our culture of inclusion. we have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. we have innovative benefit offerings, and we host annual and ongoing learning experiences, including our conversations on race and ethnicity (core) and amazecon (gender diversity) conferences. amazon’s culture of inclusion is reinforced within our 14 leadership principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
-#awsplatform #aws.team-console
-
-master's degree or equivalent experience
-strong and creative problem-solving abilities
-experience with agile and scrum methodologies
-passion for simplicity and building highly leveraged, reusable software platforms, components, and apis
-knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
-excellence in technical communication with peers and non-technical cohorts.
-
+key job responsibilities
+design first of a kind robotic systems for manipulation in cluttered and constrained environments
+work with an interdisciplinary team to improve and maintain product designs including specification, design, prototyping, validation and testing
+work with the operations, manufacturing, supply chain and quality organizations as well as vendors to ensure a smooth production transition of design changes
+write requirements and functional specifications, design verification plans, and functional test procedures
+exhibit role model behaviors of thorough engineering analysis and cradle to grave ownership
+mentor colleagues
+advanced degree (ms or phd) in mechanical engineering, computer science, computer engineering, or equivalent work experience.
+hardware integration (e.g. hardware release cycles, heterogeneous hardware fleets).
+building and testing real-time or safety-critical systems.
+strong organizational skills and the ability to work well with teams of hardware and software engineers
+proficiency with agile product lifecycle management plm software and eco’s.
+significant experience with the hardware product development process.
+demonstrated ability to develop deep understanding of the business and end user needs quickly, and can proficiently translate those needs into the right technology solution.
+ability to effectively communicate concepts and proposals
+desire and energy to work in a fast-paced agile environment
 amazon is an equal opportunities employer. we believe passionately that employing a diverse workforce is central to our success. we make recruiting decisions based on your experience and skills. we value your passion to discover, invent, simplify and build. protecting your privacy and the security of your data is a longstanding top priority for amazon. please consult our privacy notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
 
 m/w/d

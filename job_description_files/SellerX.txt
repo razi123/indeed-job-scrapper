@@ -1,0 +1,27 @@
+your job:
+you are responsible for all types of data management processes (collection, storage, cleansing, preparation, maintenance, accumulation, transfer to business reporting).
+you optimize and develop existing and new data warehouse applications using tools for data ingestion and data modelling
+you design and document new data models and best-practice solutions.
+you are responsible for prototyping and implementing new etl jobs and modelling approaches.
+as a data engineer you will deal with python programs and their configurations in order to create or improve automated data engineering tasks.
+in addition to technical project management, you advise our other tech teams in data management aspects.
+ensuring data security (e.g. encryption) and improving the backup strategy.
+you work hand in hand with data architects, data analysts and data scientists.
+you ensure that quality, stability and robustness along the entire process chain meet our high standards.
+
+your background:
+you have a degree with a focus on the technology environment or completed vocational training in suitable areas.
+hands-on experience with data ingestion tools like fivetran, daton, stitch or data virtuality.
+hands-on experience with etl and orchestration tools like apache airflow or similar.
+object oriented python programming is more than just a plus.
+expert knowledge in the areas of data modelling and etl processes on the sql level (e.g. using dbt), as well as experience working with rest apis is beneficial.
+in addition to your "hands-on" mentality, you score points with a high technical affinity and a strong analytical mindset.
+your working standards do not suffer in terms of quality, even in hectic times.
+
+sounds exciting but you may tick not all the boxes? we are always happy to read your application and hear your story. everyone's talent is unique!
+
+who are we?
+we are sellerx and have an ambitious goal: to become a leading global acquirer and operator of a new generation of ecommerce businesses. we are one of europe's fastest growing start-ups and have raised $750m from top-tier vc and pe funds, including l catterton, 83north, cherry ventures, felix capital, sofina, victory park capital and blackrock towards this goal. within 15 months, we have grown to a team of 750 talents and operating 10 offices across europe, apac, and the us.
+our founders are serial entrepreneurs and harvard business school graduates who have 12+ years of experience in ecommerce and private equity. senior management consists of top amazon, ecommerce, and investment professionals. we are looking for you, knowing that our company will only be as good as the team we build!
+at sellerx we value a diverse and inclusive workplace, and we believe it is the key to innovation and happy employees. sellerx is committed to providing an open, friendly, safe, and welcoming environment for every employee. we are delighted to receive applications from diverse candidates including gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, and religious beliefs
+sellerx does not accept agency resumes. please do not forward resumes to our job's alias, sellerx employees or any other organization location. sellerx will not be responsible for any fees related to unsolicited resumes.

@@ -1,31 +1,55 @@
 job description
 
-concr is an innovative company working on digitalising the construction industry and paving the road to construction 4.0. with our iot solution, we provide our customers with sensors and cloud-based monitoring and management tools to improve project management during construction work, increase efficiency and help them reduce waste (time, resources).
+concr is an innovative, fast-growing company working on digitalizing the construction industry and paving the road to construction 4.0. with our team of experienced civil, cyber-physical systems and it engineers:
+
+we make dumb concrete smart !
+
+concrete is the second most used material on earth after water. since its widespread usage by the ancient egyptians, chinese and romans, it has always been a simple mix of cement, water and aggregates. we use it to build our infrastructure, bridges, tunnels, our houses, our shelters, etc.
+
+since its invention, the way from how we use it to how we test it hasn’t changed drastically.
+
+thanks to concr and its solution, we make an over 3000 years old dumb material smart. how ?
+
+with our iot solution, we provide our customers with state-of-the-art wireless sensing devices and cloud-based monitoring and management tools to improve project management during construction work and enable remote maturity and quality concrete monitoring. we give concrete a voice that helps the construction industry increase efficiency, improve quality and reduce waste.
+
+since our customer and project base has been growing rapidly in the last years, we are seeking a backend engineer to join our development team.
 
 requirements
 
-tasks:
-working with the development team to meet internal and customer requirements.
+responsible for
+
+analyzing, designing and developing high-quality, maintainable, reusable, scalable and reactive software systems based on the customer specifications and business needs
 developing and managing the microservices and storage systems for concr's real-time iot data
-developing and managing the front- & back-end web application
-documentation and release management of the codebase
+write unit/integration/functional tests and keep code coverage high
+integrate and/or follow up with the ci/cd pipelines
+participate in code reviews
+ensure applications are running fine on cloud (aws) with low latency & high throughput
+ensure quality by maintaining the tools, framework and infrastructure
+research and evaluate new technologies to improve processes or code bases
 management of the customer database (including migrations and upgrades)
-prototyping of user-interfaces
-requirements:
-bachelor or higher degree in computer science, software engineering, electrical engineering, it, ict or similar fields
-hands-on-experience with web and database programming
-hands-on-experience with development of microservices and deployment of cloud-based services aws
-strong experience with front-end stack, especially reactjs and nodejs
-strong experience with back-end stack such as django and flask
-good experience with sql, especially postgresql
-living in berlin or ready to move
-offer:
-opportunity to work directly with the founder and the experienced team of next big thing
-flexible working hours
-free drinks (coffee, tee, softdrinks) & fruits
-new and well-equipped office directly at s-bahn tiergarten in berlin
+we are looking for an engineer, who
+
+have bachelor or higher degree in computer science, software engineering, electrical engineering, it, ict or similar fields
+are dedicated to delivering clean and stable code for 3+ years with experience in best practices for the entire sdlc
+have evidence of exposure to architectural patterns of high-scale web applications on cloud. (e.g. well-designed apis, high volume data pipelines, service-meshes, message queues, distributed caching, efficient algorithms)
+are familiar with container based applications and orchestration tools on linux based systems for coding and debugging
+have experience with writing unit & integration tests and monitoring code coverage
+have hands-on-experience with development of microservices and deployment of cloud-based services aws
+have strong experience in python (django & flask)
+have good experience with sql, especially postgresql
+are always trying to improve his skills and get better at what they are doing
+are able to keep adapting to new situations and always deliver the highest quality results
+have a devops mindset for monitoring and deploying code with versioning tools and ci/cd
+are living in berlin or willing to relocate
+we offer
+
 freedom and full responsibility for your projects. no micromanagement
-a chance to join a fast-growing start-up early and grow with it
+opportunity to work directly with the founder and the experienced team of concr
+experience working with a fast development and research team of engineers
+great salary and work-life-balance
+flexibility on work location and hours (ideally to be based from our berlin office, but we are open to remote working with occasional trips to our office for meetings)
+new and well-equipped office directly at s-bahn tiergarten in berlin
+free drinks (coffee, tee, softdrinks) & fruits
 we value diversity and therefore expressly welcome all applications - regardless of gender, nationality, ethnic and social origin, religion/belief, physical abilities, age, sexual orientation and identity.
 
-we are looking forward for receiving your application!
+we are looking forward to receiving your application!

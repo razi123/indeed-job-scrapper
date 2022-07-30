@@ -1,0 +1,28 @@
+deine rolle
+eigenverantwortliche entwicklung und umsetzung individueller modelle und end-to-end pipelines
+umsetzung komplexer nlp anforderungen und ai techniken
+weiterentwicklung und maintenance bestehender modelle/prozesse
+technische verantwortung bezüglich qualität, performance, skalierbarkeit von prozessen
+viel neugier und lust neue oder andere wege zu gehen, ein interessantes system-ökosystem mit vielfältigen datenquellen kennenzulernen
+weiterentwicklung der bestehenden strukturen
+dein profil und qualifikationen
+abgeschlossenes studium der (wirtschafts-)mathematik, wirtschaftsinformatik, mathematik, statistik oder ähnlicher studiengänge
+umfassende kenntnisse statischer methoden und mathematischer modelle
+sehr gute kenntnisse in anwendung und umsetzung von natural language processing sowie machine learning
+umfassende kenntnisse in der programmierung mit python und ggf. einer weiteren sprache sowie sql
+umfassende software engineering kenntnisse und erfahrung auch in größeren software projekten
+hoher anspruch an qualität der eigenen arbeit
+schnelle auffassungsgabe und die fähigkeit komplexe zusammenhänge technisch umzusetzen
+sehr gute team- und kommunikationsfähigkeit
+sehr gute deutsch- und gute englischkenntnisse in wort und schrift
+dein arbeitsumfeld und perspektiven
+erhalte ein wettbewerbsfähiges vergütungspaket und tolle benefits wie eine urban sports mitgliedschaft, ein ticket für den öffentlichen nahverkehr und kita-support etc.
+arbeite in einem internationalen, dynamischen und diversen team mit großem teamgeist und hands-on-mentalität, das eine traditionelle branche digitalisiert
+nimm teil an einer offenen feedbackkultur mit 360°-feedback sowie transparenten kommunikations- und entscheidungswegen
+profitiere von einem breiten angebot an individuellen trainings, kursen und coachings für eine optimale persönliche entwicklung und verbessere deine sprachkenntnisse in unseren kostenlosen deutsch- und englischkursen
+arbeite in einem modernen, hybriden umfeld und gestalte deine arbeitszeit (vollzeit = 38,5h) flexibel und arbeitnehmerfreundlich
+triff deine kollegen in einem schönen, zentral gelegenen büro mit guter verkehrsanbindung in berlin (mitte)
+genieße unsere regelmäßigen und unregelmäßigen firmen- und teamevents (auch remote!)
+
+digitalizing the industry. seit 2014 treibt kloeckner.i als teil von klöckner&co die digitalisierung der gesamten lieferkette von klöckner&co mit nachdruck voran. in unserem digital hub bündeln wir alle darauf ausgerichteten projekte unter einem dach. mit aktuell knapp 150 mitarbeiter:innen arbeiten wir hybrid an den standorten berlin und duisburg. dabei haben wir mit klöckner&co als einen der weltweit größten produzentenunabhängigen stahl- und metalldistributoren und eines der führenden stahl-service-center-unternehmen jederzeit einen starken und zuverlässigen partner an unserer seite.
+bei kloeckner.i stellen wir den status quo in frage. wir bauen produkte, die gut gestaltet, einfach zu bedienen und benutzerfreundlich sind und setzen bei unserer arbeit eine mischung aus agilen methoden und pragmatischen, nutzerzentrierten problemlösungen ein, um sicherzustellen, dass klöckner & co mit abstand der effektivste akteur auf dem markt ist.

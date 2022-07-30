@@ -1,0 +1,34 @@
+who we are
+
+we are on a mission to help the elderly to live safely and independently while staying connected to their families and carers. with our intelligent wearable software that allows older adults at risk to call for help anytime and anywhere they need it, we have launched a product that saves lifes. having completed our seed funding round supported by renowned vcs we are now executing on that mission and growing! our ambition is to improve the healthcare experiences of older adults by integrating modern technology where it can make a difference. we envision building a suite of products and services for older adults and consumer segments that no one has tapped into yet.
+
+aufgaben
+
+to be successful on this mission, we are looking for a data and analytics engineer to significantly drive our growth.
+
+support data transformation using dbt, help us develop and maintain a state-of-the-art bi environment. your main responsibility will be on the data modelling side at the beginning as we need to develop the model from scratch. the engineering tasks will be more and more important with time considering the integration of new data sources and the development of new applications.
+
+develop data models for company kpis
+manage data transformation using dbt
+own, develop and maintain elt processes in order to bring the right data to our bi system
+ensure continuous integration of the data
+ensure the scalability of our infrastructure
+qualifikation
+
+excellent sql skills to write complex queries to join data across systems
+excellent python skills for elt processes development
+hands-on experience with cloud databases, such as redshift, snowflake or synapse analytics (we currently work with snowflake)
+have worked in cloud environments such as aws or azure (aws is a plus)
+experience with transformation tools like dbt and/or orchestration framework such as airflow
+have at least 3 years of practical experience in the field of business intelligence
+bring a high standard of quality and personal responsibility as well as attention to detail
+are keen to keep up with the latest technologies and trends in the data ecosystem
+benefits
+
+contribute to a product that has a real human impact
+fulfil a role with creative freedom and scale - leave your footprint and own your business
+opportunity to work in an agile and experienced team where you are constantly challenged to learn and set the bar higher
+competitive compensation
+are you curious?
+
+become a part of our team and make a difference! we are looking forward to getting to know you!
