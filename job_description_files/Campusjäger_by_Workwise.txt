@@ -1,27 +1,30 @@
-your responsibilities
-you will maintain, manage, log, provision, scale clusters
-you will collect and analyse system metrics
-you willdesign and implement ci/cd pipelines
-you will design, debug and optimize micro-service data flow
-you will plan and setup databases
-you will plan and implement testing pipeline and utilities
-your profile
-you have 3+ years of professional experience in tech
-you strongly interested in building and maintaining infrastructure
-you are capable of identifying repeatable processes and automate them quickly
-you are passionate about ci/cd
-your tech stack: either python/golang, git, linux/unix, networking tools, docker container and kubernetes
-you ideally also have experience with a few of the following technologies: istio, helm, argo, terraform, ansible, prometheus and grafana
-you are in love with the cloud while knowing its limitations (experience with cloud computing preferred)
-you have fun writing new/introducing existing tools that help software engineering teams function better
-you are a good problerm solver with attention to detail
-what we offer
-guided learning to boost your career
-be part of product definition and rollout
-working on a new product with an experienced team
-the coolest and constantly growing team
-work with top notch technologies
-possibility to work remotely
-an attractive remuneration package (incl. notebook, smartphone, expenses), as well as an additional monthly gym fee, daily lunch, childcare and private pension insurance
-our job offer devops cloud engineer for data flow management (m/f/d) sounds interesting? then we are looking forward to receiving your application via campusjäger by workwise.
-with our partner campusjäger, you can apply for this job in just a few minutes without a cover letter and track the status of your application live.
+du hast lust auf spannende und internationale strategie- und due diligence-projekte? du bist ein echtes research- und analyse-talent und hast freude daran, weltweite interviewprogramme zu unterstützen? du willst verantwortung übernehmen, weißt aber, dass es für den erfolg keine einzelkämpfer, sondern ein super team braucht?
+dann haben wir genau die richtige stelle für dich!
+was erwartet dich?
+du arbeitest zusammen mit unseren projektteams und unterstützt unsere m&a unit bei internationalen projekten durch marktrecherchen und analysen
+du wirkst mit bei der entwicklung von langfristigen strategien für unsere kunden und unterstützt bei der vorbereitung von angeboten
+du arbeitest insbesondere an cdds, market research sowie market intelligence projekten
+du baust marktmodelle in excel, entwickelst markteintrittsstrategien, führst interviews durch und wertest diese anschließend aus
+du leitest aus den gesammelten daten und durchgeführten analysen das „so what“ ab
+was solltest du mitbringen?
+ein abgeschlossenes masterstudium an einer namenhaften universität
+erste erfahrungen im bereich m&a advisory, cdd, market intelligence sowie in der beratung sind wünschenswert
+du sprichst fließend deutsch und englisch und vielleicht dazu noch eine weitere fremdsprache
+du überzeugst durch eine sehr starke analytik und hast ein gespür für zahlen
+du bist bestenfalls neben deiner strukturierten denk- und arbeitsweise bereit die extrameile gemeinsam mit uns zu gehen
+was bieten wir dir?
+abwechslungsreiche aufgaben mit viel verantwortung
+stetige weiterbildungsmöglichkeiten
+mentoren-programm
+familiäres und freundschaftliches arbeitsklima
+mitarbeiterevents und firmenretreats (2x jährlich)
+firmenwagen & zusätzliche mobilitätsangebote
+tolles office in der münchner innenstadt
+firmen jour-fixe mit frühstück am freitag
+getränke, obst & joghurts im office
+mitarbeiterbeteiligungsmodell
+altersversorgung
+firmenlaptop & firmenhandy
+sportangebote
+unser jobangebot junior consultant & data engineer business intelligence (bi) (w/m/d) klingt vielversprechend? dann freuen wir uns auf eine bewerbung über campusjäger by workwise.
+bei unserem partner campusjäger kann man sich in nur wenigen minuten ohne anschreiben für diesen job bewerben und den status der bewerbung live verfolgen.

@@ -1,0 +1,46 @@
+position overview
+
+deutsche bank (db) benefits from having a highly experienced and dedicated anti financial crime (afc) function, which performs a crucial role in keeping dbs business operations and global financial services clean from financial crime while serving the interests of the bank and society.
+in order to combat financial crime effectively and respond to challenges in a flexible manner, afc has a matrix structure combining regional, business line and global functional coverage in our core areas of anti-money laundering , sanctions & embargoes , anti-fraud, bribery & corruption , investigations & intelligence , monitoring & screening, and risk assessment . part of our commitment is to strengthen a strong collaboration with all business lines and support functions within our bank.
+
+what afc will do for you
+afc helps deutsche bank generate long-term trust and add value for our clients, staff and society and provide challenging opportunities for you to learn, contribute and benefit from your journey with us. we foster an open and inclusive team culture with the aim to build and maintain a healthy, engaged and well-supported diverse workforce that is equipped to do their best and enjoy their lives inside and outside the workplace, whilst applying the highest standards of conduct to guarantee db's success in fighting financial crime.
+
+about the job - deutsche bank technology in berlin
+
+db technology is a global team of tech specialists, spread across multiple trading hubs and tech centres. we have a strong focus on promoting technical excellence - our engineers work at the forefront of financial services innovation using cutting-edge technologies.
+our berlin location is our most recent addition to our global network of tech centres and growing strongly. we are committed to building a diverse workforce and to creating excellent opportunities for talented engineers and technologists. our tech teams and business units use agile ways of working to create #globalhausbank solutions from our home market.
+
+anti-financial-crime technology
+
+deutsche bank is committed to the highest standard of control in the areas of anti-money laundering (aml), sanctions & embargoes, anti-bribery and corruption (abc) and anti-fraud, collectively referred to as anti-financial crime (afc). anti-financial-crime (afc) technology provides the tools and applications required by the afc function. afc is responsible for defining, maintaining, and enforcing an effective risk management framework to reduce the risk that deutsche bank may be used to facilitate financial crime.
+as a senior java engineer (m/f/x), you will be responsible for developing critical server side components using java and related technologies to help achieve deutsche bank's future state anti financial crime capabilities.
+
+> you love this job but feel you cannot tick 100% of the boxes? send us your cv anyway!
+
+your key responsibilities
+develop and maintain server-side java components in a kubernetes/docker based ecosystem while leveraging the set engineering standards and frameworks.
+craft high quality software with working functional and non-functional tests as well as create/maintain mock data for the tests as required.
+peer review code written by other colleagues and provides constructive feedback to help drive overall code quality.
+develop and maintain set pattern-based ci/cd pipelines as well as support it operations during critical production issues.
+actively participate in agile ceremonies, understand and challenge requirements, provide estimates and collaborate with others team members as needed to deliver assigned scope
+your skills and experiences
+passionate java engineer (m/f/x) with proven experience in microservices, api's, kubernetes, docker, integration technologies (like camel), messaging technologies (jms and/or event based) and ci/cd pipelines. strong knowledge of at least one relational and one nosql database. experience with hadoop, apache spark/beam would be a great advantage.
+takes pride in crafting gold standard, battle tested software and maintainable tests with bdd/tdd approach.
+keeps abreast of and evaluates new technologies/frameworks to enable faster time to market for products.
+proactive with strong problem-solving skills and able to clarify requirements with the stakeholders.
+experience of working in a robust technology environment with a clear appreciation of software development best practices and change control procedures.
+what we offer
+competitive salary and benefits , including 30 days of holiday
+hybrid model of remote work and office days
+working at the forefront of financial services technology at scale!
+in case of any recruitment related questions, please get in touch with luisa moderzinski .
+
+contact luisa moderzinski: +49(0) 151 - 292 003 22
+
+unsere werte bestimmen das arbeitsumfeld, welches wir schaffen möchten - vielfältig, wertschätzend und offen für verschiedene meinungen. nur eine unternehmenskultur, die eine vielzahl von perspektiven, sowie kulturellen und gesellschaftlichen hintergründen vereint, fördert innovation. wir setzten auf vielfältige teams, in welchen die menschen ihr volles potential entfalten können - denn das zusammenführen verschiedener talente und ideen spielt eine entscheidende rolle für den geschäftlichen erfolg der deutschen bank.
+
+unsere unternehmenskultur setzt hohe ethische standards und fördert ein gutes miteinander. unabhängig von kulturellem hintergrund, nationalität, ethnischer zugehörigkeit, geschlechtlicher und sexueller identität, körperlichen fähigkeiten, religion und generation freuen wir uns über bewerbungen talentierter menschen.
+sprechen sie uns an: wir bieten flexible arbeitszeitmodelle und weitere zusatzleistungen, um sie in ihrem berufsleben zu unterstützen.
+
+klicken sie hier für weitere informationen zu vielfalt und teilhabe in der deutschen bank.

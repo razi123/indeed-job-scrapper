@@ -1,23 +1,25 @@
-im dm-konzern sind wir die technologie-experten für business intelligence. tausende anwender aus unseren filialen, der zentrale und unseren industriepartnern führen täglich bis zu 60.000 analysen auf unserem enterprise data warehouse aus. die befüllung des data warehouse mit mehr als 500 schnittstellen aus den quellsystemen gehört zu unseren aufgaben. die geschwindigkeit sowie die menge, komplexität und vielfalt der daten begleiten uns tagtäglich und machen unsere aufgaben spannend.
-du wohnst nicht in der region karlsruhe? kein problem! bei interesse ist es möglich, fast vollständig remote zu arbeiten.
-
 für dmtech, die it-tochter von dm-drogerie markt, suchen wir bundesweit einen:
-bi data engineer (w/m/d)
-deine aufgaben
-beratung interner kunden bei der integration von daten in unser data warehouse
-datenmodellierung (3nf, data vault)
-design, implementierung und betrieb von etl / elt-prozessen (informatica, wherescape, snowflake)
-mitarbeit bei der weiterentwicklung und modernisierung unserer bi-landschaft in der cloud (data lakehouse)
-betrieb und monitoring der bestehenden etl / elt-prozesse
-unterstützung und gestaltung von innovativen it-projekten im business intelligence-umfeld
-du bringst mit
-ein erfolgreich abgeschlossenes studium mit informatikbezug oder erste berufserfahrung im it-umfeld
-gute sql-kenntnisse und idealerweise programmierkenntnisse mit python oder java
-erfahrung im data warehousing, insbesondere in der datenmodellierung, z. b. mit star schema oder data vault
-kenntnisse eines etl / elt-tools, insbesondere informatica und wherescape sind von vorteil
-idealerweise erfahrung im umgang mit cloud-technologien wie snowflake oder azure
-interesse und begeisterung für neue technologien
-das erwartet dich
+cloud devops engineer - business intelligence (w/m/d)
+im dm-konzern sind wir die technologie-experten für business intelligence. tausende anwender aus unseren filialen, unserer zentrale und bei unseren industriepartnern führen täglich bis zu 60.000 analysen auf unserem enterprise data warehouse aus.
+
+zu unseren aufgaben gehören die betreuung und weiterentwicklung der business-intelligence-plattform mit ihren servern, datenbanken und cloud-services.
+
+zur verstärkung unseres teams suchen wir dich als cloud devops engineer - bi, um uns bei unserem spannenden und abwechslungsreichen arbeitsalltag zu unterstützen.
+
+du wohnst nicht in der region karlsruhe? kein problem! bei interesse ist es möglich, fast vollständig remote zu arbeiten. deine aufgaben
+betrieb und weiterentwicklung unserer business-intelligence-cloud-plattform
+administration einer hochverfügbaren und skalierbaren bi-server-landschaft auf linux- & windows-basis
+ausweitung unserer automatisierungslösungen auf basis von beispielsweise automic, puppet, gitlab ci/cd
+orchestrierung und weiterentwicklung unserer eingesetzten cloud infrastruktur (azure, gcp, terraform, snowflake, matillion uvm.)
+monitoring und performanceoptimierung der systeme
+realisierung von projekten als technischer projektleiter
+das bringst du mit
+ein abgeschlossenes studium der informatik, wirtschaftsinformatik oder vergleichbar, eine ausbildung als fachinformatiker oder ein quereinstieg mit mehrjähriger berufserfahrung im server- & cloud-administrationsumfeld
+erfahrung im umgang mit linux- & windows-basierten systemen, idealerweise im umfeld microstrategy-server, webserver und datenbanken
+kenntnisse in der entwicklung und orchestrierung von cloud-infrastrukturen
+leidenschaft und begeisterung für neue technologien und themen rund um bi, server, linux und cloud (azure & gcp)
+die fähigkeit und den willen, dich immer wieder neuen herausforderungen zu stellen und dabei eigenverantwortlich themen zu gestalten und voranzutreiben
+das bieten wir dir
 attraktive arbeitsbedingungen: mit flexiblen arbeitszeiten und überwiegend mobilem arbeiten, einer 37,5 std.-woche sowie 30 urlaubstagen, ermöglichen wir eine ausgewogene work-life-balance.
 moderne unternehmenszentrale: helle büroflächen, höhenverstellbare tische, neueste technik und ein mitarbeiterrestaurant - unser dialogicum bietet ideale bedingungen für deinen arbeitstag dank innovativer ausstattung und intelligenter konzepte.
 optimale verkehrsanbindung: in direkter nähe zur autobahn, einer s-bahn-haltestelle und dem db-bahnhof durlach gelegen, sind wir mit pkw und bahn sehr gut erreichbar. zudem gibt es ein kostenloses parkhaus und eine fahrradgarage, jeweils mit elektro-ladestationen.
@@ -25,5 +27,4 @@ dialogische unternehmenskultur: unsere arbeitsgemeinschaft ist geprägt durch de
 mitgestaltung und entwicklung: bei uns kann sich jeder einbringen und dazu beitragen, themen voranzutreiben. für deine persönliche und fachliche entwicklung bieten wir vielfältige weiterbildungsangebote an.
 weitere vorteile und zusatzleistungen: profitiere von weiteren leistungen wie z. b. mitarbeiterrabatt, fahrrad-leasing (jobrad), urlaubs- und weihnachtsgeld sowie betrieblicher altersvorsorge.
 vertragsart
-
 vollzeit, unbefristet, ab sofort

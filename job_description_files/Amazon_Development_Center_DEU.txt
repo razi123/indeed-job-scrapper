@@ -1,32 +1,35 @@
-bs in mechanical engineering
-3+ years of experience in the design of complex robotic products and equipment
-experience related to systems architecture, design, and system integration of mechatronic devices
-experience building pieces of large scale production software and hardware systems (e.g. service oriented architecture across many teams, continuous deployment, monitoring and alarming)
+m.s. or ph.d. degree in electrical engineering, computer science, mathematics, or related technical field
+experience in verification, program analysis, constraint-solving, and/or theorem proving
+proven experience with programming languages such as java, python, c/c++, ruby, or and open-source technologies
+
 job summary
-do you want to have a worldwide impact in robotics? the robotics ai team at amazon builds high-performance, real-time robotic systems that can perceive, learn, and act intelligently alongside humans—at amazon scale. we invent and scale ai systems for robotics in fulfillment. our mission is to enable robots to interact safely, efficiently, and fluently with the clutter and uncertainty of real-world fulfillment centers. we hire and develop subject matter experts in robotics with a focus on mechanism design, workcell automation, and iterative prototyping.
+amazon's simple storage service (s3) offers industry-leading scalability, data availability, security, and performance. s3’s automated reasoning group (s3-arg) develops and applies automated reasoning techniques to deliver correct, secure, durable, and available distributed systems and storage services. s3 is complex: it consists of hundreds of micro-services each of which is a distributed system. with a very large number of servers and 10s of millions of requests per second, it is also highly concurrent. s3 has a sizable codebase, developed and maintained by a large team of engineers. getting such a complex and fast-evolving system right requires developing cutting edge automated reasoning methods that are continuously integrated into the software development process. this is what our team does.
 
-the robotics ai team is seeking broad, curious engineers to join our diverse team. in addition to holistically designing, building, and delivering end-to-end robotic systems, our team is responsible for the core infrastructure and tools that serve as the backbone of our robotic applications, enabling roboticists, machine learning scientists, and software engineers to collaborate and deploy systems in the field.
-
-we are seeking a interdisciplinary systems engineer to help with our robotic prototypes and work cell deployments. you will design, build, and test innovative robotic systems and their components such as the end of arm tools.
-
-this role includes ownership of decision explanation, process management, fault detection, monitoring, a/b testing, simulation, hardware integration, and more. this work spans prototypes in the lab as well as wide-deployment systems. you will have the opportunity to learn and be a part of an interdisciplinary team building all parts of the robot hardware and software stack.
+we are a diverse team and are looking for teammates who are enthusiastic to work on these problems and further the state of the art with us. we are seeking candidates who are deep in one area of expertise but also broad enough to take on the most complex cloud computing challenges. if you are interested in exploring, please e-mail s3-arg-jobs@amazon.com.
 
 key job responsibilities
-design first of a kind robotic systems for manipulation in cluttered and constrained environments
-work with an interdisciplinary team to improve and maintain product designs including specification, design, prototyping, validation and testing
-work with the operations, manufacturing, supply chain and quality organizations as well as vendors to ensure a smooth production transition of design changes
-write requirements and functional specifications, design verification plans, and functional test procedures
-exhibit role model behaviors of thorough engineering analysis and cradle to grave ownership
-mentor colleagues
-advanced degree (ms or phd) in mechanical engineering, computer science, computer engineering, or equivalent work experience.
-hardware integration (e.g. hardware release cycles, heterogeneous hardware fleets).
-building and testing real-time or safety-critical systems.
-strong organizational skills and the ability to work well with teams of hardware and software engineers
-proficiency with agile product lifecycle management plm software and eco’s.
-significant experience with the hardware product development process.
-demonstrated ability to develop deep understanding of the business and end user needs quickly, and can proficiently translate those needs into the right technology solution.
-ability to effectively communicate concepts and proposals
-desire and energy to work in a fast-paced agile environment
+researching, designing and developing innovative solutions to complex problems in storage systems such as s3
+defining and executing on a research roadmap for s3. you’ll know and talk with your stakeholders on a regular basis, as well as using data and metrics to understand how your service is used, and build and deliver on a roadmap that delights our customers
+develop novel automated reasoning techniques and tools while working with the engineering team to integrate them into our projects
+interact closely with the open-source, academic and research communities
+work with other acclaimed engineers and world famous scientists
+
+a day in the life
+we work on techniques ranging from deductive proofs to model checking, from static analysis to runtime verification of protocols. we work both at the design and the code level, and connecting the two is essential for us. we partner with development teams to make sure that our methods are deployed across s3 and that correctness is maintained as the software evolves. we have had significant success with adoption and we are key contributors to recent s3 launches such as strong consistency. we are developing innovative methods all the time. we publish our results at conferences and journals.
+
+about the team
+inclusive team culture
+here at aws, we embrace our differences. we are committed to furthering our culture of inclusion. we have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. we have innovative benefit offerings, and host annual and ongoing learning experiences, including our conversations on race and ethnicity (core) and amazecon (gender diversity) conferences. amazon’s culture of inclusion is reinforced within our 16 leadership principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+work/life balance
+our team puts a high value on work-life balance. it isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. we believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. we offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+mentorship & career growth
+our team is dedicated to supporting new members. we have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. we care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded professional and enable them to take on more complex tasks in the future.
+
+ph.d. degree in electrical engineering, computer science, mathematics, or related technical field
+software development experience of compilers, interpreters or related tools
+
 amazon is an equal opportunities employer. we believe passionately that employing a diverse workforce is central to our success. we make recruiting decisions based on your experience and skills. we value your passion to discover, invent, simplify and build. protecting your privacy and the security of your data is a longstanding top priority for amazon. please consult our privacy notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
 
 m/w/d

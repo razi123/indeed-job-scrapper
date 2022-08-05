@@ -1,22 +1,16 @@
-passionate about data? as a data engineer crm (m/w/x), you’ll prepare and organise data, generate kpis, and help to design our marketing technology strategy. sounds like your thing? then apply to join our team now.
-you can look forward to plenty of space to develop your own ideas, a permanent contract for 37.5h/week, flexible working hours, and a 30% employee discount on over 100 decathlon brands. you’ll also have the opportunity to work from home two days a week and choose whether you’ll be based in berlin, plochingen, dortmund, or schwetzingen.
-
+as a data analyst (m/f/x) you will support the analytics and research team with your analytical skills. with a clear customer focus you will be involved in making specific recommendations to improve our key figures. thanks to your previous experience in the data analytics field and the precision you pride in your work, you are in a position to develop innovative and sustainable solutions. sounds like something for you? then apply to join our team now.
+you can look forward to plenty of space to develop your own ideas, a permanent contract of 37.5h/week, flexible working hours and a 30% employee discount on over 100 decathlon brands and services. furthermore you will have the opportunity to work from home up to two days per week.
 dafür bist du verantwortlich
-your responsibilities
-you’ll be responsible for preparing and visualising customer data, defining relevant customer segments, and issuing recommendations to our various sales departments.
-you’ll create crm performance reports, ad hoc analyses, and business cases for project and campaign ideas.
-you’ll be responsible for reporting on, analysing, and projecting measures using relevant kpis.
-you’ll help shape the strategic development of our marketing technology and identify behavioural patterns to support it.
-you’ll develop new business intelligence kpis for marketing technology.
-
+analysing complex data sets to generate insights and provide data-driven recommendations
+extracting data from various database (sql)
+presenting findings back to the stakeholders in a clear, concise and engaging manner
+creating and delivering training to internal stakeholders about analytics tools to ensure their autonomy
+identifying trends and provide innovative solutions to enhance the value of data and support the stakeholders
 das bringst du mit
-your profile
-you’re a graduate in computer science, data mining/data analytics, or have comparable practical knowledge and experience.
-you have some experience in the field of data analysis and are familiar with the latest technology.
-you’re confident in using sql, have a sound knowledge of python or r, and know how to use bi tools.
-you have very good german and english communication skills.
-you’re good at working and thinking on your own and always seek to deliver value.
-your style of working is precise, goal-directed, and flexible.
-
+you are a problem solver with innovative thinking and you love getting results based on data-driven approach
+you have strong analytical skills and feel confident presenting your findings to stakeholders
+you are familiar with various statistical tools, including google tag manager, bigquery, google analytics, data-studio, and jira
+you enjoy working in a team and you have excellent communication skills in english, german is a plus
+you are passionate about sports
 wir sind decathlon
 einer der größten sportartikelhersteller und - händler der welt. für uns sind menschen das herzstück unseres erfolgs. wir sind davon überzeugt, dass innovationen endlos und entscheidungsfreiheit sowie verantwortung die grundlage für unseren fortschritt sind. durch unser starkes wachstum entstehen ständig neue weiterentwicklungsmöglichkeiten und karrierechancen in den filialen, der logistik und der zentrale.

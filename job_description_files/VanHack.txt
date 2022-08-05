@@ -1,0 +1,76 @@
+must-have skills
+kotlin
+4 year(s)
+go lang
+4 year(s)
+ci/cd automation
+4 year(s)
+rest api
+4 year(s)
+kafka
+2 year(s)
+microservices
+2 year(s)
+nice-to-have skills
+kubernetes
+graphql
+rabbit mq
+docker
+language required
+english
+are you passionate about building event-driven systems?
+
+do you have a strong grasp of go and/or kotlin?
+
+do you enjoy finding solutions for significantly impactful challenges?
+
+if the answers to the above questions are yes, then this role could be ideal for you!
+
+our hiring partner, an esports data platform that develops accurate models from real-time data to generate predictions, is looking for a well-versed software engineer in go and/or kotlin to join the engineering team - where you will be developing greenfield services and taking an active role in shaping the company’s technology landscape.
+
+you will be working alongside other experienced engineers, writing code adhering to best practices while working on systems that are depended on by some of the biggest names in the esports and gaming industry.
+
+what you will do
+build greenfield mission-critical services and expand the reliability of existing ones
+help to shape the company's technological landscape together with experienced colleagues
+participate in architectural discussions, providing feedback to coworkers and ensuring good practices
+work closely together with product stakeholders to communicate progress and considerations effectively
+
+your skills will include
+deep knowledge of a strongly typed language (preferably kotlin / go), acknowledging the value of having:
+explicit (nullable) types
+strong, minimal contracts
+helpful abstractions and class hierarchies/compositions (introduced at an appropriate time)
+ambition to build robust, high-quality mission-critical systems, leveraging the power of
+automated testing
+automated monitoring and alerting
+ci/cd infrastructure
+know-how of good api design (preferably rest / graphql), paying attention to
+documentation
+self-documenting naming and structures
+minimal and extendable contracts (while minimizing breaking changes)
+experience with real-time messaging technologies (preferably kafka / rabbitmq), micro-service architecture and container/orchestration systems (preferably docker / kubernetes), while bearing in mind
+complexity trade-offs
+asynchronous communication patterns
+fault-tolerance design
+being able to work cet time zone
+
+about the culture
+
+flexibility: work from wherever you want, in the office, from home, or wherever inspires and motivates you.
+
+sustainability: this is not a typical start-up. they want their engineers to be rested and able to perform. they offer a generous vacation allowance (28+ days a year) and the opportunity to speak with professional counsellors to support mental health - covered by the business
+
+pragmatic: the company thrives on being pragmatic, allowing them to make the best decisions, rather than keeping to rigid processes and procedures that don’t work well for them
+
+impactful: with a robust ci/cd process, and a full suite of automated tests, their engineers ship daily, allowing you to make an impact on the product from day one with peace of mind
+
+agile & inclusively: they’ve developed their own kanban-based way of working that is constantly being improved and adapted by the self-organizing product-engineering teams. opinions and ideas are valued from all
+
+quality: achieved by ensuring detailed stories and epics, high test coverage, a thorough code-review process, consciously taking on technical debt and an open culture of sharing opinions
+
+organized: they strive for considered decisions, creating software that lasts. they document them in decision records, which any engineer in any team can drive
+
+fostering growth: empowering employees who are determined to grow by providing a self-development budget and strong career advancement opportunities. support from your teammates to guide and encourage you to grow in your desired professional field
+
+company culture: they believe a diverse industry is best served with a diverse workforce, and it is a great place to work, with recent employee surveys showing over 98% workplace satisfaction

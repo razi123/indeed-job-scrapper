@@ -1,26 +1,29 @@
 über uns
-unsere über 30-jährige erfolgsgeschichte im software analytics-bereich zeigt: wir sind hochspezialisierte experten, wenn es darum geht, datengetriebene geschäftsmodelle zu schaffen. durch die synthese von data engineering, machine learning und software engineering unterstützen wir unternehmen dabei aus ihren daten mehrwerte zu generieren. unsere über 100 mitarbeiter treiben digitale modernisierungen in den branchen manufacturing, finance und life science voran und bereiten den weg für eine wirtschaft, die sich auf wissen, technik und verantwortung stützt.
+eintönige manuelle prozesse stören sie, aber clevere automatisierung durch maschinelles lernen in kombination mit maßgeschneiderten softwaresystemen begeistern sie? dann freuen wir uns auf ihre bewerbung als data scientist/ml engineer (mwd)! werden sie teil unseres teams und setzen sie mit uns innovative digitalisierungsprojekten um! seit über 30 jahren beraten wir namhafte kunden aus einem breiten spektrum an branchen zu digitalisierungsthemen, vor allem im cloud- und data-science-umfeld. wir führen sowohl proofs of concept (pocs) als auch komplexe implementierungsprojekte durch, in denen wir analytische modelle in die systeme und prozesse unserer kunden integrieren oder analytische systeme komplett neu entwickeln. dabei sind wir nicht dogmatisch, sondern versuchen stets die lösung zu finden, die dem kunden den meisten mehrwert bietet - vom einfachen linearen modell über neuronale netze bis hin zum software engineering, um die analytischen ansätze nachhaltig nutzbar zu machen.
 ihre fähigkeiten
-begeisterung für technologie, die digitale transformation und data analytics sowie die stetige motivation, sich fehlendes wissen in diesen bereichen anzueignen - wir bieten die möglichkeiten dafür!
-guter studienabschluss in informatik, mathematik, physik, einem vergleichbaren studiengang oder gleichwertige kenntnisse aus der praxis als software engineer (mwd)
-solide kenntnisse in der softwareentwicklung und dem software engineering
-kenntnisse im bereich data engineering und big data, insbesondere im zusammenspiel mit ki und machine learning sowie erfahrungen mit den cloud technologien azure oder aws sind von vorteil
-ausgeprägte dialogfähigkeit in deutsch und englisch – im team und kunden gegenüber
+sehr guter studienabschluss in informatik, mathematik, physik oder einem vergleichbaren studiengang oder gleichwertige kenntnisse aus der praxis als software engineer / data scientist
+begeisterung für technologie, analytik und die digitale transformation sowie die stetige motivation, sich fehlendes wissen in diesen bereichen anzueignen - wir bieten die möglichkeiten dafür!
+kenntnisse in der analytischen programmierung (z.b. mit r, python)
+ausgeprägte dialogfähigkeit in deutsch und englisch
 bereitschaft zu gelegentlichen reisen
+
+von vorteil
+erfahrung mit den cloud technologien azure oder aws, big data technologien (wie spark, hadoop, kafka) oder life cycle management tools (z.b. git, azure devops, jira, jenkins usw.)
+wir bieten alle rahmenbedingungen, um sich in diese themen effizient einzuarbeiten, falls sie dieses wissen nicht mitbringen.
 ihre aufgaben
-sie arbeiten an innovativen digitalisierungsprojekten für namhafte kunden wie munich re, roche, basf im bereich analytics, iot und neuer digitaler geschäftsmodelle. analytics bildet den kern - modernste technologien den rahmen.
-mithilfe ihres know-hows im bereich data analytics erkennen und heben sie die wertschöpfungspotentiale in den daten unserer kunden.
-durch ihre kompetenzen im bereich software engineering sorgen sie dafür, diese wertschöpfungspotentiale in form von produktiven, sicheren und skalierbaren systemlösungen nutzbar zu machen.
-als software engineer data analytics - cloud (mwd) entwickeln sie analytische it-systeme für und in abstimmung mit unseren kunden und stehen diesen mit ihrer expertise als berater zur seite.
+als data scientist / machine learning engineer (mwd) erarbeiten sie im dialog mit unseren kunden innovative lösungen zur anspruchsvollen datenanalyse und stellen deren kontinuierliche weiterentwicklung und betrieb sicher. analytik bildet den kern - modernste technologien den rahmen.
+sie entwickeln und integrieren datenarchitekturen, datenverarbeitungsprozesse und machine learning modelle zu komplexen systemlösungen.
+in ihrer rolle als data scientist / ml engineer (mwd) führen sie anspruchsvolle beratungs- und entwicklungsprojekte durch, bei denen analytik und software engineering gewinnbringend kombiniert werden.
+so wirken sie aktiv bei der optimierung von geschäfts- bzw. produktionsprozessen und der entwicklung neuer digitaler geschäftsmodelle und anwendungen mit.
 unser angebot
 faktor „mensch“ & betriebsklima: profitieren sie von einer gelebten und fest in der unternehmenskultur verankerten work-life-balance. gemeinsame mittagessen, betriebsfeste, saisonale aktionen und teamevents sorgen für eine gute teambindung und firmenweite vernetzung.
-weiterbildung: erhalten sie 12 tage pro jahr für ihre fortbildung zur verfügung. nutzen sie formate wie wissenszirkel, trainings, coachings und workshops oder besuchen sie konferenzen und fernbildungskurse. identifizieren sie mit uns ihre entwicklungspotenziale und gestalten sie ihren karriereweg ausgerichtet an ihren schwerpunkten.
+weiterbildung: nutzen sie formate wie wissenszirkel, trainings, coachings und workshops oder besuchen sie konferenzen und fernbildungskurse. identifizieren sie mit uns ihre entwicklungspotenziale und gestalten sie ihren karriereweg ausgerichtet an ihren schwerpunkten.
 zusatzleistungen & annehmlichkeiten: neben betrieblicher altersvorsorge, essens- und fitnessstudio-zuschuss bieten wir eine umfangreiche betriebsarzt-versorgung, bewegte pausen, achtsamkeitskurse und pilates an. teilen sie ihre begeisterung in projekten und hobbygruppen wie bspw. unserer klimainitiative, humans-stiftung, wissens-cafés, coding dojos, brettspielrunden und diversen sportgruppen. obstkorb, mittagsmenüs, eis, kaffee, tee und getränke stehen ihnen kostenlos zur verfügung.
 ihre ansprechpartner
-leonie höhl
-senior hr manager
+anna-lena pander
+hr manager
 bewerbung@analytical-software.de
-+49 6221 6051-0
-+49 6221 6051-0 bewerbung@analytical-software.de https://www.linkedin.com/in/leonie-h%c3%b6hl/ https://www.xing.com/profile/leonie_hoehl2/cv
+
++49 6221 6051-596 bewerbung@analytical-software.de https://www.linkedin.com/in/anna-lena-pander/ https://www.xing.com/profile/annalena_pander/cv
 johannes schluchter
-leiter enterprise analytical systems
+leiter enterprise analytical software

@@ -1,0 +1,38 @@
+rhomberg sersa rail holding gmbh jobportal
+standort berlin
+standort bregenz
+standort essen
+standort wien
+berufserfahrung
+it
+software entwicklung
+voll/teilzeit
+data engineer 80 - 100% (w/m/d)
+gemeinsam verbinden – unser weg und unser ziel.
+
+verbinden ist für uns mehr als eine aufgabe. es ist methode und handwerkszeug. es kreiert jenes lückenlose leistungsspektrum, das die rhomberg sersa rail group als international agierenden komplettanbieter für bahntechnik auszeichnet. wichtigstes bindeglied sind dabei unsere 380 mitarbeitenden in der dach region. sie gestalten die einzelnen bereiche leidenschaftlich und innovativ und formen sie zu einem großartigen ganzen. als unternehmen bieten wir unseren mitarbeitenden das ideale umfeld, um sich grenzenlos zu entfalten. an unseren standorten ebenso wie auf unseren baustellen. integrität, vertrauen und gegenseitiger respekt bilden dabei die grundlage unseres täglichen handelns.
+deine aufgaben:
+als data engineer entwickelst und betreust du unsere rhomberg bahntechnik datenplattform. du arbeitest an komponenten entlang der gesamten datenintegrations-pipeline: von der extraktion der daten aus produktionssystemen, über transformationen bis hin zur speicherung der daten. mit modernsten technologien im microsoft azure stack unterstützt du das moderne baugeschäft.
+instandhaltung und weiterentwicklung unserer datenplattform mit unterschiedlichsten use case spezifischen architekturkomponenten
+entwicklung von skalierbaren etl prozessen nach anforderungen des operativen baugeschäfts
+bereitstellung von data lake- und data warehousing-funktionen für automatisierte auswertungen und ki basierte datenprozesse
+deine anforderungen:
+leidenschaft für die entwicklung von komplexen, intelligenten, datengetriebenen systemen mit modernster cloud-technologie
+nachweisbare praktische erfahrung in der entwicklung und betreibung von produktiv-datenplattformen
+sicherer umgang mit sql/nosql datenbanken und cloud services wie z.b. azure functions, azure cosmosdb, azure sql, event hub, event grid
+mehrjährige erfahrung in programmiersprachen wie python oder apache spark
+sehr gute und sichere sprachkenntnisse in deutsch und englisch
+das erwartet dich:
+werde zum pionier im bauwesen bei rhomberg bahntechnik gmbh, ein wachsendes unternehmen der rhomberg sersa rail group! deine kompetenz und dein einsatz sind wegweisend für die welt der bahntechnik von heute und morgen.
+teamorientiertes arbeiten mit moderner it-ausstattung und unter anwendung von agilen projektmanagementtools.
+„du-kultur“, flexible arbeitszeiten (u.a. auch homeoffice), dynamisches mindset sowie fokus auf innovation und nachhaltigkeit.
+wir bieten dir für diese position ein mindestgehalt ab € 46.600,- brutto/jahr. selbstverständlich ist eine marktkonforme überbezahlung, je nach qualifikation und berufserfahrung, gegeben. benefits, weiterbildungsmaßnahmen und interessante mitarbeiter:innenveranstaltungen runden das angebot optimal ab.
+in der rhomberg sersa rail group arbeiten menschen verschiedenster herkunft, sprachen und professionen. und sie arbeiten gerne bei rhomberg sersa. vielleicht deshalb, weil wir weltweit für unsere leistungen anerkannt sind. vielleicht auch, weil wir zwar global tätig sind, einander aber trotzdem nahestehen. ganz sicher aber, weil unsere arbeit sinn macht. weil wir unser wachstum mit den bedürfnissen der menschen und der umwelt in einklang bringen wollen.
+jetzt bist du am zug!
+informiere dich über die rhomberg bahntechnik gmbh. mehr infos zu uns findest du unter:
+https://rhombergrail.com/karriere - bitte lade hier gleich deinen lebenslauf + abschlusszeugnis hoch (ein zusätzliches bewerbungsschreiben ist nicht erforderlich)!
+wir freuen uns über deine bewerbung!
+anica bilić
+recruiter group hr
++436 64 88121969
+anica.bilic@rsrg.com

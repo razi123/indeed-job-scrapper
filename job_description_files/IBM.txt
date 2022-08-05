@@ -1,39 +1,40 @@
 introduction
-data engineers / data scientists in ibm client engineering team are part of a cross-functional team delivering a unique client co-creation experience to accelerate client transformation. as part of an entrepreneurial team, you will use contemporary technologies and approaches to design, develop, test, and deliver solutions.
+the turbonomic brand sales specialist will be directly responsible for driving client-facing sales and client engagement activities to accelerate the adoption and deployment of turbonomic offerings for their assigned territory/accounts. application resource management is one of the key focus topics in ibm's automation portfolio and represents a critical part in the area of aiops solutions.
 
 your role and responsibilities
-as a data scientist at ibm, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. work with best in class open source and visual tools, along with the most flexible and scalable deployment options. whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live. you will contribute to co-creation of rapid proofs of concept and minimally viable solutions that demonstrate business value, leading to client investment in strategic solutions.
-
-to be successful in this role you:
-demonstrate strong business acumen and ability to understand business problems, formulate hypotheses and test conclusions to influence solution design
-you will be the subject matter expert on data and ai statistical models and how they apply to business problems
-are familiar with data science practices from working in code notebooks, building, validating models, and deploying models via apis into applications or workflows, and monitoring & retaining models
-you will advise on and help implement models in machine learning, optimization, neural networks, and artificial intelligence such as natural language, and other quantitative approaches
-are familiar with data engineering techniques (gather, prepare, cleanse, and transform client data for analysis and ai automation, including automating data pipelines)
-leverage a variety of structured and unstructured data sources, analytics, ai tools, and programming languages to derive meaningful data insights (e.g., python, r, spark, tensorflow, jupyter, etc.)
-work in an agile fashion, iterating on the solution to react to client feedback and demonstrate rapid progress
-expand partnerships at all levels of the client organization to identify new opportunities for data science applications
+as a brand sales specialist you play an essential role in accelerating ibm technology portfolio successful in the market. we want you to specifically drive the success of turbonomic application resource management as an integrated part of the ibm automation solutions. as part of an agile and enthusiastic team you take over the following responsibilities:
+generate demand, qualify and progress client opportunities, and negotiate pricing and contracts
+serve as the turbonomic sales expert to drive the strategy, sale, and closure of turbonomic offerings and use cases
+develop and maintain relationships with the highest levels of customer management across executive, line of business, and it
+maintain and orchestrate account specific plans and strategies
+work with prospects and customers to prove the value of the turbonomic solutions and its relation to the aiops set of technologies
+achieve assigned revenue and signings goals for turbonomic products for assigned territory/accounts
+provide timely and accurate pipeline and forecast updates
+work collaboratively in a highly matrixed environment across ibm
+maintain contemporary technology skills and offering knowledge in relation to application resource management and/or network performance management and adjacent technologies
 
 required technical and professional expertise
-graduate degree in computer science, statistics, information systems or another quantitative field
-at least 4 years experience in programming skills in python, r, scala or java (preferred python)
-at least 4 years as a data scientist with a deep understanding of statistics and probability
-at least 4 years of experience in the field of machine learning (data ingestion, feature engineering, modelling including ensemble methods, predicting, explaining, deploying and diagnosing over fitting)
-at least 3 years of experience in applying supervised, unsupervised and semi-supervised learning techniques
-at least 2 years of experience in deep learning and neural nets
-at least 2 years in a client facing role (communicating effective with line-of-business end users and being used to lead client discussions)
-experienced with applications to visualize data using open source tools such as shiny
-fluent in german and english language
+extensive experience with virtualization technology (esp. vmware)
+understanding of the underlying open source and concepts around storage, networking, security, trouble shooting, management
+knowledge of building and operating clusters effectively on a kubernetes platform
+cloud platform knowledge and in one of the following: microsoft azure, google cloud platform/anthos, amazon/aws, ibm public cloud
+understanding of containers and microservices application architecture
+strong linux skills
+knowledge of the role of traditional it operations (itops) engineers, tools they are typically using and pain points they are facing
+understanding of how a site reliability engineer (sre) approaches operations to ensure that continuously delivered applications run efficiently and reliably by using software engineering and automation solutions
+ability to assess where the client is on the journey from traditional it operations to sre, and able to articulate and demonstrate the value of ibm turbonomic to help them with the transition. ibm will provide turbonomic specific educations and trainings
 
 preferred technical and professional expertise
-academic training in a quantitative discipline and/or a specialized degree in data science or analytics
-understanding of analytics life cycle and / or crisp dm method and practices
-experience with restful apis
-demonstrable experience in private and public cloud
-experience in developing and delivering appropriate analytic and/or machine learning models to achieve busines
+knowledge of adjacent ibm technologies including ibm cloudpak for watson aiops
+knowledge of cloud-native technologies and hybrid cloud architectures
+knowledge of application centric it operations
 
 about business unit
-ibm has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. the company’s global markets organization is a strategic sales business unit that manages ibm’s global footprint, working closely with dedicated country-based operating units to serve clients locally. these country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. by complementing local expertise with global experience and digital capabilities, ibm builds deep and broad-based client relationships. this local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. additionally, the global markets organization serves clients with expertise in their industry as well as through the products and services that ibm and partners supply. ibm is also expanding its reach to new and existing clients through digital marketplaces.
+ibm’s cloud and cognitive software business is committed to bringing the power of ibm’s cloud and watson/ai technologies to life for our clients and ecosystem partners around the world. ibm provides you with the most comprehensive and consistent approach to development, security and operations across hybrid environments—with complete software solutions for business and it operations, development, data science, security, and management. our experts and software capabilities help organizations develop applications once and deploy them anywhere, integrate security across the breadth of their it estate, and automate operations with management visibility. with ibm, you also have access to new skills and methods, governance and management approaches, and a deep ecosystem of industry experts and partners.
+
+ibm legal disclaimer:
+
+in order for ibm to offer a wide range of opportunities to applicants, and to afford ibm flexibility in staffing across its corporate structure, your application and information may be shared across our enterprise, including with and among our subsidiaries and affiliates worldwide. one of these affiliates is turbonomic, an ibm company. by submitting your application and information you acknowledge and agree that your information will be used and made available to our subsidiaries and affiliates, and that you may be interviewed by, or ultimately offered employment by, any of ibm's subsidiaries and affiliates.
 
 your life @ ibm
 are you craving to learn more? prepared to solve some of the world's most unique challenges? and ready to shape the future for millions of people? if so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.

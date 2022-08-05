@@ -1,29 +1,30 @@
-as a team we have three areas of responsibility: platform operations, supporting services for the product teams and telemetry. we are responsible for the continued operation of our platform as a service offerings, including incident handling. we work with the product development teams to establish and maintain our service offerings and provide a tight feedback loop on their services’ performance. accordingly, we provide monitoring, logging, metrics and other cross-product infrastructure on kubernetes, so our product teams don’t have to worry about it.
-your responsibilities
-we gather all required metrics to enable data-driven decision making for our platforms and services. we are a development focussed team. while we absolutely need to work with all available tools to react to incidents, solutions should first and foremost result in code and automation. our weapons of choice are ansible, golang, gitops and ci/cd - not root shells and bash scripts. you will be responsible for the following tasks:
-running our kubernetes and service infrastructure.
-building software and systems to manage platform infrastructure and applications.
-developing monitoring and alerting rules for symptoms and not outages.
-participating in system design consulting, platform management, and capacity planning.
-balance feature development speed and reliability with well-defined service level objectives.
-improving the deployment process to make it as uncomplicated as possible.
-be on an on call rotation to respond to availability incidents and provide support for service engineers with customer incidents.
-your qualification
-agile mindset and experience with modern development practices.
-a proactive approach to spotting problems, areas for improvement, and performance bottlenecks.
-ability to program (structured and oo) with one or more high level languages, such as golang, python, java and javascript.
-profound experience with cloud environments and kubernetes.
-profound experience with the linux operating system.
-experience with network fundamentals.
-our offer
-active corporate culture: our cooperation is characterized by flat hierarchies, transparency, open communication and short decision-making processes
-wide range of continuing education opportunities: we offer a wide range of personal and professional development opportunities - via e-learning and seminars, conferences as well as mentoring. language training for german and english is available to our employees as online or face-to-face courses
-attractive jobbike: through jobbike, we offer our employees the opportunity to lease their individual desired bike simply and inexpensively and, in addition, we finance this offer
-good transport connections: due to the central location and good transport connections, our locations are easily accessible and offer parking facilities
-our employees receive employee discounts on products of the united internet group, as well as attractive offers and price reductions from external providers and for various leisure activities. in addition, we offer financial benefits, e.g. for company pension schemes
-health measures: in addition to internal sports and health courses, we also offer lectures on health. you also receive employee discounts at selected gyms and health centers
-each site has a canteen where our employees can enjoy meals at a reduced price. in addition, fresh fruit and a range of hot and cold drinks are offered free of charge
-family service: our family service advises you on questions regarding childcare, home care/elderly care or difficult personal challenges. the family service is free of charge for all employees
-events: we celebrate our success in our teams. there are legendary summer and winter parties. additional workshops and team events provide our unique team spirit
-our job offer site reliability engineer (f/m/d) (sre): paas sounds interesting? then we are looking forward to receiving your application via workwise.
-with our partner workwise, you can apply for this job in just a few minutes without a cover letter and track the status of your application live.
+du hast lust auf spannende und internationale strategie- und due diligence-projekte? du bist ein echtes research- und analyse-talent und hast freude daran, weltweite interviewprogramme zu unterstützen? du willst verantwortung übernehmen, weißt aber, dass es für den erfolg keine einzelkämpfer, sondern ein super team braucht?
+dann haben wir genau die richtige stelle für dich!
+was erwartet dich?
+du arbeitest zusammen mit unseren projektteams und unterstützt unsere m&a unit bei internationalen projekten durch marktrecherchen und analysen
+du wirkst mit bei der entwicklung von langfristigen strategien für unsere kunden und unterstützt bei der vorbereitung von angeboten
+du arbeitest insbesondere an cdds, market research sowie market intelligence projekten
+du baust marktmodelle in excel, entwickelst markteintrittsstrategien, führst interviews durch und wertest diese anschließend aus
+du leitest aus den gesammelten daten und durchgeführten analysen das „so what“ ab
+was solltest du mitbringen?
+ein abgeschlossenes masterstudium an einer namenhaften universität
+erste erfahrungen im bereich m&a advisory, cdd, market intelligence sowie in der beratung sind wünschenswert
+du sprichst fließend deutsch und englisch und vielleicht dazu noch eine weitere fremdsprache
+du überzeugst durch eine sehr starke analytik und hast ein gespür für zahlen
+du bist bestenfalls neben deiner strukturierten denk- und arbeitsweise bereit die extrameile gemeinsam mit uns zu gehen
+was bieten wir dir?
+abwechslungsreiche aufgaben mit viel verantwortung
+stetige weiterbildungsmöglichkeiten
+mentoren-programm
+familiäres und freundschaftliches arbeitsklima
+mitarbeiterevents und firmenretreats (2x jährlich)
+firmenwagen & zusätzliche mobilitätsangebote
+tolles office in der münchner innenstadt
+firmen jour-fixe mit frühstück am freitag
+getränke, obst & joghurts im office
+mitarbeiterbeteiligungsmodell
+altersversorgung
+firmenlaptop & firmenhandy
+sportangebote
+unser jobangebot junior consultant & data engineer business intelligence (bi) (w/m/d) klingt vielversprechend? dann freuen wir uns auf eine bewerbung über workwise.
+bei unserem partner workwise kann man sich in nur wenigen minuten ohne anschreiben für diesen job bewerben und den status der bewerbung live verfolgen.

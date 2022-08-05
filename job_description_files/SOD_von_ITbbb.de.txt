@@ -1,0 +1,64 @@
+job function
+
+business it
+warum sod von itbbb.de?
+
+über das team "business it" (bit) @ sod von itbbb.de:
+wir sind mehr als 400 tech experten in 11 ländern und sorgen dafür, dass die it der sod von itbbb.de verlässlich für alle kolleg:innen zur verfügung steht. mit hilfe unserer unterschiedlichen zeitzonen ist es uns möglich, einen 24/7 support anzubieten. wir arbeiten in einer hybriden multi-cloud umgebung (aws, azure, on-dcs). das gesamte bit team steuert die interne technische transformation der sod von itbbb.de. wir beleuchten kritisch historisch gewachsene it- und geschäftsabläufe und fördern aktiv innovation und agilität, um die produktivität unserer mehr als 9.000 mitarbeitenden weltweit stetig zu steigern.
+
+software engineer (gn) datenbanken / business intelligence
+umfang: vollzeit | arbeitsort: europa (in einer unserer aktuellen länderpräsenzen) / + 100% remote möglich
+
+
+das aufgabengebiet
+
+ein bi software engineer (gn) in der bit @ sod von itbbb.de zu sein, beinhaltet im wesentlichen:
+entwerfen, entwickeln und implementieren von elt-prozessen, data warehouse und self-service bi-umgebung
+fokus auf die automatisierung von prozessen im zusammenhang mit der datenauswertung des jeweiligen geschäftsbereichs
+arbeit in einer modernen und sich schnell entwickelnden bi-umgebung auf der basis neuester technologien
+verständnis für daten und geschäftsmodelle und -prozesse der zugehörigen business domains
+
+
+kenntnisse und fähigkeiten
+
+deine erfahrung
+4+ jahre mit microsoft-technologien und in azure-umgebung
+modellierung von bi-lösungen, bi-analytik, konzeptionelle gestaltung
+analysis services tabular & dax, power bi, microsoft dataverse wünschenswert
+sehr gute kenntnisse in sql server-datenbank-engine, tsql
+python in kombination mit databricks oder apache spark
+sql server integration services, data factory, azure synapse analytics wünschenswert
+
+dein sprach-skill
+englisch: fließend in wort und schrift
+deutsch: wünschenswert
+
+your personality
+hohes maß an eigenmotivation und ergbnisorientierung
+ausgeprägte analytische fähigkeiten, problemlösungskompetenz und geschäftssinn
+fähigkeit, projektübergreifend zu arbeiten
+mut, etwas neues auszuprobieren und sich für veränderungen einzusetzen, die der vision der arbeit entsprechen
+
+
+das haben wir zu bieten
+gelebte unternehmenswerte für ein wertschätzendes arbeitsumfeld
+interkulturelles arbeiten in einem globalen team
+moderne technische ausstattung und flexibles arbeiten
+mitarbeiteraktien- und empfehlungsprogramm
+kostenloser sprachunterricht (auch während der arbeitszeit möglich)
+weiterbildungsförderung durch detaillierte entwicklungspläne und transparente karrierepfade
+sinnstiftendes arbeiten durch ein fest implementiertes okr modell
+teamevents und companyparties
+individueller dresscode
+und vieles mehr...
+
+leistungen können je nach land variieren
+
+
+interessiert?
+
+wir freuen uns auf deine unterlagen unter angabe deiner aktuellen kündigungsfrist und deinen gehaltsvorstellungen (eine ungefährer zahl reicht uns völlig aus). bitte klicke auf den bewerb...
+
+hinweis: bitte bewerben sie sich ausschließlich über unseren direkten bewerbungslink gehostet von empfehlungsbund und itbbb.de: https://www.itbbb.de/jobs/196117/software-engineer-gn-database-strich-business-intelligence. dort erfahren sie noch weitere wichtige details zur stelle. wir freuen uns darauf, sie kennenzulernen!
+
+itbbb.de-ff

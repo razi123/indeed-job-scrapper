@@ -1,23 +1,27 @@
-global automotive group|modern way of working
+spannende aufgaben, lebendiges arbeitsumfeld|unbefristete festanstellung als bi consultant (m/w/d)
 firmenprofil
-my client is part of a leading global automotive group. for an independent business unit wich develops and implements digital transformation projects i am looking for a senior data engineer (m/f/d).
+unser kunde ist ein internationales und vielfältiges unternehmen, welches ein dynamisches und innovatives arbeitsumfeld und die besten chancen für die persönliche und berufliche weiterentwicklung ermöglicht und chancengleichheit für jeden bietet.
 aufgabengebiet
-construction and development of data pipelines
-strategic structuring of relevant data
-technical support for internal and external customers in data related fields
-development of innovative data related solutions
-support for stakeholder in technical areas
-working in an agile and cross functional environment
+zu ihren täglichen aufgaben zählen unter anderem folgenden:
+
+
+souveräne, kommunikationsstarke und mit ausgeprägter beraterkompetenz übernahme von anfang an verantwortung für die durchführung von it-projekten (bi- & data warehouse-lösungen)
+funktion des chefdesigners und/oder projektleiters
+du unterstützt und führst vertriebliche maßnahmen bei der gewinnung von neukunden durch und trägst so maßgeblich zum erfolg und weiteren wachstum
 anforderungsprofil
-relevant working experience in a similar area
-+3 years of experience in cloud based technologies (aws/azure)
-safe handling of python, spark and etl- & elt-processes
-experience in an agile environment
-fluent in english (german is a plus)
+für den einstieg bei diesem unternehmen werden folgende kenntnisse / erfahrungen benötigt:
+du bringst ein abgeschlossenes studium im bereich der mint-fächer mit schwerpunkt statistik oder informatik
+du hast berufserfahrung in der entwicklung der bi-technologien des herstellers microsoft
+du besitzt idealerweise eine gewisse betriebswirtschaftliche kompetenz
+sehr gute deutsch- und englischkenntnisse
+grundsätzliche reisebereitschaft
+sehr gute deutsch- und englischkenntnisse
+kundenorientierung und wirtschaftliche handlungsweise
 vergütungspaket
-attractive salary package (+ 29 holidays)
-completely flexible working time
-fulltime remote-option
-individual mobility solution (bike, train, car)
-individual career- and development-paths
-integrated healthcare and retirement provision
+eigenverantwortliches arbeiten mit abwechslungsreichen aufgaben
+offene arbeitskultur in einem kollegialen und angenehmen miteinander
+firmenevents
+remote
+individuelle und kostenlose weiterbildungsmöglichkeiten
+attraktives vergütungspaket
+30 tage urlaub

@@ -1,28 +1,33 @@
 we are looking for:
-a new member for one of our portfolio companies.
+a new team member for our portfolio companies which has already made a name for itself in the travel industry. the mid-sized company provides its b2c customers with a way to book their trips flexibly via their newly designed web page or directly with the customer support experts via phone.
 
 what will keep you challenged?
 
-designing, building/customising, and maintaining the infrastructure required for data collection and storage of our portfolio company
-defining data collection strategies and processes for the customers of our portfolio company and their suppliers and help them upload and validate the correct raw data
-identifying and integrating different data sources (via apis from external data providers, webscraping, etc.) into one central database
-once the product is built, creating prediction models to estimate scores for the product of our portfolio company
+elaborating processes and definitions of good requirements in collaboration with our marketing, product and sales departments
+creation, maintenance and enhancement of analytical frontends such as dashboards in tableau
+data-driven targeting of multichannel marketing campaigns (online, direct, key account)
+performance analysis of different channels based on transactional & web tracking data
+proactively define potential marketing & sales opportunities based on data
+establishment of a reporting structure to measure all marketing & sales activities
 which traits contribute to your success?
 
-work experience in data-intensive applications that consume data from a wide variety of sources
-experience in designing and building robust and flexible data pipelines and schemas
-knowledge of data warehouse spaces and etl/elt design
-background in the climate space environment (preferred)
-ideally, knowledge in lca/emission factor databases and libraries and being able to assess their scope, allocation and data reliability
-please note that we are looking for support in the berlin office of our portfolio company, with the possibility of working remotely. however, eligibility to work within the eu is required as well.
+successfully completed studies in the field of it/ business administration/marketing or comparable training
+relevant experience in building effective reports & analyses (e.g. in tableau) as well as basic knowledge in building & extending scalable data warehouses
+high it and marketing affinity
+good sql knowledge and first experiences with python are advantageous
+high communication and team skills
+independent, structured and solution-oriented way of working
+secure knowledge of german and english, both written and spoken
+please note that we are looking for support in the frankfurt office of our portfolio company. eligibility to work within the eu is required as well.
 
 what to expect working with our portfolio company:
-be part of a professional network within the project a family, with access to regular events, knowledge sharing and meetups
-attractive compensation package, including stock options
-financial and administrative support with your move to berlin
-minimum of 25 vacation days per year
-a mobility subscription that reduces or offsets your emissions from commuting
-a spotify subscription so you can do your most productive work
-a fitness subscription so you can clear your head in your time out of the office
-1000€ (flexible) learning budget to get 3x the horsepower
+make a true impact in the travel industry
+well-equipped and modern office in the heart of frankfurt am main
+transparent culture with flat hierarchies where every person is highly valued
+thrive in an inspiring, creative, and diverse environment with amazing and smart colleagues from all over the world
+having fun together as a company with regular team events
+getting challenged and developing your professional skills by taking over responsibilities, and a guaranteed steep learning curve from day one
+attractive social benefits such as flexible hours, health insurance, parking, and travel packages
+choose from a variety of drinks and healthy snacks available to keep you energised throughout the day
+being part of an instant network within the project a family
 apply below and become a part of our success story!

@@ -1,0 +1,28 @@
+senior devops engineer
+e-commerce/internet
+
+my client is building a fully remote team in germany and are on a journey to build one of the most cutting edge personalization platforms ( powered by ml products ) in retail today. a start up within an enterprise organization , they have both the speed and creativity of a start up and the resources of an international business.
+
+as a devops engineer you will be designing and implementing key infrastructure products to enable the feature teams to ship value to their customer, working across all levels of their platform.
+
+responsibilities
+joining a cross-functional team ( data engineers, ml engineers, devops, product, software devs ) you will contribute in the building of essential infrastructure products (e.g. deployment, monitoring) to enable the teams to ship value.
+work on all levels of the platform like network, compute, storage, frameworks and software
+automate the infrastructure and processes with tools like terraform
+work on key processes to ensure availability and scalability of the platform using tools like kubernetes, docker, helm etc.
+requirements
+min. bsc in computer science or similar discipline
+min. of 2+ years coding in python ( or go ) and bash scripting, where you can develop code that is reusable ,clean and scalable
+experience with microservice architectures in production (docker, kubernetes, helm)
+building highly scalable architecture optimized for high availability,
+high data throughout, and low latency
+production experience with cloud platforms like gcp (preferred) or aws
+knowledge of major configuration management systems as well as how to define infrastructure as code
+knowledge of sql and nosql databases
+benefits:
+salary range: €85-105k
+30 days holidays
+full remote working ( in germany and spain only )
+*please note , due to visa process constraints only those eligible to work and live in germany and spain will be shortlisted*
+
+fore more information on the position please feel free to reach out to me at anthonyh@alldus.com

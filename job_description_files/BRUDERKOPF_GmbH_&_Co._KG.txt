@@ -1,35 +1,32 @@
-bruderkopf ist der vertrauensvolle und unabhängige partner der deutschen wirtschaft im personalmarketing und recruiting. unser kundenstamm reicht vom inhabergeführten handwerksbetrieb, über mittelständische dienstleistungs- und handelsunternehmen, bis hin zum global agierenden industrieunternehmen im familienbesitz.
+bruderkopf ist der vertrauensvolle und unabhängige partner der deutschen wirtschaft im personalmarketing und recruiting.
 
-unser mandant ist einer der erfolgreichsten bereiche innerhalb einer weltweit operierenden unternehmensgruppe, die als weltmarktführer in mehr als 80 ländern über 83.000 mitarbeiter beschäftigt. für ihn suchen wir einen senior data engineer (m/w/d).
+unser mandant ist eine kleine inhabergeführte unternehmensberatung und spezialist in den bereichen business analysis, data science, reporting und bi. mit seiner expertise unterstützt das erfolgreiche start-up die digitale transformation, indem es datengesteuerte lösungen für seine kunden bereitstellt, um geschäftsprozesse zu automatisieren und zu optimieren. namhafte unternehmen, vom branchenspezialisten bis zum dax-konzern, vertrauen unserem mandanten, wenn es darum geht, datenbasiert die richtigen strategischen entscheidungen zu treffen und rechtzeitig auf veränderungen zu reagieren. neben einer herausragenden qualität und zuverlässigem service für seine kunden steht das unternehmen auch für eine nachhaltige unternehmensführung und zu seiner gesellschaftlichen verantwortung.
 
-wahlweise ist die arbeit am standort unseres mandanten oder remote möglich.
+für den ausbau des bestehenden it-consultings-teams suchen wir ab sofort einen (senior) cloud data engineer dwh, etl & big data (m/w/d), wahlweise am standort unseres mandanten oder remote zum nächstmöglichen zeitpunkt.
 
 aufgaben
 
-du entwickelst datenmodelle und -strukturen
-du erweiterst das data lake um neue datenquellen
-du implementierst daten pipelines zur extraktion und bereitstellung strukturierter und unstrukturierter daten für die unterschiedlichen (internationalen) unternehmensbereiche
-du bist die ansprechperson für sämtliche fragen aus dem bereich data engineering aus dem unternehmen
-du übernimmst das strategische weiterentwickeln der dateninfrastruktur
+als schnittstelle zwischen data & analytics und fachbereichen berätst du kunden im rahmen ihrer bi-projekte zu anspruchsvolle datenarchitekturen in der cloud.
+anhand der kundenanforderungen konzipierst und entwickelst du cloudbasierte daten & analytics lösungen hinsichtlich architektur, datenmodellierung und -integration.
+du entwickelst und implementierst performante und skalierbare datenbewirtschaftungsstrecken (etl-/elt-prozesse).
+du optimierst analytics lösungen in der cloud hinsichtlich kosten, laufzeit und stabilität.
+falls du lust hast, kannst du dich darüber hinaus auch vertrieblich einbringen und eigenständige (pre-)sales aktivitäten durchführen.
 qualifikation
 
-abgeschlossenes studium (wirtschafts-) informatik oder vergleichbare studiengänge
-du bringst erfahrung in relevanten programmiersprachen wie z.b. scala, java oder python und in der entwicklung von etl prozessen mit
-du hast kenntnisse in hadoop ecosystem (hdfs, kudu, hive, impala, solr, spark, kafka)
-du bringst erfahrung im aufbau von datenstrukturen (z.b. data lake, data warehouse) mit
-deine deutsch - und englischkenntnisse sind auf einem sehr guten level
-teamfähigkeit, analytische sowie strukturierte arbeitsweise gehören zu deinen stärken
+bei uns punktest du mit deinen fähigkeiten: ein abgeschlossenes studium der wirtschaftsinformatik, informatik oder ähnliches ist nicht nötig, wenn deine it-skills überzeugen. diese sehen wie folgt aus:
+sql beherrscht du aus dem effeff
+datenbankkenntnisse bringst du mit und hast dabei mit mindestens einem der folgenden systeme intensiv gearbeitet: oracle, db2, snowflake, redshift, ms-sql-server oder mysql
+du beherrschst deutsch fließend in wort und schrift (sprachniveau: c2) und traust dir zu im projekt auch mal auf englisch zu kommunizieren (sprachniveau: mind. b2)
+du bist im rahmen von kundenprojekten flexibel und deutschlandweit reisebereit und genießt ansonsten die möglichkeit zum mobilen arbeiten
 benefits
 
-besondere unternehmenskultur, in der wertschätzung und teamgeist großgeschrieben werden
-umfassende einarbeitung und die möglichkeit, sich persönlich und fachlich weiterzuentwickeln
-vielfältige benefits wie ein aktiv- & gesundheitsprogramm, vergünstigtes essen in der kantine, firmenevents und sonderzahlungen z.b. bei jubiläum, hochzeit, geburt
-gelebte diversität und vielfalt
-freiraum sich auszuprobieren und neue ideen einzubringen, wird durch positive fehler- und feedbackkultur unterstützt
-arbeitsplatz im firmeneigenen, hochmodernen innovationszentrum
-hast du lust deine kenntnisse bei einem der innovativsten unternehmen deutschlands einzubringen?
-
-wir freuen uns auf deine bewerbung und so geht es danach weiter:
+eine festanstellung mit unbefristetem arbeitsvertrag und einer attraktiven vergütung
+unabhängiges familienunternehmen mit hoher eigenverantwortung, flachen hierarchien und kurzen entscheidungswegen
+arbeiten in einem kollegialen und sympathischen team in familiärer atmosphäre
+individuelle entwicklungschancen sowi 3.000 eur schulungs- und trainingsbudget pro jahr
+die beste ausstattung für dein home office: diensthandy, laptop, monitor, höhenverstellbarer schreibtisch, ergonomischer bürostuhl usw.
+möglichkeit zum mobilen arbeiten (umfang bis zu 100%, sofern es die jeweiligen kundenprojekte zulassen)
+du hast lust teil dieses besonderen teams zu werden? dann freuen wir uns über deine bewerbung! und so geht es danach weiter:
 
 in der regel melden wir uns noch am selben tag zur vereinbarung eines kurzen kennenlerngespräches
 passt alles, kommt es zum persönlichen interview mit unserem mandanten

@@ -8,8 +8,6 @@ from selenium import webdriver
 from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 
-from pyspark.sql import SparkSession
-
 skills_defined_100 = import_module("100_define_skillset", package=None)
 append_info = import_module("03_append_info", package=None)
 
@@ -19,7 +17,7 @@ class Myjobs:
         self.website = website
         self.raw_folder_path = raw_folder_path
 
-    def browser_jobs(self, spark: SparkSession):
+    def browser_jobs(self):
         options = webdriver.ChromeOptions()
         # options.add_experimental_option("debuggerAddress", "localhost:8989")   # using existing chrome browser
         options.add_argument("--headless")                # runs without invoking the browser

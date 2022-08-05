@@ -1,0 +1,29 @@
+die noris network ag bietet unternehmen lösungen in den bereichen it-outsourcing, cloud services, network & security und datacenter. technologische basis dieser services ist eine leistungsfähige it-infrastruktur mit einem eigenen hochleistungs-backbone und mehreren hochsicherheitsrechenzentren. seit 1993 haben wir uns zu einem der it-spezialisten mit mehr als 400 mitarbeitern entwickelt. das alles wäre aber nicht möglich ohne ein starkes team. deswegen legen wir wert auf die permanente weiterentwicklung und förderung aller mitarbeiter und sind auf der suche an den standorten nürnberg, aschheim, berlin und remote nach verstärkung – durch dich?
+
+(senior) data engineer (m/w/d)
+
+deine aufgaben:
+analyse von reporting anforderungen und visualisierung von daten durch einsatz von reporting tools und dashboards (metabase)
+analyse von datenquellen zur einlieferung ins data warehouse in abstimmung mit fach- und betriebsteams
+spezifikation und aufbau von etl- und datenintegrationsschnittstellen inklusive der einsteuerung daraus entstandener aufgaben bei software entwicklungsteams
+beratung bei der interpretation von daten und aktive mitarbeit bei der verbesserung der datenqualität
+unterstützung bei der weiterentwicklung des teams und den angebotenen produkten, services und beratungsleistungen
+
+deine talente:
+studium der informatik/wirtschaftsinformatik oder vergleichbarer it-hintergrund
+mehrjährige erfahrung im bereich data analysis/engineering
+umfangreiches wissen in der visualisierung von daten in report- und dashboards, inklusive der anforderungsabstimmung und beratung
+ausgeprägte kenntnisse im aufbau von etl- und datenintegrationsschnittstellen und in der analyse von datenquellen und schnittstellen
+erste erfahrungen als fachliche führungskraft/projektleiter/product owner für software entwicklungsthemen
+hohes analytisches und lösungsorientiertes denkvermögen
+kommunikationssicheres auftreten in deutscher und englischer sprache
+
+deine mitarbeitervorteile:
+unbefristeter arbeitsvertrag und flexible arbeitszeiten
+laptop und firmenhandy auch zur privaten nutzung
+förderung und weiterentwicklung durch inhouse-trainings und externe schulungen
+kinderbetreuungskostenzuschuss, beteiligung am unternehmenserfolg, jobrad
+attraktive firmenevents und duz-kultur ab dem ersten tag
+gesundheitsmanagement, kostenlose getränke und frisches obst
+
+wir haben dein interesse geweckt? dann freuen wir uns über deine aussagekräftige bewerbung mit angabe deiner gehaltsvorstellung und dem eintrittsdatum auf unserem jobportal: https://www.noris.de/karriere/jobs

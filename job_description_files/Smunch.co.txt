@@ -1,0 +1,36 @@
+your mission
+creating tableau dashboards to support various parts of our business with hard data
+owning the data pipelines and ensure a continuous flow of data between postgres, salesforce, and more to come
+developing complex sql queries to part our data into tables ready for analysis, following the business needs
+supporting in building and automating additional data connections and imports between our data sources
+your profile
+you have strong sql skills
+you have good experience with bi systems and in implementing data pipelines
+you have good experience with salesforce and postgres
+
+you ideally are familiar with software development platforms like github or gitlab
+
+you have a creative mind and can think of various options for connecting the data, you’re ready to experiment and have passion for building smart structures supporting the growth
+you are interested in the business behind the data, and working together with the analysts to make the best of the data
+you are keen on providing unbiased high-quality data visualizations to support business decisions
+you are very curious, pragmatic and willing to take on responsibilities very rapidly
+why us?
+we are a dynamic, international and experienced team of motivated professionals
+
+we give you the opportunity to develop your professional career and personal growth
+
+we have fun at work and an environment where people like to take over responsible tasks
+
+we work from the office and/or home office
+
+we offer you a bvg company ticket and an additional allowance
+
+we are part of the corporate benefits community through which you can take advantage of a variety of employee offers
+
+we provide you with a smunch lunch every thursday (smunch lunch programme with reduced prices for the other days of the week) - as well as daily free drinks!
+we're revolutionizing the lunch break scene! because we love our job. and good food :)
+
+smunch is a modern food-tech start-up based in berlin, hamburg, and munich. our mission is to bring a breath of fresh air to other companies' lunch breaks and to strengthen their team spirit.
+
+how?
+by delivering affordable, delicious, and healthy food to hungry team members at the same time!

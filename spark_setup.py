@@ -12,3 +12,16 @@ def init_spark():
 
     return spark
 
+
+def empty_spark_df():
+    spark = SparkSession. \
+        builder.\
+        appName("Empty_df"). \
+        getOrCreate()
+
+    empty_rdd = spark.sparkContext.emptyRDD()
+
+    print("empty df spark setup done")
+
+    return empty_rdd
+

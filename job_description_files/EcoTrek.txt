@@ -1,0 +1,40 @@
+company description
+
+work smart, have fun and make an impact!
+ecovadis is the leading provider of business sustainability ratings. our solutions are backed by an international team of experts and powerful technology. we analyze data and build sustainability scorecards that give companies actionable insights into their environmental, social and ethical risks.
+why apply to ecovadis? be a part of the global sustainability change in business. grow your career. work with extraordinary people. feel valued for your contribution.
+learn more about our team and culture on ecovadis careers page.
+if you have questions about the company or open roles you can chat with an insider.
+
+job description
+
+ecotrek, an ecovadis company, is looking for a machine learning (ml) engineer to join our growing team in berlin. ecotrek was acquired in july, 2022, to complement ecovadis’ portfolio of solutions by enhancing technical capabilities, improving customer experience, and expanding visibility with robust information about trading partners.
+ecotrek’s sustainability data mining capabilities make it possible to automate the gathering and integration of sustainability data into business processes. this gives ecovadis unmatched access to company-specific insights to understand environmental, social and ethical risk and opportunity, providing even faster and more robust risk visibility for organizations across the entire supply chain.
+you will be reporting to the engineering manager and ensure that all applications are synchronously working seamlessly in a state-of-the-art environment. in addition, you will:
+take care everything is running on the cloud
+develop services to improve productivity and workflows such as ci/cd pipelines
+engage with other engineering teams across ecovadis to advocate for sre best practices
+collaborate, support, and work hand-in-hand with our frontend, backend and data team
+be an example and a guard for our company culture and values
+
+qualifications
+degree in computer science with a focus on ai / devops or equivalent experience
+experience in creating, managing & deploying ml environments, ideally in a b2b environment
+confident and skilled in working with cloud providers like gcp, aws, azure or equivalent
+proven production experience with container orchestrators like kubernetes, apache mesos or docker swarm
+containerization of applications with docker and docker compose is a regular task
+familiar with yaml and bash scripts as well as setting up ci/cd pipelines
+advanced programming skills with modern languages like python
+experience with agile methodologies and working in sprints
+fun, pragmatic, dedicated and willing to dive into new domains
+fluent in english (german not required)
+
+additional information
+
+location: berlin
+everyone at ecovadis contributes to a culture of trust, respect and empowerment. our growing team in germany is full of talented professionals who are experienced in sustainability, customer success, sales, it and all share a desire to change the world, one customer at a time. we offer competitive salaries and support personal growth from day one with extensive onboarding, mentoring and a brand new e-learning platform bursting with courses and modules so you can learn new skills and fine-tune old ones.
+purpose-driven start-up team with scaleup benefits. we will support you with all the necessary office equipment, 30 days of holiday, 100% coverage of the bahncard (50,2) in germany, a semesteral wellness policy, as well as healthcare and pension contributions. everyone at ecovadis also receives a community service day as becoming a leader as a socially responsible company is one of our top priorities.
+our hiring team looks forward to reviewing your cv and cover letter with a guaranteed response to every application. a new job with purpose awaits you!
+don’t fit all the criteria but still think you’d be a good candidate? please apply anyway to give our hiring team the opportunity to assess your skills and to learn more about what you could bring to ecovadis. we’re interested in hiring capable people, regardless of professional and educational background.
+can the hiring process be adjusted to suit my needs? yes. we want everyone going through the hiring process with ecovadis to feel confident that you are able to demonstrate your full potential. we welcome applications from disabled people, people with long-term health conditions and neurodiverse candidates. if you need any adjustments, please let the hiring team know.
+our team’s strength comes from everyone’s uniqueness and is founded upon mutual respect. ecovadis commits to equity and inclusion and does not accept any form of discrimination based on color, national or ethnic origin, ancestry, citizenship, religion, beliefs, age, sex, gender identity, sexual orientation, neurodiversity, disability, parental status, or any other protected characteristic that makes you unique.

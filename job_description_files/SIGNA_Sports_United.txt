@@ -1,0 +1,42 @@
+company description
+
+signa sports united (“ssu”) is a nyse (new york stock exchange) listed specialist online sports retail company based in berlin, germany. we own companies and brands in various sports including bikes, tennis, outdoor and team sports. we sell equipment and apparel via our 100 own online stores, collaborate with 500+ independent brick and mortar shops, and partner with over 1000 sports brands. together we serve 7+ million customers around the world.
+job objective
+as a data engineer, you are responsible for leveraging and preparing data for any analytical and functional purpose, i.e. standard business reports, real-time iot or the business process automation are just some examples for your working areas.
+
+your products will support our data scientists, business and data analysts as well as product developers with the most efficient data pipelines and outstanding data quality. big data is your daily business. since you enjoy data wrangling, building pipelines and are a creative person you have the great opportunity to realize your ideas of how to design and configure modern pipelines and dataflows. you enjoy self-managed and self-directed work as well as presenting your results in a team to managerial as well as operational levels.
+
+organizationally, you will be part of the team which is responsible to define, leverage and maintain a future-proof data infrastructure of the group-wide organization using state-of-the-art technologies as well as developing tailored solutions. considering business applications, you will be part of cross-functional project teams which define, describe and realize business use cases.
+
+job description
+create data assets which are properly authorized and leveraged group-wide.
+develop and maintain high-end data pipelines end-to-end.
+develop and provide proper interfaces and apis.
+monitor and improve data quality pro-actively in-line with the applications of business use cases.
+identify automation potentials within the provisioning process. design and re-design data architecture to create a scalable and flexible tech-stack which satisfies the customer needs.
+challenges the status-quo and provides new solutions as well as insights to business process flows.
+ensure system and data security across all our data sources with an aws-centric approach.
+work in expert as well as cross-functional teams and challenge yourself and others.
+build analytical tools to test and maintain quality of the data pipelines in order to achieve great usability, customer acquisition as well as operational efficiency.
+the data engineer contributes directly to the setup of a group-wide high-performance lightweight data infrastructure.
+
+qualifications
+profound knowledge of a variety of databases with advanced skills in sql and related methodologies in relational and non-relational databases.
+streamline processing in order to provide real-time analytics for i.e. reporting, audit and iot analytics.
+bsc/msc in computer sciences, mathematics, natural sciences or similar.
+5+ years experience working in provisioning data pipelines and leveraging a variety of data transformations for various applications.
+hands-on mentality and the ability to translate requirements into action.
+outstanding analytics skills: identify root causes at their true core as well as a strong comprehension towards business fields in order to meet the customer needs.
+profound knowledge in data integration solutions as well as methodologies.
+very beneficial skills are:
+experience in aws services like ec2, s3, emr, rds, redshift lamba, etc.
+experience in analogous services and products to aws.
+experience in workflow tools as well as the deployment of the pipelines.
+strong skills in project management and communication as well as the ability to understand organizational relations.
+passion for sports and tech is very welcomed!
+
+additional information
+
+we celebrate diversity and are committed to building teams that represent a variety of backgrounds, perspectives and skills. all employment is decided on the basis of qualifications, merit and business need.
+
+we at signa sports united believe that our team-spirit burns brightest when we're together. we also believe in flexible working models. as such, we provide a place for you to come, work and collaborate in any of our offices in the country you are employed in. and of course, you can work from home if needed.

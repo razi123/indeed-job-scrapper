@@ -1,54 +1,42 @@
-universal music is the market leader in the music business. the world’s most famous and most successful record labels belong to us. we’ve been writing music history for over 100 years representing legendary musicians across all genres. our accomplishments are driven by our love for music, extraordinary artists and our ambitious team.
-beats & bytes is a network of small, autonomous product teams, who act as microenterprises. to be agile and innovative, we need degrees of freedom and agility! empowerment and community are part of our culture. as the technical backbone we generate added value for universal music by solving our user’s problems. the beats & bytes team forms the digital foundation for our business and actively contributes to the competitive advantage of universal music.
-this role will become a member of the cross-functional ecommerce product team in beats & bytes. in close cooperation with the internal and external stakeholders, we create a virtual music & merch world for our customers. we are responsible for the technical conception and execution of web-products, and the ecommerce space. our tasks lie within the development and maintenance of the web shop and backend systems, the programming of interfaces (apis) as well as the creation of websites, website tracking, seo and data privacy mechanisms.
-here’s your chance to shape our future together with us! effective immediately, we’re looking for a (senior) frontend engineer (all genders) to become part of our beats & bytes team at our headquarters in berlin. it will be a permanent full-time position.
-your gig:
-you will work in the scope of sprints with talented and experienced colleagues as (senior) frontend engineer within an autonomous and agile ecommerce product team
-together with your team you will take charge of the estimation of a request, the development and qa, and the monitoring during operation
-with your product team you will assess business cases, suggest possible technological solutions and contribute towards the definition of the tech strategy of ecommerce engineering
-the continuous advancement of ecommerce products regarding security, reduction of complexity, enhancement of cost efficiency, performance and usability are also part of your tasks
-your tasks will include the further development of our web shop landscape with more than 260 stores as well as the development of new stores
-you will keep track of the results of your developments and you are proud to present them
-you are an active member of the developer’s community of practice and cater for best practice communication between developers
-you analyze market developments and technological trends to assess their potential application for universal
-you share your know-how, e.g., in the form of trainings, presentations or workshops, which you prepare yourself
-
-we are keen to jam with you if you:
-have multi-year experience as a frontend engineer and architect
-you are equipped with profound knowledge in frontend development with html, css, bootstrap and are very familiar with javascript and js frameworks such as react or extjs
-knowledge of go programming language and php are a plus
-you have a solid understanding of shopify and general ecommerce and consumer marketing technologies
-you have knowledge of concepts such as rest, graphql, responsive web design, microservices, git, ci/cd etc.
-you stand out positively if you have experience with template engines such as twig
-you can communicate efficiently in a tech as well as business related context
-you have experience in cooperating with product managers and ui/ux designers
-you feel confident and natural reading, writing, and speaking english; german skills are a plus
-
-your personality matters:
-you have a high digital affinity and are passionate about new technologies as well as digital transformation
-you thrive working in interdisciplinary teams and you’d choose teamwork over heroism anytime; you maintain an open communication with your colleagues and have excellent people skills
-constructive nonconformity is part of your strengths
-you can quickly empathize with other people’s perspectives and know exactly when to stand your ground and how to present it convincingly
-you consider yourself an innovator and initiator who enables its environment to think outside the box; you love contributing creative ideas
-you can present topics in a very comprehensible and goal-oriented manner
-you’ve been described as reliable and well-organized which allows you to stay focused, structured and calm – even in stressful situations
-you’ve been praised for your excellent abilities as change maker, listener and communicator
-it is fun for you to advance products from a technical perspective and to take responsibility
-your thinking is guided by strategy, analysis and innovation which enables you to connect the dots quickly and logically
-
-who we are:
-music embodies emotion, creativity, adventure, tradition and innovation all at the same time – as a team we strive to advance the universal music project
-diversity, respect and tolerance – both human and musical – are essential for us. therefore, diversity and inclusion are consistently supported and championed by the people & culture team as well as our better together initiative
-we live an open communication and thrive as a team – for this purpose we meet at eye level regardless of hierarchy
-in our business it is important to make good decisions quickly: we count on proactive employees who think ahead and find simple solutions
-together we take responsibility, even beyond our daily business, which is why we are actively committed to more sustainability and environmental protection through our sustainability workgroups
-
-our benefits – because you’re important to us:
-thanks to our hybrid work model you benefit from high flexibility and room for collaboration and interactions in our headquarters in berlin
-keep moving sustainably through the capital thanks to special rates for bvg tickets (public transport) and our job bike leasing offer
-we offer professional development through various workshops and courses
-take care of your mental health with our employee assistance program for all challenges in life (professional and private); we offer confidential counseling and coaching through a third-party provider
-stay healthy through various sports activities and healthy food in our subsidized canteen
-
+universal music ist marktführer im musikgeschäft. zu unseren labels gehören die bekanntesten marken der musikwelt.
+als zuhause zahlreicher lokaler und internationaler künstler:innen steht universal music für über 100 jahre musikgeschichte aus allen genres. unsere erfolge verdanken wir unserer liebe zur musik, einzigartigen artists und unserem großartigen team.
+analytics, big data und cloud-technologien sind für unser geschäft essenziell. in der welt digitaler vertriebskanäle und social media können wir heute auf mehr information zugreifen als je zuvor. im bereich data analytics führen wir fundierte analysen durch, um das hörverhalten der musikfans besser zu verstehen und damit unsere künstler:innen optimal vermarkten sowie das hörerlebnis verbessern zu können. die erkenntnisse unserer analysen haben strategische auswirkungen wie z.b. die verpflichtung von talentierten künstler:innen, ausgestaltung von marketingmaßnahmen und ressourcenallokationen.
+data analytics ist die zentrale einheit im geschäftsbereich marketing labs, die sich mit der beantwortung dieser fragen beschäftigt. wir arbeiten eng mit den expert:innen aus den bereichen media planning & operations, digital commercial partnerships, crm & insight planning sowie consumer development zusammen.
+du möchtest teil unseres teams werden? dann werde unser neuer (senior) data scientist (all genders) am standort berlin. die position ist ab sofort verfügbar. es handelt sich um eine befristete anstellung für 18 monate (elternzeitvertretung) in vollzeit.
+deine aufgaben:
+du kümmerst dich um die eigenständige entwicklung von machine-learning-modellen auf einer cloudbasierten infrastruktur; dabei arbeitest du mit produkt-, geschäfts- und technischen interessenvertreter:innen zusammen
+du führst proaktiv analysen bestehender und neuer datensätze durch, um neue modellierungsmöglichkeiten zu finden, die das fanengagement fördern
+du koordinierst die modellbereitstellung (deployment) und unterstützt die überwachung und fehlerbehebung nach der bereitstellung
+du dokumentierst das modelldesign, implementierung und erkenntnisse und präsentierst diese unseren partnerteams, anderen data scientists sowie der teamleitung
+du stehst mit universal international über gemeinsame relevante projekte und entwicklungen im regelmäßigen austausch
+du hältst dich über die neuesten entwicklungen im bereich machine learning und ai auf dem laufenden, bringst neue ideen in das team ein und engagierst dich für best practices
+diese anforderungen erfüllst du:
+du verfügst über ein abgeschlossenes studium in mathematik, data science, informatik, statistik oder einer verwandten fachrichtung
+du hast 2+ jahre praktische erfahrung in der entwicklung von überwachten und unüberwachten lernalgorithmen, wie clustering, regression, klassifizierung und recommendation, in einem kommerziellen umfeld
+du beherrschst python, den data-science- und visualisierungs-stack sowie frameworks wie tensorflow, pytorch
+du bringst ein tiefes verständnis von sql-basierten big-data-systemen sowie sehr gute sql und datenanalysekenntnisse mit
+du hast praktische erfahrung mit versionskontrollsystemen (git) gesammelt und hast bist bereits vertraut mit der entwicklung von datenpipelines in airflow
+erfahrungen in der google cloud platform sind von vorteil
+du verfügst über verhandlungssichere deutsch- und englischkenntnisse in wort und schrift; weitere fremdsprachenkenntnisse sind von vorteil
+deine persönlichkeit ist gefragt:
+der umgang mit komplexen themengebieten ist für dich eine spannende herausforderung, da du zusammenhänge sehr schnell erkennst
+du bringst eine hohe zahlenaffinität mit und eine arbeitsweise, die durch sorgfalt und gewissenhaftigkeit geprägt ist, mit; auf deine analytische denkweise können wir uns stets verlassen
+als treibende kraft und motivator:in arbeitest du engagiert, verantwortungsbewusst und selbstständig an projekten
+du überzeugst durch deine starke lösungsorientierung sowie deine zwischenmenschlichen fähigkeiten; du hast große freude daran, neues zu lernen und fühlst dich in einem dynamischen umfeld zuhause
+du bezeichnest dich selbst als „digital native“ und verstehst dich als impulsgeber:in, der seinem umfeld zu neuen innovativen denkanstößen verhilft
+sachverhalte kannst du sehr verständlich bzw. zielgerichtet und sachbezogen präsentieren
+enthusiasmus und team-spirit sind nicht nur phrasen, sondern deine stärken
+und so sind wir:
+musik ist emotion, kreativität, abenteuer, tradition und gleichzeitig innovation – als team verfolgen wir das gemeinsame ziel, das projekt universal music stetig voranzubringen
+vielfalt, gegenseitige wertschätzung und toleranz – menschlich wie musikalisch – sind für uns essenziell, dazu werden diversität und inklusion durch people & culture und unsere better together initiative stetig unterstützt und gefördert
+wir leben eine offene kommunikation und wachsen gemeinsam – dazu begegnen wir uns auf augenhöhe mit einem “du” über alle hierarchien hinweg
+in unserem business gilt es gute entscheidungen schnell zu treffen: wir zählen auf proaktive mitarbeitende, die vorausdenken und unkomplizierte lösungen finden
+gemeinsam übernehmen wir verantwortung, auch über unser tagesgeschäft hinaus, daher setzen wir uns mit unseren sustainability workgroups aktiv für mehr nachhaltigkeit und umweltschutz ein
+unsere benefits – weil du uns wichtig bist:
+durch unser hybrides arbeitsmodell bist du flexibel und findest stets raum für kreative kollaboration und begegnungen
+bewege dich nachhaltig durch die hauptstadt dank vergünstigungen bei der bvg (öffentlicher nahverkehr) und unserem job-rad leasing angebot
+entwickle dich durch diverse weiterbildungsangebote stetig weiter
+erhalte support für alle herausforderungen des lebens – beruflich wie auch privat – durch unternehmensunabhängige beratungs- und coachingsangebote
+bleibe gesund durch diverse sportangebote sowie gesunde ernährung in unserer kantine, die von uns bezuschusst wird
 #joinuniversalmusic
-we look forward to receiving your application via our online application form! please upload your documents (letter of motivation / cover letter, cv, references) as files and state your earliest starting date as well as salary expectations.
+wir freuen uns auf deine online-bewerbung über unser bewerbungsformular! bitte lade dort deine aussagekräftigen unterlagen (motivationsschreiben, lebenslauf, zeugnisse) als dateien hoch und benenne in den fragefeldern deinen frühesten eintrittstermin sowie deine gehaltsvorstellung.
