@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome Page</title>
+</head>
+<body>
+
+<h2>Filter Jobs</h2>
+
+<p>Choose from drop-down list:</p>
+
+<form>
+  <label for="job role">Role</label>
+  <select name="jobs">
+    <option value="NONE">None</option>
+    <option value="DS">Data Scientist</option>
+    <option value="DE">Data Engineer</option>
+    <option value="DA">Data Analyst</option>
+  </select>
+  <br><br>
+</form>
+
+<form>
+    <label for="location">Location</label>
+    <select name="location">
+        <option value="ALL">ALL</option>
+        <option value="BER">Berlin</option>
+        <option value="MUN">Munich</option>
+        <option value="FKF">Frankfurt</option>
+    </select>
+    <br><br>
+
+    <input type="radio" id= "location" name = "Subs" value="daily"> Subscribe Daily
+    <input type="radio" id="location"> Subscribe Weekly
+    <input type="radio" id="location" > Subscribe Monthly <br><br>
+
+    <input type="submit"> <br><br>
+</body>
+</html>

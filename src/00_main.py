@@ -1,6 +1,7 @@
 import os
 import spark_setup
 from importlib import import_module
+import datetime as dt
 
 scrap_info_01 = import_module("01_scrap_job_information", package=None)
 basic_cleanup_02 = import_module("02_pipeline_wrangling", package=None)
@@ -10,6 +11,7 @@ spark_setup = import_module("spark_setup", package=None)
 save_files = import_module("save_files", package=None)
 
 csv_path = '/Users/khazi/Documents/projects/indeed-job-scrapper/csv_files/'
+output_path = '/Users/khazi/Documents/projects/indeed-job-scrapper/output_dataframe/'
 
 
 def main():
@@ -19,9 +21,9 @@ def main():
     os.chdir(os.path.dirname(__file__))
     raw_file_path = "../job_description_files/"
     job_position = ["Data Engineer", "Data Analyst", "Data Scientist", "Business Intelligence"]
-    locations = ["Aachen", "Berlin", "Hamburg", "Dresden", "Leipzig", "Bremen", "Dresden", "Frankfurt", "Stuttgart"
-                "Nürnberg", "Bonn", "Karlsruhe", "Freiburg", "München", "Erlangen", "Kaiserslautern", "Cottbus", "Heidelberg",
-                "Darmstadt", "Erfurt", ]
+    #locations = ["Aachen", "Berlin", "Hamburg", "Dresden", "Leipzig", "Bremen", "Dresden", "Frankfurt", "Stuttgart"
+    #            "Nürnberg", "Bonn", "Karlsruhe", "Freiburg", "München", "Erlangen", "Kaiserslautern", "Cottbus", "Heidelberg", "Darmstadt", "Erfurt", ]
+    locations = ["Berlin", "Leipzig"]
     date_posted = 1
     source_website = "indeed"
 
@@ -39,8 +41,8 @@ def main():
             df = add_info_to_df.pos_loc_source(spark, df_cleaned, temp_pos, location, source_website)
             df_empty = df_empty.union(df)
 
-    save_files.to_csv(csv_path, df_empty)
-    print(df_empty)
+    save_files.to_csv(spark, csv_path, df_empty)
+    save_files.append_dataframe(output_path, df_empty)
 
 
 if __name__ == '__main__':

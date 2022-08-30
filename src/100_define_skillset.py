@@ -2,7 +2,7 @@ def define_skills():
 
     de_skills = dict()
     de_skills["Programming"] = ["python", "java", "javascript", "scala", "pyspark", "spark", "react", "html5", "css",
-                                "typescript", "nextjs", "nodejs", "rust", "html", "extjs",]
+                                "typescript", "nextjs", "nodejs", "rust", "templates", "extjs",]
     de_skills["Database"] = ["sql", "postgresql", "mongodb", "nosql", "ElasticSearch", "RabbitMQ", "snowflake", "redshift"]
     de_skills["Frameworks"] = ["django", "kubernetes", "django", "airflow"]
     de_skills["Technologies"] = ["ci/cd", "github", "github actions", "gitlab", "docker", "ml", "tensorflow", "pytorch",
