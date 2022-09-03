@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+
+</head>
+<body>
+<div>
+    <center><h1><span>JobScribe</span></h1></center>
+</div>
+<br><br>
+<center>
+    <form method="get">
+    <label for="uname">Username</label>
+    <input id="uname" type="text" name="" placeholder="Username"><br><br>
+    <label for="email">Email</label>
+    <input id="email" type="email" name="" placeholder="@email.com" required><br><br>
+    <label for="pwd">Password</label>
+    <input id="pwd" type="password" name="" placeholder="password" required> <br><br>
+
+    <input type="submit" name="login" value="Login">
+    <input type="submit" name="signup" value="Signup">
+
+</form></center>
+<ol></ol>
+<img src="{{ user_image }}">
+</body>
+</html>

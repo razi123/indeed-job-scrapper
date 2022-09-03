@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-	return render_template("home.html")
+	return render_template("login.html")
 
 database= {"razi" : "123"}
 
@@ -16,7 +16,7 @@ def login():
 	pwd = request.form['password']
 	if name1 in database:
 		if database[name1]!= pwd:
-			return render_template("home.html", info="Invalid Password")
+			return render_template("login.html", info="Invalid Password")
 		else:
 			return render_template("welcome.html", name=name1)
 	else:
@@ -33,5 +33,5 @@ def signup():
 
 
 if __name__ == "__main__":
-	app.run(host='0.0.0.0', port=3000, debug=True)
+	app.run(host='0.0.0.0', port=4000, debug=True)
 

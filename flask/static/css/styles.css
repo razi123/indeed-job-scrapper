@@ -1,0 +1,25 @@
+body
+{
+    /*background-color: powderblue; */
+     background-color: #301934;
+}
+h1
+{
+color: rgba(235, 152, 52)
+}
+
+span{
+    font-family: monospace;
+    background-color : white;
+    border-width: 3px;
+    border: black;
+    border-style:inset;
+}
+
+form{
+    color: white;
+    font-weight: Bold;
+    display: inline-block;
+    padding: 10px;
+}
+
