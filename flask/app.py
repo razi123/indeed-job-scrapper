@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-	return render_template("login.html")
+	return render_template("base.html")
 
 database= {"razi" : "123"}
 
@@ -30,6 +30,11 @@ def signup():
 
 	database[name2] = pwd2
 	return render_template("welcome.html", name=name2)
+
+
+@app.route("/subscribe_jobs")
+def subscribe_jobs():
+	return render_template("subscribe_jobs.html")
 
 
 if __name__ == "__main__":

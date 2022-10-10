@@ -18,7 +18,6 @@ def index():
 def signup():
 	return render_template("signup.html")
 
-
 @test_app.route("/thankyou")
 def thankyou():
 	username = request.args.get("username")
@@ -38,4 +37,4 @@ def subscribe_jobs():
 
 
 if __name__ == "__main__":
-	test_app.run(host='0.0.0.0', port=5000, debug=True)
+	test_app.run(host='0.0.0.0', port=6000, debug=True)

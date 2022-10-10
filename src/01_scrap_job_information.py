@@ -19,9 +19,9 @@ class Myjobs:
 
     def browser_jobs(self):
         options = webdriver.ChromeOptions()
-        # options.add_experimental_option("debuggerAddress", "localhost:8989")   # using existing chrome browser
+        #options.add_experimental_option("debuggerAddress", "localhost:8989")   # using existing chrome browser
         options.add_argument("--headless")                # runs without invoking the browser
-        options.add_experimental_option("detach", True)
+        #options.add_experimental_option("detach", True)
         options.add_argument("--disable-infobars")
         driver = webdriver.Chrome(options=options)
         driver.get(self.website)
