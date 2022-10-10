@@ -1,0 +1,15 @@
+{
+	"name": "adf-khazi",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "35416dc2-49f0-42ea-9394-daa9942cc655",
+		"tenantId": "07d3011c-8081-4190-902e-92d2c2e8963e",
+		"userAssignedIdentities": {
+			"/subscriptions/6b161a49-4d68-4bc9-a1ad-0884eb5e686d/resourcegroups/RGGDPTargetSolutionDev20/providers/Microsoft.ManagedIdentity/userAssignedIdentities/MIGDPTargetSolutionDev20": {
+				"clientId": "5fd3176e-6256-4f99-a860-c1fd3f91e105",
+				"principalId": "b65f98e8-4b22-4974-b9bc-79418b843b27"
+			}
+		}
+	}
+}
